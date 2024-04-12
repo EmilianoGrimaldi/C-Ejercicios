@@ -1,0 +1,19 @@
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.exe
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.deps.json
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.dll
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.pdb
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.dll
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\refint\Ejercicio I05 - Aprendete las tablas.dll
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.pdb
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\ref\Ejercicio I05 - Aprendete las tablas.dll
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercicio I05 - Aprendete las tablas.csproj.AssemblyReference.cache
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\source\repos\Ejercicio I05 - Aprendete las tablas\obj\Debug\net6.0\Ejercici.FE45CD2F.Up2Date

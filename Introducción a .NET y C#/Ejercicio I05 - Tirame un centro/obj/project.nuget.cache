@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6O0LWnpZCmNyqgm4qPGVe4eedYdHoP9arlPugQVkT49PzAxiDDIhsXFFHObHOO6aTnqhQfmHNRTdSrtbTUlQBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I05 - Tirame un centro\\Ejercicio I05 - Tirame un centro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

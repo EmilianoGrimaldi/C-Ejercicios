@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9u39lvQxXBMQ3biW0YH0zVAtYoA7fRBhhDOCbfat+t3wTg5yIyhF+H4a9H5pdgMvHVjtpPVHLHMX3pqpHMxAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I08 - Dibujando un triángulo rectángulo\\Ejercicio I08 - Dibujando un triángulo rectángulo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

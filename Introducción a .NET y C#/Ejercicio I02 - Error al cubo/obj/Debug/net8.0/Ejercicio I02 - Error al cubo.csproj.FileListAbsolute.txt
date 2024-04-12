@@ -1,0 +1,15 @@
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\bin\Debug\net8.0\Ejercicio I02 - Error al cubo.exe
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\bin\Debug\net8.0\Ejercicio I02 - Error al cubo.deps.json
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\bin\Debug\net8.0\Ejercicio I02 - Error al cubo.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\bin\Debug\net8.0\Ejercicio I02 - Error al cubo.dll
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\bin\Debug\net8.0\Ejercicio I02 - Error al cubo.pdb
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\Ejercicio I02 - Error al cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\Ejercicio I02 - Error al cubo.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\Ejercicio I02 - Error al cubo.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\Ejercicio I02 - Error al cubo.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\Ejercicio I02 - Error al cubo.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\Ejercicio I02 - Error al cubo.dll
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\refint\Ejercicio I02 - Error al cubo.dll
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\Ejercicio I02 - Error al cubo.pdb
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\Ejercicio I02 - Error al cubo.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I02 - Error al cubo\obj\Debug\net8.0\ref\Ejercicio I02 - Error al cubo.dll

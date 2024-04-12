@@ -1,0 +1,19 @@
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Tema 02 - Clases y métodos estáticos.exe
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Tema 02 - Clases y métodos estáticos.deps.json
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Tema 02 - Clases y métodos estáticos.runtimeconfig.json
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Tema 02 - Clases y métodos estáticos.dll
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Tema 02 - Clases y métodos estáticos.pdb
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.sourcelink.json
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.dll
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\refint\Tema 02 - Clases y métodos estáticos.dll
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.pdb
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\ref\Tema 02 - Clases y métodos estáticos.dll
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 - Clases y métodos estáticos.csproj.AssemblyReference.cache
+C:\Users\Emy\source\repos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Tema 02 .73084273.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.exe
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.deps.json
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.dll
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.pdb
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.dll
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\refint\Ejercicio I09 - Dibujando un triángulo equilátero.dll
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.pdb
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\Ejercicio I09 - Dibujando un triángulo equilátero.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\ref\Ejercicio I09 - Dibujando un triángulo equilátero.dll

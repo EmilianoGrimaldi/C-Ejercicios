@@ -1,0 +1,19 @@
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.exe
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.deps.json
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.dll
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.pdb
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.csproj.AssemblyReference.cache
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercici.ACB04779.Up2Date
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.dll
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\refint\Ejercicio I06 - Calculadora de áreas.dll
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.pdb
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\ref\Ejercicio I06 - Calculadora de áreas.dll

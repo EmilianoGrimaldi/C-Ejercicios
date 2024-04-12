@@ -1,0 +1,18 @@
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Ejercicio I01 - Validador de rangos.exe
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Ejercicio I01 - Validador de rangos.deps.json
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Ejercicio I01 - Validador de rangos.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Ejercicio I01 - Validador de rangos.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Ejercicio I01 - Validador de rangos.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercicio I01 - Validador de rangos.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercicio I01 - Validador de rangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercicio I01 - Validador de rangos.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercicio I01 - Validador de rangos.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercicio I01 - Validador de rangos.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercici.A65EAB11.Up2Date
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercicio I01 - Validador de rangos.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\refint\Ejercicio I01 - Validador de rangos.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercicio I01 - Validador de rangos.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\Ejercicio I01 - Validador de rangos.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Tema 02 - Clases y métodos estáticos\obj\Debug\net6.0\ref\Ejercicio I01 - Validador de rangos.dll

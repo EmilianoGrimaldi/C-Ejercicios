@@ -1,0 +1,15 @@
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.exe
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.deps.json
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.dll
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.pdb
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.dll
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\refint\Ejercicio I08 - Dibujando un triángulo rectángulo.dll
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.pdb
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\Ejercicio I08 - Dibujando un triángulo rectángulo.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\ref\Ejercicio I08 - Dibujando un triángulo rectángulo.dll

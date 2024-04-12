@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C003F7C6-FF6C-4FD1-A121-B2320F309D57}|Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Ejercicio I01 - Creo que necesito un pr\u00E9stamo.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\ejercicio i01 - creo que necesito un pr\u00E9stamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C003F7C6-FF6C-4FD1-A121-B2320F309D57}|Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Ejercicio I01 - Creo que necesito un pr\u00E9stamo.csproj|solutionrelative:ejercicio i01 - creo que necesito un pr\u00E9stamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Program.cs",
+              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Program.cs",
+              "RelativeToolTip": "Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:03:57.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

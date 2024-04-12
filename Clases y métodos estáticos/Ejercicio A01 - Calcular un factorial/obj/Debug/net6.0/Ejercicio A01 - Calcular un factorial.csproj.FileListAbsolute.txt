@@ -1,0 +1,37 @@
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.exe
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.deps.json
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.dll
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.pdb
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.dll
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\refint\Ejercicio A01 - Calcular un factorial.dll
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.pdb
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\ref\Ejercicio A01 - Calcular un factorial.dll
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.csproj.AssemblyReference.cache
+C:\Users\Emy\source\repos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercici.587E9177.Up2Date
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.exe
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.deps.json
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercici.587E9177.Up2Date
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\refint\Ejercicio A01 - Calcular un factorial.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\ref\Ejercicio A01 - Calcular un factorial.dll

@@ -1,0 +1,15 @@
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\bin\Debug\net6.0\Ejercicio I04 - Un número perfecto.exe
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\bin\Debug\net6.0\Ejercicio I04 - Un número perfecto.deps.json
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\bin\Debug\net6.0\Ejercicio I04 - Un número perfecto.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\bin\Debug\net6.0\Ejercicio I04 - Un número perfecto.dll
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\bin\Debug\net6.0\Ejercicio I04 - Un número perfecto.pdb
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\Ejercicio I04 - Un número perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\Ejercicio I04 - Un número perfecto.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\Ejercicio I04 - Un número perfecto.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\Ejercicio I04 - Un número perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\Ejercicio I04 - Un número perfecto.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\Ejercicio I04 - Un número perfecto.dll
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\refint\Ejercicio I04 - Un número perfecto.dll
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\Ejercicio I04 - Un número perfecto.pdb
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\Ejercicio I04 - Un número perfecto.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I04 - Un número perfecto\obj\Debug\net6.0\ref\Ejercicio I04 - Un número perfecto.dll

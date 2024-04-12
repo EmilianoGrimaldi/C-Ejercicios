@@ -1,0 +1,15 @@
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.exe
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.deps.json
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\bin\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.pdb
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\refint\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.pdb
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\Ejercicio I01 - Máximo, mínimo y promedio.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I01 - Máximo, mínimo y promedio\obj\Debug\net8.0\ref\Ejercicio I01 - Máximo, mínimo y promedio.dll

@@ -1,0 +1,15 @@
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\bin\Debug\net6.0\Ejercicio I05 - Tirame un centro.exe
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\bin\Debug\net6.0\Ejercicio I05 - Tirame un centro.deps.json
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\bin\Debug\net6.0\Ejercicio I05 - Tirame un centro.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\bin\Debug\net6.0\Ejercicio I05 - Tirame un centro.dll
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\bin\Debug\net6.0\Ejercicio I05 - Tirame un centro.pdb
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\Ejercicio I05 - Tirame un centro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\Ejercicio I05 - Tirame un centro.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\Ejercicio I05 - Tirame un centro.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\Ejercicio I05 - Tirame un centro.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\Ejercicio I05 - Tirame un centro.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\Ejercicio I05 - Tirame un centro.dll
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\refint\Ejercicio I05 - Tirame un centro.dll
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\Ejercicio I05 - Tirame un centro.pdb
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\Ejercicio I05 - Tirame un centro.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I05 - Tirame un centro\obj\Debug\net6.0\ref\Ejercicio I05 - Tirame un centro.dll

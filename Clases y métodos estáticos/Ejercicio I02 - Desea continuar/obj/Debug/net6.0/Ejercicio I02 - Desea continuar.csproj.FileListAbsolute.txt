@@ -1,0 +1,19 @@
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\bin\Debug\net6.0\Ejercicio I02 - Desea continuar.exe
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\bin\Debug\net6.0\Ejercicio I02 - Desea continuar.deps.json
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\bin\Debug\net6.0\Ejercicio I02 - Desea continuar.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\bin\Debug\net6.0\Ejercicio I02 - Desea continuar.dll
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\bin\Debug\net6.0\Ejercicio I02 - Desea continuar.pdb
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.csproj.AssemblyReference.cache
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercici.8452B612.Up2Date
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.dll
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\refint\Ejercicio I02 - Desea continuar.dll
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.pdb
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\Ejercicio I02 - Desea continuar.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I02 - Desea continuar\obj\Debug\net6.0\ref\Ejercicio I02 - Desea continuar.dll

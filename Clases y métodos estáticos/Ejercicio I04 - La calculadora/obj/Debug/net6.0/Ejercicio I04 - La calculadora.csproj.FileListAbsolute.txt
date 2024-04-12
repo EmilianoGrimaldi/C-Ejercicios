@@ -1,0 +1,19 @@
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.csproj.AssemblyReference.cache
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.exe
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.deps.json
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.dll
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.pdb
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercici.DF6DF8ED.Up2Date
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.dll
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\refint\Ejercicio I04 - La calculadora.dll
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.pdb
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I04 - La calculadora\obj\Debug\net6.0\ref\Ejercicio I04 - La calculadora.dll

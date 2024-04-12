@@ -1,0 +1,19 @@
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.exe
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.deps.json
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.pdb
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.csproj.AssemblyReference.cache
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercici.899846A9.Up2Date
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\refint\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.pdb
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\ref\Ejercicio I07 - Pitágoras estaría orgulloso.dll

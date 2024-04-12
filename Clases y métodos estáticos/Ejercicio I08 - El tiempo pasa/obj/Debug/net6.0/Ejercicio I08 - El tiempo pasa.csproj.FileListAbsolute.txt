@@ -1,0 +1,37 @@
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.exe
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.deps.json
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.runtimeconfig.json
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.pdb
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.AssemblyInfo.cs
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.sourcelink.json
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\refint\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.pdb
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.genruntimeconfig.cache
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\ref\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.csproj.AssemblyReference.cache
+C:\Users\Emy\source\repos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercici.AE418309.Up2Date
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.exe
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.deps.json
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Entidades.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercici.AE418309.Up2Date
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\refint\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.pdb
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Clases y métodos estáticos\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\ref\Ejercicio I08 - El tiempo pasa.dll
