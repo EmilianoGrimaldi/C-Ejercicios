@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Sw2DG5yYQh2upZTCSYZ5bslR6eXw0fHCXaHOJ3tOJgiDA5LNip1lmqtc+jKi6dD54cUaJCNdu8ImRvtUk3aRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Cuenta\\Entidades.Cuenta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

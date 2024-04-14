@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J6UjO2SWV+c0niKoDDpRBm5RRsa0W0C3iN2OGDtvxQnkxA3QHK83KrWzL7Hczkv1UinrA+TWpCi0ZbJs58L0Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

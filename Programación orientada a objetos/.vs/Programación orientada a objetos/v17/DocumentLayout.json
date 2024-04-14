@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C003F7C6-FF6C-4FD1-A121-B2320F309D57}|Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Ejercicio I01 - Creo que necesito un pr\u00E9stamo.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\ejercicio i01 - creo que necesito un pr\u00E9stamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C003F7C6-FF6C-4FD1-A121-B2320F309D57}|Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Ejercicio I01 - Creo que necesito un pr\u00E9stamo.csproj|solutionrelative:ejercicio i01 - creo que necesito un pr\u00E9stamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3117FE2A-4304-43B7-A684-965A65EB8FD1}|Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\biblioteca.ejercicio i04\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3117FE2A-4304-43B7-A684-965A65EB8FD1}|Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj|solutionrelative:biblioteca.ejercicio i04\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2747046-D1FB-456A-8049-2971199E5B20}|Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\ejercicio i04 - invento argentino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2747046-D1FB-456A-8049-2971199E5B20}|Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj|solutionrelative:ejercicio i04 - invento argentino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Program.cs",
-              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Program.cs",
-              "RelativeToolTip": "Ejercicio I01 - Creo que necesito un pr\u00E9stamo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Boligrafo.cs",
+              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Biblioteca.Ejercicio I04\\Boligrafo.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Ejercicio I04\\Boligrafo.cs",
+              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Biblioteca.Ejercicio I04\\Boligrafo.cs",
+              "RelativeToolTip": "Biblioteca.Ejercicio I04\\Boligrafo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:03:57.875Z",
+              "WhenOpened": "2024-04-13T18:16:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Ejercicio I04 - Invento argentino\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio I04 - Invento argentino\\Program.cs",
+              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Ejercicio I04 - Invento argentino\\Program.cs",
+              "RelativeToolTip": "Ejercicio I04 - Invento argentino\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:11:27.126Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,19 @@
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.exe
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.deps.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Ejercicio I04 - Invento argentino.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Biblioteca.Ejercicio I04.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\bin\Debug\net6.0\Biblioteca.Ejercicio I04.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.sourcelink.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercici.E75D5ACC.Up2Date
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\refint\Ejercicio I04 - Invento argentino.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\Ejercicio I04 - Invento argentino.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I04 - Invento argentino\obj\Debug\net6.0\ref\Ejercicio I04 - Invento argentino.dll

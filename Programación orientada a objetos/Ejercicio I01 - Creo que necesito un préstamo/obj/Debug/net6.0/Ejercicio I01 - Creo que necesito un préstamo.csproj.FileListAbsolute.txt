@@ -1,0 +1,19 @@
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.exe
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.deps.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Entidades.Cuenta.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Entidades.Cuenta.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.sourcelink.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercici.E0B0B5AB.Up2Date
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\refint\Ejercicio I01 - Creo que necesito un préstamo.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\ref\Ejercicio I01 - Creo que necesito un préstamo.dll

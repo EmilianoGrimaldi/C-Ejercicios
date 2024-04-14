@@ -1,0 +1,19 @@
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.exe
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.deps.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net6.0\Entidades.Persona.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\bin\Debug\net6.0\Entidades.Persona.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.sourcelink.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercici.80D0294A.Up2Date
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\refint\Ejercicio I02 - Vos cuántas primaveras tenés.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - Vos cuántas primaveras tenés.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I02 - Vos cuántas primaveras tenés\obj\Debug\net6.0\ref\Ejercicio I02 - Vos cuántas primaveras tenés.dll

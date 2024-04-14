@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio I01 - Creo que necesito un préstamo/1.0.0": {
+        "dependencies": {
+          "Entidades.Cuenta": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I01 - Creo que necesito un préstamo.dll": {}
+        }
+      },
+      "Entidades.Cuenta/1.0.0": {
+        "runtime": {
+          "Entidades.Cuenta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I01 - Creo que necesito un préstamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades.Cuenta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

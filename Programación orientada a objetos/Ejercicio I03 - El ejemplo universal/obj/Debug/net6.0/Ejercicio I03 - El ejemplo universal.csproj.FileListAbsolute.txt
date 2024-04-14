@@ -1,0 +1,19 @@
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\bin\Debug\net6.0\Ejercicio I03 - El ejemplo universal.exe
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\bin\Debug\net6.0\Ejercicio I03 - El ejemplo universal.deps.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\bin\Debug\net6.0\Ejercicio I03 - El ejemplo universal.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\bin\Debug\net6.0\Ejercicio I03 - El ejemplo universal.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\bin\Debug\net6.0\Ejercicio I03 - El ejemplo universal.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\bin\Debug\net6.0\Entidades.Alumno.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\bin\Debug\net6.0\Entidades.Alumno.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.sourcelink.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercici.7B5AAAE7.Up2Date
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\refint\Ejercicio I03 - El ejemplo universal.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\Ejercicio I03 - El ejemplo universal.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Ejercicio I03 - El ejemplo universal\obj\Debug\net6.0\ref\Ejercicio I03 - El ejemplo universal.dll
