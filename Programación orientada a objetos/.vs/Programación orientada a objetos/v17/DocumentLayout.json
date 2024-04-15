@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3117FE2A-4304-43B7-A684-965A65EB8FD1}|Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\biblioteca.ejercicio i04\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3117FE2A-4304-43B7-A684-965A65EB8FD1}|Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj|solutionrelative:biblioteca.ejercicio i04\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2747046-D1FB-456A-8049-2971199E5B20}|Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\ejercicio i04 - invento argentino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2747046-D1FB-456A-8049-2971199E5B20}|Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj|solutionrelative:ejercicio i04 - invento argentino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5727A51-0749-47B3-A3BF-8EC3419D32F6}|Biblioteca.Ejercicio I05\\Biblioteca.Ejercicio I05.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\biblioteca.ejercicio i05\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5727A51-0749-47B3-A3BF-8EC3419D32F6}|Biblioteca.Ejercicio I05\\Biblioteca.Ejercicio I05.csproj|solutionrelative:biblioteca.ejercicio i05\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Boligrafo.cs",
-              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Biblioteca.Ejercicio I04\\Boligrafo.cs",
-              "RelativeDocumentMoniker": "Biblioteca.Ejercicio I04\\Boligrafo.cs",
-              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Biblioteca.Ejercicio I04\\Boligrafo.cs",
-              "RelativeToolTip": "Biblioteca.Ejercicio I04\\Boligrafo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAALAAAA",
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Biblioteca.Ejercicio I05\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Ejercicio I05\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Biblioteca.Ejercicio I05\\Rectangulo.cs",
+              "RelativeToolTip": "Biblioteca.Ejercicio I05\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T18:16:27.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Ejercicio I04 - Invento argentino\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio I04 - Invento argentino\\Program.cs",
-              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Ejercicio I04 - Invento argentino\\Program.cs",
-              "RelativeToolTip": "Ejercicio I04 - Invento argentino\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T18:11:27.126Z",
+              "WhenOpened": "2024-04-15T02:42:08.894Z",
               "EditorCaption": ""
             }
           ]

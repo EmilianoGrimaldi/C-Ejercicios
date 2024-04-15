@@ -1,0 +1,12 @@
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\bin\Debug\net6.0\Biblioteca.Ejercicio I05.deps.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\bin\Debug\net6.0\Biblioteca.Ejercicio I05.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\bin\Debug\net6.0\Biblioteca.Ejercicio I05.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\Biblioteca.Ejercicio I05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\Biblioteca.Ejercicio I05.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\Biblioteca.Ejercicio I05.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\Biblioteca.Ejercicio I05.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\Biblioteca.Ejercicio I05.sourcelink.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\Biblioteca.Ejercicio I05.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\refint\Biblioteca.Ejercicio I05.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\Biblioteca.Ejercicio I05.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\Biblioteca.Ejercicio I05\obj\Debug\net6.0\ref\Biblioteca.Ejercicio I05.dll

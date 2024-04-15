@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "At0iq2T23SVcZGn03BYTYLq84j/4uF9Ms/reSLjh8kMggfMSOXV08SLa932m8RnNJCW+drSq6fcml/1NP85RCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I05\\Biblioteca.Ejercicio I05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

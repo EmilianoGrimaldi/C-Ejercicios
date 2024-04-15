@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I03 - El ejemplo 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades.Alumno", "Entidades.Alumno\Entidades.Alumno.csproj", "{E50CE4B4-083C-441B-826A-022FB441A154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I04 - Invento argentino", "Ejercicio I04 - Invento argentino\Ejercicio I04 - Invento argentino.csproj", "{E2747046-D1FB-456A-8049-2971199E5B20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I04 - Invento argentino", "Ejercicio I04 - Invento argentino\Ejercicio I04 - Invento argentino.csproj", "{E2747046-D1FB-456A-8049-2971199E5B20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Ejercicio I04", "Biblioteca.Ejercicio I04\Biblioteca.Ejercicio I04.csproj", "{3117FE2A-4304-43B7-A684-965A65EB8FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca.Ejercicio I04", "Biblioteca.Ejercicio I04\Biblioteca.Ejercicio I04.csproj", "{3117FE2A-4304-43B7-A684-965A65EB8FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I05 - Prueba de geometría", "I05 - Prueba de geometría\I05 - Prueba de geometría.csproj", "{8B664BDF-B4B3-4D01-B354-878F338BAAD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Ejercicio I05", "Biblioteca.Ejercicio I05\Biblioteca.Ejercicio I05.csproj", "{F5727A51-0749-47B3-A3BF-8EC3419D32F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{3117FE2A-4304-43B7-A684-965A65EB8FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3117FE2A-4304-43B7-A684-965A65EB8FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3117FE2A-4304-43B7-A684-965A65EB8FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B664BDF-B4B3-4D01-B354-878F338BAAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B664BDF-B4B3-4D01-B354-878F338BAAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B664BDF-B4B3-4D01-B354-878F338BAAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B664BDF-B4B3-4D01-B354-878F338BAAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5727A51-0749-47B3-A3BF-8EC3419D32F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5727A51-0749-47B3-A3BF-8EC3419D32F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5727A51-0749-47B3-A3BF-8EC3419D32F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5727A51-0749-47B3-A3BF-8EC3419D32F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

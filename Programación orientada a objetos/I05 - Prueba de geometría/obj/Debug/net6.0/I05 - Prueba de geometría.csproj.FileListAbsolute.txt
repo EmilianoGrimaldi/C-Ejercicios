@@ -1,0 +1,19 @@
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.exe
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.deps.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\bin\Debug\net6.0\Biblioteca.Ejercicio I05.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\bin\Debug\net6.0\Biblioteca.Ejercicio I05.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.sourcelink.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Pr.EE30B462.Up2Date
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\refint\I05 - Prueba de geometría.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\I05 - Prueba de geometría\obj\Debug\net6.0\ref\I05 - Prueba de geometría.dll
