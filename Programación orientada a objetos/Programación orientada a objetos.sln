@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I04 - Invento arg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca.Ejercicio I04", "Biblioteca.Ejercicio I04\Biblioteca.Ejercicio I04.csproj", "{3117FE2A-4304-43B7-A684-965A65EB8FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I05 - Prueba de geometría", "I05 - Prueba de geometría\I05 - Prueba de geometría.csproj", "{8B664BDF-B4B3-4D01-B354-878F338BAAD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I05 - Prueba de geometría", "I05 - Prueba de geometría\I05 - Prueba de geometría.csproj", "{8B664BDF-B4B3-4D01-B354-878F338BAAD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Ejercicio I05", "Biblioteca.Ejercicio I05\Biblioteca.Ejercicio I05.csproj", "{F5727A51-0749-47B3-A3BF-8EC3419D32F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca.Ejercicio I05", "Biblioteca.Ejercicio I05\Biblioteca.Ejercicio I05.csproj", "{F5727A51-0749-47B3-A3BF-8EC3419D32F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.Veterinaria", "Entidades.Veterinaria\Entidades.Veterinaria.csproj", "{45496794-BABA-495F-95C8-FCD716532B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A02 - La veterinaria", "A02 - La veterinaria\A02 - La veterinaria.csproj", "{BE3BD6C0-4332-494F-A7D5-4A3699353EC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{F5727A51-0749-47B3-A3BF-8EC3419D32F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5727A51-0749-47B3-A3BF-8EC3419D32F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5727A51-0749-47B3-A3BF-8EC3419D32F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45496794-BABA-495F-95C8-FCD716532B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45496794-BABA-495F-95C8-FCD716532B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45496794-BABA-495F-95C8-FCD716532B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45496794-BABA-495F-95C8-FCD716532B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3BD6C0-4332-494F-A7D5-4A3699353EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3BD6C0-4332-494F-A7D5-4A3699353EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3BD6C0-4332-494F-A7D5-4A3699353EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3BD6C0-4332-494F-A7D5-4A3699353EC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

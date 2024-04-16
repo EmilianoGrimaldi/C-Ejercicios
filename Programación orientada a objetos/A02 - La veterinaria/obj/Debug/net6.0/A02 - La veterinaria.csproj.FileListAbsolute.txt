@@ -1,0 +1,19 @@
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\bin\Debug\net6.0\A02 - La veterinaria.exe
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\bin\Debug\net6.0\A02 - La veterinaria.deps.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\bin\Debug\net6.0\A02 - La veterinaria.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\bin\Debug\net6.0\A02 - La veterinaria.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\bin\Debug\net6.0\A02 - La veterinaria.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\bin\Debug\net6.0\Entidades.Veterinaria.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\bin\Debug\net6.0\Entidades.Veterinaria.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.sourcelink.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La.2BD7D34E.Up2Date
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\refint\A02 - La veterinaria.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\A02 - La veterinaria.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria\obj\Debug\net6.0\ref\A02 - La veterinaria.dll

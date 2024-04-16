@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkE7bsCG+tcPmUSwlletV6Jvzse43DKqsR9A5iq5wz7UVgUhdkLmn7UQ/GsOr5+v3X9Ga70rjzE3sxWTflptmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria\\A02 - La veterinaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
