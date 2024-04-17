@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio I04 - Invento argentino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9b76e68bd659a8f5e3164abadacdd4a531763b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+128543a3acd250dfdad3799adc0e7dd69e4c064b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio I04 - Invento argentino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio I04 - Invento argentino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

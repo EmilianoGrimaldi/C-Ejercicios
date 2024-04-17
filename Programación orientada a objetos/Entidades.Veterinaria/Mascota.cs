@@ -4,13 +4,11 @@ namespace Entidades.Veterinaria
 {
     public class Mascota
     {
-        /*
-        De las mascotas necesita conocer su especie, su nombre, su fecha de nacimiento y su historial de vacunación. Los primeros tres datos son obligatorios para dar de alta una mascota, mientras que el último arrancará vacío y se podrá ir agregando vacunas. De las vacunas sólo interesa conocer el nombre.
-        */
+        
         private string especie;
         private string nombre;
         private DateTime fechaNacimiento;
-        private List<string> vacunas;
+        private List<Vacuna> vacunas;
 
         public Mascota(string especie, string nombre, DateTime fechaNacimiento)
         {
@@ -20,7 +18,7 @@ namespace Entidades.Veterinaria
             vacunas = new();
         }
 
-        public void SetVacuna(string vacuna)
+        public void SetVacuna(Vacuna vacuna)
         {
             vacunas.Add(vacuna);
         }
@@ -38,13 +36,25 @@ namespace Entidades.Veterinaria
             string auxiliar = "";
             if (vacunas.Count > 0)
             {
-                auxiliar = string.Join(", ",vacunas);
+                auxiliar = SepararVacunas(", ");
             }
             else
             {
                 auxiliar = "No tiene";
             }
             return auxiliar;
+        }
+
+        private string SepararVacunas(string separador)
+        {
+            List<string> vacs = new();
+
+            foreach (var vac in vacunas)
+            {
+                vacs.Add(vac.GetNombre());
+            }
+
+            return string.Join(separador, vacs);
         }
     }
 }

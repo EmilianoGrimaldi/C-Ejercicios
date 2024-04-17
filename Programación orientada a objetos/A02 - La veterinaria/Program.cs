@@ -25,12 +25,14 @@ namespace A02___La_veterinaria
             Mascota mascota3 = new("Gato", "Salem", new(2024, 1, 31));
             Mascota mascota4 = new("Perro", "Sam", new(2020,7,14));
 
+            Vacuna vacuna1 = new("Triple Felina");
+            Vacuna vacuna2 = new("Rabia");
             cliente1.SetMascota(mascota1);
             cliente2.SetMascota(mascota2);
-            mascota2.SetVacuna("Triple Felina");
+            mascota2.SetVacuna(vacuna1);
             cliente3.SetMascota(mascota3);
             cliente3.SetMascota(mascota4);
-            mascota4.SetVacuna("Rabia");
+            mascota4.SetVacuna(vacuna2);
 
             Console.WriteLine(cliente1.MostrarDatos());
             Console.WriteLine(cliente2.MostrarDatos());
