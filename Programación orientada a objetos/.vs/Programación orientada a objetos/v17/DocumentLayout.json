@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE3BD6C0-4332-494F-A7D5-4A3699353EC9}|A02 - La veterinaria\\A02 - La veterinaria.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\a02 - la veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3BD6C0-4332-494F-A7D5-4A3699353EC9}|A02 - La veterinaria\\A02 - La veterinaria.csproj|solutionrelative:a02 - la veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FB589AB-0BE3-4BCA-A54F-DA72053CE609}|Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\entidades.veterinariaarrays\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB589AB-0BE3-4BCA-A54F-DA72053CE609}|Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj|solutionrelative:entidades.veterinariaarrays\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45496794-BABA-495F-95C8-FCD716532B96}|Entidades.Veterinaria\\Entidades.Veterinaria.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\entidades.veterinaria\\vacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45496794-BABA-495F-95C8-FCD716532B96}|Entidades.Veterinaria\\Entidades.Veterinaria.csproj|solutionrelative:entidades.veterinaria\\vacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FB589AB-0BE3-4BCA-A54F-DA72053CE609}|Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\entidades.veterinariaarrays\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB589AB-0BE3-4BCA-A54F-DA72053CE609}|Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj|solutionrelative:entidades.veterinariaarrays\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45496794-BABA-495F-95C8-FCD716532B96}|Entidades.Veterinaria\\Entidades.Veterinaria.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\entidades.veterinaria\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45496794-BABA-495F-95C8-FCD716532B96}|Entidades.Veterinaria\\Entidades.Veterinaria.csproj|solutionrelative:entidades.veterinaria\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45496794-BABA-495F-95C8-FCD716532B96}|Entidades.Veterinaria\\Entidades.Veterinaria.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\entidades.veterinaria\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45496794-BABA-495F-95C8-FCD716532B96}|Entidades.Veterinaria\\Entidades.Veterinaria.csproj|solutionrelative:entidades.veterinaria\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{408A26C9-57E3-4D8C-B48C-4884446FB80B}|A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj|c:\\users\\emy\\desktop\\clases\\programaci\u00F3n orientada a objetos\\a02 - la veterinaria_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408A26C9-57E3-4D8C-B48C-4884446FB80B}|A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj|solutionrelative:a02 - la veterinaria_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vacuna.cs",
-              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.Veterinaria\\Vacuna.cs",
-              "RelativeDocumentMoniker": "Entidades.Veterinaria\\Vacuna.cs",
-              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.Veterinaria\\Vacuna.cs",
-              "RelativeToolTip": "Entidades.Veterinaria\\Vacuna.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\A02 - La veterinaria_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "A02 - La veterinaria_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\A02 - La veterinaria_Arrays\\Program.cs",
+              "RelativeToolTip": "A02 - La veterinaria_Arrays\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T17:55:43.126Z",
+              "WhenOpened": "2024-04-18T18:10:27.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\A02 - La veterinaria\\Program.cs",
-              "RelativeDocumentMoniker": "A02 - La veterinaria\\Program.cs",
-              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\A02 - La veterinaria\\Program.cs",
-              "RelativeToolTip": "A02 - La veterinaria\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBsAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T15:47:21.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.Veterinaria\\Cliente.cs",
-              "RelativeDocumentMoniker": "Entidades.Veterinaria\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.Veterinaria\\Cliente.cs",
-              "RelativeToolTip": "Entidades.Veterinaria\\Cliente.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAgwA0AAAAdAAAA",
+              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.VeterinariaArrays\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entidades.VeterinariaArrays\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.VeterinariaArrays\\Cliente.cs",
+              "RelativeToolTip": "Entidades.VeterinariaArrays\\Cliente.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T15:25:18.62Z",
+              "WhenOpened": "2024-04-18T17:34:11.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Mascota.cs",
-              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.Veterinaria\\Mascota.cs",
-              "RelativeDocumentMoniker": "Entidades.Veterinaria\\Mascota.cs",
-              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.Veterinaria\\Mascota.cs",
-              "RelativeToolTip": "Entidades.Veterinaria\\Mascota.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA5wDcAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.VeterinariaArrays\\Mascota.cs",
+              "RelativeDocumentMoniker": "Entidades.VeterinariaArrays\\Mascota.cs",
+              "ToolTip": "C:\\Users\\Emy\\Desktop\\Clases\\Programaci\u00F3n orientada a objetos\\Entidades.VeterinariaArrays\\Mascota.cs",
+              "RelativeToolTip": "Entidades.VeterinariaArrays\\Mascota.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADYAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T15:24:46.416Z",
+              "WhenOpened": "2024-04-18T17:34:40.282Z",
               "EditorCaption": ""
             }
           ]

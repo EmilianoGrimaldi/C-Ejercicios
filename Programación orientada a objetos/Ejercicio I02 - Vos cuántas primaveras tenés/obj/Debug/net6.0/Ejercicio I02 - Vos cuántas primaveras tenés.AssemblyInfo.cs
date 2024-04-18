@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio I02 - Vos cuántas primaveras tenés")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9b76e68bd659a8f5e3164abadacdd4a531763b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3cc2e25c58d5a4616cc88e60296732bfba9f048")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio I02 - Vos cuántas primaveras tenés")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio I02 - Vos cuántas primaveras tenés")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

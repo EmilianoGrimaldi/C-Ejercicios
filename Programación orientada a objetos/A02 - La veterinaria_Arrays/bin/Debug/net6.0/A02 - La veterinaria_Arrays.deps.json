@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A02 - La veterinaria_Arrays/1.0.0": {
+        "dependencies": {
+          "Entidades.VeterinariaArrays": "1.0.0"
+        },
+        "runtime": {
+          "A02 - La veterinaria_Arrays.dll": {}
+        }
+      },
+      "Entidades.VeterinariaArrays/1.0.0": {
+        "runtime": {
+          "Entidades.VeterinariaArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A02 - La veterinaria_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades.VeterinariaArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

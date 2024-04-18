@@ -1,0 +1,19 @@
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\bin\Debug\net6.0\A02 - La veterinaria_Arrays.exe
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\bin\Debug\net6.0\A02 - La veterinaria_Arrays.deps.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\bin\Debug\net6.0\A02 - La veterinaria_Arrays.runtimeconfig.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\bin\Debug\net6.0\A02 - La veterinaria_Arrays.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\bin\Debug\net6.0\A02 - La veterinaria_Arrays.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.AssemblyInfoInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.AssemblyInfo.cs
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.sourcelink.json
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\refint\A02 - La veterinaria_Arrays.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.genruntimeconfig.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\ref\A02 - La veterinaria_Arrays.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\bin\Debug\net6.0\Entidades.VeterinariaArrays.dll
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\bin\Debug\net6.0\Entidades.VeterinariaArrays.pdb
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La veterinaria_Arrays.csproj.AssemblyReference.cache
+C:\Users\Emy\Desktop\Clases\Programación orientada a objetos\A02 - La veterinaria_Arrays\obj\Debug\net6.0\A02 - La.0C2816D3.Up2Date
