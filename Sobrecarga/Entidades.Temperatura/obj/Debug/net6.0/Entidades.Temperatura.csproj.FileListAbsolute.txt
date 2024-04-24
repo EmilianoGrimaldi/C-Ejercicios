@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\bin\Debug\net6.0\Entidades.Temperatura.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\bin\Debug\net6.0\Entidades.Temperatura.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\bin\Debug\net6.0\Entidades.Temperatura.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\Entidades.Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\Entidades.Temperatura.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\Entidades.Temperatura.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\Entidades.Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\Entidades.Temperatura.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\Entidades.Temperatura.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\refint\Entidades.Temperatura.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\Entidades.Temperatura.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Temperatura\obj\Debug\net6.0\ref\Entidades.Temperatura.dll

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XXPRz9YkEJZBqVk5XQMstlw0J6gRmYm+QAikqwiRK5J86Zyof2HXEv9fbyY4YKLNX7IxXQi/lJ7Sv/avZDja7g==",
+  "dgSpecHash": "+ICUp+OJjGZpd9Pa3M+zHk24sUCe1NbcUKqFO+V/8WGAnnvZsDGpuM95ZD2DYkQ7HE5pCXnN7xYETQKYWbqWZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Clases y métodos estáticos\\Entidades\\Entidades.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Emi\\Desktop\\Clases\\Clases y métodos estáticos\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

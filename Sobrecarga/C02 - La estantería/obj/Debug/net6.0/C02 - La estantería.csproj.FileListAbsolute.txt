@@ -1,0 +1,19 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\bin\Debug\net6.0\C02 - La estantería.exe
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\bin\Debug\net6.0\C02 - La estantería.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\bin\Debug\net6.0\C02 - La estantería.runtimeconfig.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\bin\Debug\net6.0\C02 - La estantería.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\bin\Debug\net6.0\C02 - La estantería.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\bin\Debug\net6.0\Biblioteca.LaEstanteria.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\bin\Debug\net6.0\Biblioteca.LaEstanteria.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La.E0FA0D08.Up2Date
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\refint\C02 - La estantería.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\C02 - La estantería.genruntimeconfig.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C02 - La estantería\obj\Debug\net6.0\ref\C02 - La estantería.dll

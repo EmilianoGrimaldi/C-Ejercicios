@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IjEPFZkrd+fq/Gf3EBuh3Hwp5Blx+h4lX5pcV78hIRebuQBVB7klBmoKBOxRW7+vsE6n4rhL3FNPae1YGeERAQ==",
+  "dgSpecHash": "f37QsM9NUpUHG3mmsGXT8Fs1A/u6ozZunVDH+jd2BlhFyO6s0D4vfLisuYIzP/U5Nrm75utyqfNt+wnNWmFDsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Alumno\\Entidades.Alumno.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Alumno\\Entidades.Alumno.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

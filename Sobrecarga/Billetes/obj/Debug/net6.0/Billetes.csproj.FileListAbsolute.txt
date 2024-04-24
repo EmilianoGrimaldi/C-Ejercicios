@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\bin\Debug\net6.0\Billetes.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\bin\Debug\net6.0\Billetes.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\bin\Debug\net6.0\Billetes.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\Billetes.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\Billetes.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\Billetes.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\refint\Billetes.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\Billetes.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Billetes\obj\Debug\net6.0\ref\Billetes.dll

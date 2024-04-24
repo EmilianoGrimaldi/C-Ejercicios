@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+2T0RD39DOTugjExjJbImrYs/zGwq0fqC1Wh/MdCNpPW5O8P/roDqvZ5VZoKLrmvO7Tny5457+tQN2PdFXcv/Q==",
+  "dgSpecHash": "5TmD1XDMJoxgvS91Iqli4kA4jq4SUF8wZ/6pBomC2U2TJWa6B8zRh3Bnr+PnSgSUfuYWGFYh9TDshUyjITcTMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

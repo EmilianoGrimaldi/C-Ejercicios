@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
         "projectName": "Biblioteca.Ejercicio I04",
-        "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\obj\\",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,20 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

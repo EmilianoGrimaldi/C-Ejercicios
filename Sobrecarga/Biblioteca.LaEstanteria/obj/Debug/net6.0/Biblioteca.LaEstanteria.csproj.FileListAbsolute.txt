@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\bin\Debug\net6.0\Biblioteca.LaEstanteria.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\bin\Debug\net6.0\Biblioteca.LaEstanteria.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\bin\Debug\net6.0\Biblioteca.LaEstanteria.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\Biblioteca.LaEstanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\Biblioteca.LaEstanteria.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\Biblioteca.LaEstanteria.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\Biblioteca.LaEstanteria.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\Biblioteca.LaEstanteria.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\Biblioteca.LaEstanteria.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\refint\Biblioteca.LaEstanteria.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\Biblioteca.LaEstanteria.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Biblioteca.LaEstanteria\obj\Debug\net6.0\ref\Biblioteca.LaEstanteria.dll

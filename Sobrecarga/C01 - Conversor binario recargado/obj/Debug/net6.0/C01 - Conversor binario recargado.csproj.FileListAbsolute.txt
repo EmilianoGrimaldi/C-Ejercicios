@@ -1,0 +1,19 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\bin\Debug\net6.0\C01 - Conversor binario recargado.exe
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\bin\Debug\net6.0\C01 - Conversor binario recargado.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\bin\Debug\net6.0\C01 - Conversor binario recargado.runtimeconfig.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\bin\Debug\net6.0\C01 - Conversor binario recargado.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\bin\Debug\net6.0\C01 - Conversor binario recargado.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\refint\C01 - Conversor binario recargado.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.genruntimeconfig.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\ref\C01 - Conversor binario recargado.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\bin\Debug\net6.0\BibliotecaConversorBinarioRecargado.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\bin\Debug\net6.0\BibliotecaConversorBinarioRecargado.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Conversor binario recargado.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\C01 - Conversor binario recargado\obj\Debug\net6.0\C01 - Co.31F45778.Up2Date

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jfmmn7iLpUt/SF+eiWgfDdVolIMTga5SmwbgL+ClxWrMNsXFTWRzWWNIChe2vjAF05z9wKLIT62QoOmvZGTQBQ==",
+  "dgSpecHash": "GKsuF6frNZgaatljLYggNQKvHLcF6/vj7HskSPFLi/dIFdh26h0fww+8LnuHEgfeKOXjHHtzmQMdMMdYQGyQSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAg329ZgR6ShtkQTwKg0gBstX8v6kXAtjjZUpwlVctdeA4G9gPpviEsffXkyMHmD/x7IdXdgFKg+7BXKiyEuyg==",
+  "dgSpecHash": "ItZzFb41kzNiOalDJi9dZMumDwZuRJ30nwpjjLJ7fCJoH2jR0gIzZLFdx6cxcW8ZlCO0KeFEzm5R93JevwL0Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I03 - El ejemplo universal\\Ejercicio I03 - El ejemplo universal.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I03 - El ejemplo universal\\Ejercicio I03 - El ejemplo universal.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

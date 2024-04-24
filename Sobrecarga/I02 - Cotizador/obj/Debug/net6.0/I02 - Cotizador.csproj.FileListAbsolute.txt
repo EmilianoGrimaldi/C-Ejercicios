@@ -1,0 +1,19 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\bin\Debug\net6.0\I02 - Cotizador.exe
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\bin\Debug\net6.0\I02 - Cotizador.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\bin\Debug\net6.0\I02 - Cotizador.runtimeconfig.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\bin\Debug\net6.0\I02 - Cotizador.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\bin\Debug\net6.0\I02 - Cotizador.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\bin\Debug\net6.0\Billetes.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\bin\Debug\net6.0\Billetes.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Co.7B8FB359.Up2Date
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\refint\I02 - Cotizador.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\I02 - Cotizador.genruntimeconfig.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\I02 - Cotizador\obj\Debug\net6.0\ref\I02 - Cotizador.dll

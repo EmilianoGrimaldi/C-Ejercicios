@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A01 - Fahrenheit 451/1.0.0": {
+        "dependencies": {
+          "Entidades.Temperatura": "1.0.0"
+        },
+        "runtime": {
+          "A01 - Fahrenheit 451.dll": {}
+        }
+      },
+      "Entidades.Temperatura/1.0.0": {
+        "runtime": {
+          "Entidades.Temperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A01 - Fahrenheit 451/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades.Temperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

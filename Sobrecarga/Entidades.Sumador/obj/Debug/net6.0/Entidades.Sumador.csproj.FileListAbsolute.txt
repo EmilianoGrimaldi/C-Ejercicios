@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\bin\Debug\net6.0\Entidades.Sumador.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\bin\Debug\net6.0\Entidades.Sumador.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\bin\Debug\net6.0\Entidades.Sumador.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\Entidades.Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\Entidades.Sumador.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\Entidades.Sumador.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\Entidades.Sumador.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\Entidades.Sumador.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\Entidades.Sumador.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\refint\Entidades.Sumador.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\Entidades.Sumador.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\Entidades.Sumador\obj\Debug\net6.0\ref\Entidades.Sumador.dll

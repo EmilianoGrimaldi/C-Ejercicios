@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
         "projectName": "Biblioteca.Ejercicio I04",
-        "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\obj\\",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,20 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -78,17 +64,17 @@
         }
       }
     },
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj",
         "projectName": "Ejercicio I04 - Invento argentino",
-        "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\obj\\",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\Ejercicio I04 - Invento argentino.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I04 - Invento argentino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj": {
-                "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj"
+              "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj": {
+                "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Biblioteca.Ejercicio I04\\Biblioteca.Ejercicio I04.csproj"
               }
             }
           }
@@ -133,24 +119,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

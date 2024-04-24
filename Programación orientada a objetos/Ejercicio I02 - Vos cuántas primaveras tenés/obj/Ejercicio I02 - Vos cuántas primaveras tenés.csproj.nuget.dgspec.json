@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
         "projectName": "Ejercicio I02 - Vos cuántas primaveras tenés",
-        "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\obj\\",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\Ejercicio I02 - Vos cuántas primaveras tenés.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I02 - Vos cuántas primaveras tenés\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj": {
-                "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj"
+              "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj": {
+                "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj"
               }
             }
           }
@@ -59,24 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -86,17 +68,17 @@
         }
       }
     },
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj",
         "projectName": "Entidades.Persona",
-        "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\obj\\",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\Entidades.Persona.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.Persona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -137,20 +119,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

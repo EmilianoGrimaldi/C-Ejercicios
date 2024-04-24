@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tFH1a28nJ5C8OR8d4CR1g23BwkOTkOc5nj5diK1Z7oyd4E9IQ5F6P1KPCcr0LJH4wFX3OCD1pDF/wnmw9c6K2Q==",
+  "dgSpecHash": "ajuSE1iLMVb44gYVF4RaPekldLXaxYOxPzZSWIWZL8v2iN1eV+fFV3mM0BVTmFFBrraIfj3cw1PZaXQM2oAOjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

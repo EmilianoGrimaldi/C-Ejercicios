@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\bin\Debug\net6.0\BibliotecaConversorBinarioRecargado.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\bin\Debug\net6.0\BibliotecaConversorBinarioRecargado.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\bin\Debug\net6.0\BibliotecaConversorBinarioRecargado.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\BibliotecaConversorBinarioRecargado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\BibliotecaConversorBinarioRecargado.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\BibliotecaConversorBinarioRecargado.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\BibliotecaConversorBinarioRecargado.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\BibliotecaConversorBinarioRecargado.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\BibliotecaConversorBinarioRecargado.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\refint\BibliotecaConversorBinarioRecargado.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\BibliotecaConversorBinarioRecargado.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\BibliotecaConversorBinarioRecargado\obj\Debug\net6.0\ref\BibliotecaConversorBinarioRecargado.dll

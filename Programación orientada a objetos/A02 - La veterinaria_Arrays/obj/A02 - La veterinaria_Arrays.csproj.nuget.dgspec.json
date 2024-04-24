@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj",
         "projectName": "A02 - La veterinaria_Arrays",
-        "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\obj\\",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\A02 - La veterinaria_Arrays.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\A02 - La veterinaria_Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj": {
-                "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj"
+              "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj": {
+                "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj"
               }
             }
           }
@@ -59,24 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -86,17 +68,17 @@
         }
       }
     },
-    "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj",
         "projectName": "Entidades.VeterinariaArrays",
-        "projectPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\obj\\",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\Entidades.VeterinariaArrays.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Entidades.VeterinariaArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -137,20 +119,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

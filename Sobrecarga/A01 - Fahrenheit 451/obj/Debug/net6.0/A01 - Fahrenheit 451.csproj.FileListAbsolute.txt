@@ -1,0 +1,19 @@
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\bin\Debug\net6.0\A01 - Fahrenheit 451.exe
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\bin\Debug\net6.0\A01 - Fahrenheit 451.deps.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\bin\Debug\net6.0\A01 - Fahrenheit 451.runtimeconfig.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\bin\Debug\net6.0\A01 - Fahrenheit 451.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\bin\Debug\net6.0\A01 - Fahrenheit 451.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\refint\A01 - Fahrenheit 451.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.genruntimeconfig.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\ref\A01 - Fahrenheit 451.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\bin\Debug\net6.0\Entidades.Temperatura.dll
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\bin\Debug\net6.0\Entidades.Temperatura.pdb
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fahrenheit 451.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\Clases\Sobrecarga\A01 - Fahrenheit 451\obj\Debug\net6.0\A01 - Fa.F3CF1663.Up2Date

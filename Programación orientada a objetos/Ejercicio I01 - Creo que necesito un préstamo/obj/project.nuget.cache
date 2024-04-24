@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y66UUcIdY1CBWrJ101L7dIwJt75WKiytEiw2HkLKT0eFJeRFnHzVrLjvFDi66zdm5uvuYbvg0BtdBX1Q47KIBw==",
+  "dgSpecHash": "fCdpOksD00FLSakANYHUmYqra8yz8S/gZ1fgS7BMV5Di1RCnAT6mXpI1ZxAXfwysS0E0WxDk7dB9Bj9j9i1iAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I01 - Creo que necesito un préstamo\\Ejercicio I01 - Creo que necesito un préstamo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Emi\\Desktop\\Clases\\Programación orientada a objetos\\Ejercicio I01 - Creo que necesito un préstamo\\Ejercicio I01 - Creo que necesito un préstamo.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
