@@ -20,5 +20,17 @@
             this.cantidadDePuertas = cantidadDePuertas;
             this.color = color;
         }
+        public short GetCantidadRuedas()
+        {
+            return cantidadDeRuedas; 
+        }
+        public short GetCantidadPuertas()
+        {          
+            return cantidadDePuertas;
+        }
+        public Colores GetColor()
+        {
+            return color;        
+        }
     }
 }

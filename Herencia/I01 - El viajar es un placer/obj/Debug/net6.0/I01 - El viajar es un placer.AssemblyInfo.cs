@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("I01 - El viajar es un placer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00c3d698b8150775c981f08658b21e60f376ea37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7044a0097322f44c5f8fc1525851e139c9b10648")]
 [assembly: System.Reflection.AssemblyProductAttribute("I01 - El viajar es un placer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("I01 - El viajar es un placer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

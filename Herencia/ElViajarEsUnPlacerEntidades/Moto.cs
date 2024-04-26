@@ -15,5 +15,10 @@ namespace ElViajarEsUnPlacerEntidades
         {
             this.cilindrada = cilindrada;
         }
+
+        public short GetCilindrada()
+        {
+            return cilindrada;
+        }
     }
 }

@@ -17,5 +17,14 @@ namespace ElViajarEsUnPlacerEntidades
             this.cantidadDeMarchas = cantidadDeMarchas;
             this.cantidadPasajeros = cantidadPasajeros;
         }
+        public short GetCantidadMarchas()
+        {
+            return cantidadDeMarchas;
+        }
+
+        public int GetCantPasajeros()
+        {
+            return cantidadPasajeros;
+        }
     }
 }

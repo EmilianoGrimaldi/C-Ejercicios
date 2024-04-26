@@ -10,3 +10,15 @@ C:\Users\Emi\Desktop\Clases\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.
 C:\Users\Emi\Desktop\Clases\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\refint\ElViajarEsUnPlacerEntidades.dll
 C:\Users\Emi\Desktop\Clases\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.pdb
 C:\Users\Emi\Desktop\Clases\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ref\ElViajarEsUnPlacerEntidades.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\bin\Debug\net6.0\ElViajarEsUnPlacerEntidades.deps.json
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\bin\Debug\net6.0\ElViajarEsUnPlacerEntidades.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\bin\Debug\net6.0\ElViajarEsUnPlacerEntidades.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.AssemblyInfo.cs
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.sourcelink.json
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\refint\ElViajarEsUnPlacerEntidades.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ref\ElViajarEsUnPlacerEntidades.dll

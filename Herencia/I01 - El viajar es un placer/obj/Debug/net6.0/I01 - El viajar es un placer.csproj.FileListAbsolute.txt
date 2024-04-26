@@ -17,3 +17,22 @@ C:\Users\Emi\Desktop\Clases\Herencia\I01 - El viajar es un placer\obj\Debug\net6
 C:\Users\Emi\Desktop\Clases\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.pdb
 C:\Users\Emi\Desktop\Clases\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.genruntimeconfig.cache
 C:\Users\Emi\Desktop\Clases\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\ref\I01 - El viajar es un placer.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\bin\Debug\net6.0\I01 - El viajar es un placer.exe
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\bin\Debug\net6.0\I01 - El viajar es un placer.deps.json
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\bin\Debug\net6.0\I01 - El viajar es un placer.runtimeconfig.json
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\bin\Debug\net6.0\I01 - El viajar es un placer.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\bin\Debug\net6.0\I01 - El viajar es un placer.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\bin\Debug\net6.0\ElViajarEsUnPlacerEntidades.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\bin\Debug\net6.0\ElViajarEsUnPlacerEntidades.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.AssemblyInfo.cs
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.sourcelink.json
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El.4C0974CA.Up2Date
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\refint\I01 - El viajar es un placer.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\I01 - El viajar es un placer.genruntimeconfig.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\obj\Debug\net6.0\ref\I01 - El viajar es un placer.dll
