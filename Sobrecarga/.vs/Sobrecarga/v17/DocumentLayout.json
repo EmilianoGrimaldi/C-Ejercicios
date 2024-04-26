@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{333F3787-79C7-4013-8F7D-737C86AABD37}|I02 - Cotizador\\I02 - Cotizador.csproj|c:\\users\\emi\\desktop\\clases\\sobrecarga\\i02 - cotizador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{333F3787-79C7-4013-8F7D-737C86AABD37}|I02 - Cotizador\\I02 - Cotizador.csproj|solutionrelative:i02 - cotizador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529C1A05-ADD2-460E-B852-9DD16477EA36}|Billetes\\Billetes.csproj|c:\\users\\emi\\desktop\\clases\\sobrecarga\\billetes\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529C1A05-ADD2-460E-B852-9DD16477EA36}|Billetes\\Billetes.csproj|solutionrelative:billetes\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529C1A05-ADD2-460E-B852-9DD16477EA36}|Billetes\\Billetes.csproj|c:\\users\\emi\\desktop\\clases\\sobrecarga\\billetes\\peso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529C1A05-ADD2-460E-B852-9DD16477EA36}|Billetes\\Billetes.csproj|solutionrelative:billetes\\peso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529C1A05-ADD2-460E-B852-9DD16477EA36}|Billetes\\Billetes.csproj|c:\\users\\emi\\desktop\\clases\\sobrecarga\\billetes\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529C1A05-ADD2-460E-B852-9DD16477EA36}|Billetes\\Billetes.csproj|solutionrelative:billetes\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 271,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Peso.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\Billetes\\Peso.cs",
-              "RelativeDocumentMoniker": "Billetes\\Peso.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\Billetes\\Peso.cs",
-              "RelativeToolTip": "Billetes\\Peso.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAgwC0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:30:58.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Euro.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\Billetes\\Euro.cs",
-              "RelativeDocumentMoniker": "Billetes\\Euro.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\Billetes\\Euro.cs",
-              "RelativeToolTip": "Billetes\\Euro.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAIwCwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:30:51.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dolar.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\Billetes\\Dolar.cs",
-              "RelativeDocumentMoniker": "Billetes\\Dolar.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\Billetes\\Dolar.cs",
-              "RelativeToolTip": "Billetes\\Dolar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:30:40.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\I02 - Cotizador\\Program.cs",
-              "RelativeDocumentMoniker": "I02 - Cotizador\\Program.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Sobrecarga\\I02 - Cotizador\\Program.cs",
-              "RelativeToolTip": "I02 - Cotizador\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:26:39.135Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
