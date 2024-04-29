@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("I01 - El viajar es un placer")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("C01 - Herencia deportiva")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42b0f1ab322cc43b03a7a3bbd52866fb9c6a68dc")]
-[assembly: System.Reflection.AssemblyProductAttribute("I01 - El viajar es un placer")]
-[assembly: System.Reflection.AssemblyTitleAttribute("I01 - El viajar es un placer")]
+[assembly: System.Reflection.AssemblyProductAttribute("C01 - Herencia deportiva")]
+[assembly: System.Reflection.AssemblyTitleAttribute("C01 - Herencia deportiva")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

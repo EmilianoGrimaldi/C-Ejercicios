@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483085E2-84E5-4BEA-B094-F76F1E73BA80}|C01 - Herencia deportiva\\C01 - Herencia deportiva.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\c01 - herencia deportiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483085E2-84E5-4BEA-B094-F76F1E73BA80}|C01 - Herencia deportiva\\C01 - Herencia deportiva.csproj|solutionrelative:c01 - herencia deportiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02226C1-0BC8-486C-B231-20595D4AB398}|HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\herenciadeportivaentidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02226C1-0BC8-486C-B231-20595D4AB398}|HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj|solutionrelative:herenciadeportivaentidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02226C1-0BC8-486C-B231-20595D4AB398}|HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\herenciadeportivaentidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02226C1-0BC8-486C-B231-20595D4AB398}|HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj|solutionrelative:herenciadeportivaentidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02226C1-0BC8-486C-B231-20595D4AB398}|HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\herenciadeportivaentidades\\directortecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02226C1-0BC8-486C-B231-20595D4AB398}|HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj|solutionrelative:herenciadeportivaentidades\\directortecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\Jugador.cs",
+              "RelativeDocumentMoniker": "HerenciaDeportivaEntidades\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\Jugador.cs",
+              "RelativeToolTip": "HerenciaDeportivaEntidades\\Jugador.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwDUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:59:25.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DirectorTecnico.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\DirectorTecnico.cs",
+              "RelativeDocumentMoniker": "HerenciaDeportivaEntidades\\DirectorTecnico.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\DirectorTecnico.cs",
+              "RelativeToolTip": "HerenciaDeportivaEntidades\\DirectorTecnico.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:39:24.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\Persona.cs",
+              "RelativeDocumentMoniker": "HerenciaDeportivaEntidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\Persona.cs",
+              "RelativeToolTip": "HerenciaDeportivaEntidades\\Persona.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:38:28.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C01 - Herencia deportiva\\Program.cs",
+              "RelativeDocumentMoniker": "C01 - Herencia deportiva\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C01 - Herencia deportiva\\Program.cs",
+              "RelativeToolTip": "C01 - Herencia deportiva\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:37:26.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I01 - El viajar es un place
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElViajarEsUnPlacerEntidades", "ElViajarEsUnPlacerEntidades\ElViajarEsUnPlacerEntidades.csproj", "{74986137-FF53-4294-B2DD-F3EFFB5AA64E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C01 - Herencia deportiva", "C01 - Herencia deportiva\C01 - Herencia deportiva.csproj", "{483085E2-84E5-4BEA-B094-F76F1E73BA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerenciaDeportivaEntidades", "HerenciaDeportivaEntidades\HerenciaDeportivaEntidades.csproj", "{F02226C1-0BC8-486C-B231-20595D4AB398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{74986137-FF53-4294-B2DD-F3EFFB5AA64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74986137-FF53-4294-B2DD-F3EFFB5AA64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74986137-FF53-4294-B2DD-F3EFFB5AA64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483085E2-84E5-4BEA-B094-F76F1E73BA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483085E2-84E5-4BEA-B094-F76F1E73BA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483085E2-84E5-4BEA-B094-F76F1E73BA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483085E2-84E5-4BEA-B094-F76F1E73BA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02226C1-0BC8-486C-B231-20595D4AB398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02226C1-0BC8-486C-B231-20595D4AB398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02226C1-0BC8-486C-B231-20595D4AB398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02226C1-0BC8-486C-B231-20595D4AB398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
