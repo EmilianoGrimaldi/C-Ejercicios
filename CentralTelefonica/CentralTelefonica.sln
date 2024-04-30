@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita", "Centralita\Centralita.csproj", "{CEFB0EC7-248A-4616-9ED8-CB265B977991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita", "Centralita\Centralita.csproj", "{CEFB0EC7-248A-4616-9ED8-CB265B977991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Central", "Central\Central.csproj", "{2A708B75-CFCC-401F-B41C-EB3F4C49DD8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{A062CC11-76B0-437B-A7C7-B95781FCCD8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CEFB0EC7-248A-4616-9ED8-CB265B977991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEFB0EC7-248A-4616-9ED8-CB265B977991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEFB0EC7-248A-4616-9ED8-CB265B977991}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2A708B75-CFCC-401F-B41C-EB3F4C49DD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A708B75-CFCC-401F-B41C-EB3F4C49DD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A708B75-CFCC-401F-B41C-EB3F4C49DD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A708B75-CFCC-401F-B41C-EB3F4C49DD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A062CC11-76B0-437B-A7C7-B95781FCCD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A062CC11-76B0-437B-A7C7-B95781FCCD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A062CC11-76B0-437B-A7C7-B95781FCCD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A062CC11-76B0-437B-A7C7-B95781FCCD8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

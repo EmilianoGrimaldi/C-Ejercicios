@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\Centralita.csproj",
+      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.csproj",
       "projectName": "Centralita",
-      "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\Centralita.csproj",
+      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.csproj",
       "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\obj\\",
+      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",

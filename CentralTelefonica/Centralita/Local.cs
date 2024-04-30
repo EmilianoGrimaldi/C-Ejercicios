@@ -18,9 +18,16 @@ namespace Centralita
         {
             this.costo = costo;
         }
-        public float GetCostoLlamada()
+        public float CostoLlamada
         {
-            return costo;
+            get
+            {
+                return CalcularCosto();
+            }
+        }
+        private float CalcularCosto()
+        {
+            return 1;
         }
 
     }
