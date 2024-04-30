@@ -41,20 +41,21 @@ namespace HerenciaDeportivaEntidades
         {
             get
             {
-                return totalGoles / partidosJugados;
+                return (float)totalGoles / partidosJugados;
             }
         }
         public string MostrarDatos()
         {
             StringBuilder sb = new();
-            sb.AppendLine($"Nombre -> {Nombre}");
-            sb.AppendLine($"Dni -> {Dni}");
-            sb.AppendLine($"Partidos jugados -> {partidosJugados}");
-            sb.AppendLine($"Total de goles -> {totalGoles}");
-            sb.AppendLine($"Promedio de goles -> {PromedioDeGoles}");
+            sb.AppendLine($"Nombre -> {nombre}");
+            sb.AppendLine($"Dni -> {dni}");
+            if (partidosJugados > 0)
+            {
+                sb.AppendLine($"Partidos jugados -> {partidosJugados}");
+                sb.AppendLine($"Total de goles -> {totalGoles}");
+                sb.AppendLine($"Promedio de goles -> {PromedioDeGoles:N2}");
+            }               
             
-            
-
             return sb.ToString();
         }
 

@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\bin\Debug\net6.0\HerenciaDeportivaEntidades.deps.json
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\bin\Debug\net6.0\HerenciaDeportivaEntidades.dll
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\bin\Debug\net6.0\HerenciaDeportivaEntidades.pdb
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\HerenciaDeportivaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\HerenciaDeportivaEntidades.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\HerenciaDeportivaEntidades.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\HerenciaDeportivaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\HerenciaDeportivaEntidades.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\HerenciaDeportivaEntidades.dll
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\refint\HerenciaDeportivaEntidades.dll
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\HerenciaDeportivaEntidades.pdb
+C:\Users\Emi\Desktop\Clases\Herencia\HerenciaDeportivaEntidades\obj\Debug\net6.0\ref\HerenciaDeportivaEntidades.dll

@@ -23,8 +23,8 @@ namespace HerenciaDeportivaEntidades
         public string MostrarDatos()
         {
             StringBuilder sb = new();
-            sb.AppendLine($"Nombre -> {Nombre}");
-            sb.Append($"Fecha nacimiento -> {fechaNacimiento}");
+            sb.AppendLine($"Nombre -> {nombre}");
+            sb.AppendLine($"Fecha nacimiento -> {fechaNacimiento.ToString("dd/MM/yyyy")}");
 
             return sb.ToString();
         }
@@ -32,7 +32,7 @@ namespace HerenciaDeportivaEntidades
         // Dos directores técnicos serán iguales si tienen el mismo nombre y fecha de nacimiento
         public static bool operator ==(DirectorTecnico tecnico1, DirectorTecnico tecnico2)
         {
-            return (tecnico1.Nombre == tecnico2.Nombre) && (tecnico1.fechaNacimiento == tecnico2.fechaNacimiento);
+            return (tecnico1.nombre == tecnico2.nombre) && (tecnico1.fechaNacimiento == tecnico2.fechaNacimiento);
         }
 
         public static bool operator !=(DirectorTecnico tecnico1, DirectorTecnico tecnico2)

@@ -4,8 +4,8 @@ namespace HerenciaDeportivaEntidades
 {
     public class Persona
     {
-        long dni;
-        string nombre;
+        protected long dni;
+        protected string nombre;
 
         public Persona(string nombre)
         {
@@ -35,7 +35,7 @@ namespace HerenciaDeportivaEntidades
         {
             StringBuilder sb = new();
             sb.AppendLine($"Nombre -> {nombre}");
-            sb.Append($"Dni -> {dni}");
+            sb.AppendLine($"Dni -> {dni}");
 
             return sb.ToString();
         }

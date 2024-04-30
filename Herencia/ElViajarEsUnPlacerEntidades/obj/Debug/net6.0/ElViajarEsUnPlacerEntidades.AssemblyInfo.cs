@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElViajarEsUnPlacerEntidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42b0f1ab322cc43b03a7a3bbd52866fb9c6a68dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cd2e851588a614c33efa16b7f66e8154379c722")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElViajarEsUnPlacerEntidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElViajarEsUnPlacerEntidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

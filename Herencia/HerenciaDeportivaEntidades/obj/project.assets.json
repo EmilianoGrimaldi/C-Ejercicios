@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj",
+      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj",
       "projectName": "HerenciaDeportivaEntidades",
-      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj",
+      "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj",
       "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\obj\\",
+      "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\HerenciaDeportivaEntidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
