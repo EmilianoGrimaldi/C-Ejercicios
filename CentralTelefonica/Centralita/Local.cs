@@ -4,19 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Centralita
+namespace EntidadesCentralita
 {
     public class Local : Llamada
     {
         protected float costo;
 
-        public Local(string origen, float duracion, string destino, float costo):base(origen)
+        public Local(string origen, float duracion, string destino, float costo):base(duracion,destino, origen)
         {
             this.costo = costo;
         }
-        public Local(Llamada llamada, float costo):this(costo)
+        public Local(Llamada llamada, float costo):this(llamada.NroOrigen, llamada.Duracion,llamada.NroDestino,costo)
         {
-            this.costo = costo;
+
         }
         public float CostoLlamada
         {
@@ -27,8 +27,17 @@ namespace Centralita
         }
         private float CalcularCosto()
         {
-            return 1;
+            //CalcularCosto será privado. Retornará el valor de la llamada a partir de la duración y el costo de la misma.
+            return duracion * costo;
         }
+        public string Mostrar()
+        {
+            StringBuilder sb = new();
+            sb.AppendLine($"Llamada Local");
+            sb.Append(base.Mostrar());
+            sb.AppendLine($"Costo: {costo}");
 
+            return sb.ToString();
+        }
     }
 }

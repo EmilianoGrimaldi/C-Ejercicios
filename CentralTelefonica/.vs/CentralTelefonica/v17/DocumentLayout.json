@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\",
+  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\Centralita.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\centraltelefonica\\centralita\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\Centralita.csproj|solutionrelative:centralita\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\Centralita.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\centraltelefonica\\centralita\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\Centralita.csproj|solutionrelative:centralita\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\Centralita.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\centraltelefonica\\centralita\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\Centralita.csproj|solutionrelative:centralita\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A062CC11-76B0-437B-A7C7-B95781FCCD8E}|Test\\Test.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\centraltelefonica\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A062CC11-76B0-437B-A7C7-B95781FCCD8E}|Test\\Test.csproj|c:\\users\\emi\\desktop\\clases\\centraltelefonica\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A062CC11-76B0-437B-A7C7-B95781FCCD8E}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\Centralita.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\centraltelefonica\\centralita\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\Centralita.csproj|solutionrelative:centralita\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\EntidadesCentralita.csproj|c:\\users\\emi\\desktop\\clases\\centraltelefonica\\centralita\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\EntidadesCentralita.csproj|solutionrelative:centralita\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\EntidadesCentralita.csproj|c:\\users\\emi\\desktop\\clases\\centraltelefonica\\centralita\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFB0EC7-248A-4616-9ED8-CB265B977991}|Centralita\\EntidadesCentralita.csproj|solutionrelative:centralita\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Provincial.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Provincial.cs",
-              "RelativeDocumentMoniker": "Centralita\\Provincial.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Provincial.cs",
-              "RelativeToolTip": "Centralita\\Provincial.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCIAAAAIAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T21:06:21.714Z",
+              "WhenOpened": "2024-05-01T17:55:00.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Centralita.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\Centralita.cs",
+              "RelativeDocumentMoniker": "Centralita\\Centralita.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\Centralita.cs",
+              "RelativeToolTip": "Centralita\\Centralita.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAUwGoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:15:03.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Centralita.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.cs",
-              "RelativeDocumentMoniker": "Centralita\\Centralita.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.cs",
-              "RelativeToolTip": "Centralita\\Centralita.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T20:55:57.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Test\\Program.cs",
-              "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T20:51:23.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Local.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Local.cs",
-              "RelativeDocumentMoniker": "Centralita\\Local.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Local.cs",
-              "RelativeToolTip": "Centralita\\Local.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowBoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T23:31:40.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Llamada.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Llamada.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\Llamada.cs",
               "RelativeDocumentMoniker": "Centralita\\Llamada.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Llamada.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\Llamada.cs",
               "RelativeToolTip": "Centralita\\Llamada.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAABLAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAMwCgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T22:47:59.314Z",
+              "WhenOpened": "2024-05-01T01:59:47.061Z",
               "EditorCaption": ""
             }
           ]

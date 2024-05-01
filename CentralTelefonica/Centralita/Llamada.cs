@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Centralita
+namespace EntidadesCentralita
 {
     enum TipoLlamada
     {
@@ -10,6 +10,7 @@ namespace Centralita
     }
     public class Llamada
     {
+
         protected float duracion;
         protected string nroDestino;
         protected string nroOrigen;
@@ -20,33 +21,24 @@ namespace Centralita
             this.nroDestino = nroDestino;
             this.nroOrigen = nroOrigen;
         }
-        public float GetDuracion()
-        {
-            return duracion;
-        }
-
-        public string GetNroDestino()
-        {
-            return nroDestino;
-        }
-
-        public string GetNroOrigen()
-        {
-            return nroOrigen;
-        }
+        public float Duracion { get => duracion;}
+        public string NroDestino { get => nroDestino;}
+        public string NroOrigen { get => nroOrigen;}
+        
         public string Mostrar()
         {
             StringBuilder sb = new();
             sb.AppendLine($"Duracion: {duracion}");
             sb.AppendLine($"Numero de destino: {nroDestino}");
-            sb.Append($"Numero de origen: {nroOrigen}");
+            sb.AppendLine($"Numero de origen: {nroOrigen}");
 
             return sb.ToString();
         }
 
-        public int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
+        public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
         {
-            return 1;
+            //OrdenarPorDuracion es un método de clase que recibirá dos Llamadas. Se utilizará para ordenar una lista de llamadas de forma ascendente          
+            return (int)(llamada1.duracion - llamada2.duracion);
         }
     }
 }

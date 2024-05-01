@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Centralita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe66f68531f94cd7a71e859f224302a42fb652b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee6530a98ecdb5603f38d3be0af8e706083004ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Centralita")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Centralita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

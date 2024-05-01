@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita", "Centralita\Centralita.csproj", "{CEFB0EC7-248A-4616-9ED8-CB265B977991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntidadesCentralita", "Centralita\EntidadesCentralita.csproj", "{CEFB0EC7-248A-4616-9ED8-CB265B977991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{A062CC11-76B0-437B-A7C7-B95781FCCD8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{A062CC11-76B0-437B-A7C7-B95781FCCD8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

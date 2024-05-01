@@ -1,5 +1,4 @@
-﻿using Centralita;
-
+﻿using EntidadesCentralita;
 namespace Test
 {
     internal class Program

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Test\\Test.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\EntidadesCentralita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.csproj",
-        "projectName": "Centralita",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\EntidadesCentralita.csproj",
+        "projectName": "EntidadesCentralita",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\EntidadesCentralita.csproj",
         "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\obj\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Test\\Test.csproj": {
+    "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.csproj": {
-                "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\CentralTelefonica\\Centralita\\Centralita.csproj"
+              "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\EntidadesCentralita.csproj": {
+                "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\EntidadesCentralita.csproj"
               }
             }
           }
