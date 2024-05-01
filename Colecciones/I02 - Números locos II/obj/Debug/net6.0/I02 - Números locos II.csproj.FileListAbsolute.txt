@@ -1,0 +1,15 @@
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\bin\Debug\net6.0\I02 - Números locos II.exe
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\bin\Debug\net6.0\I02 - Números locos II.deps.json
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\bin\Debug\net6.0\I02 - Números locos II.runtimeconfig.json
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\bin\Debug\net6.0\I02 - Números locos II.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\bin\Debug\net6.0\I02 - Números locos II.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\I02 - Números locos II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\I02 - Números locos II.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\I02 - Números locos II.AssemblyInfo.cs
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\I02 - Números locos II.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\I02 - Números locos II.sourcelink.json
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\I02 - Números locos II.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\refint\I02 - Números locos II.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\I02 - Números locos II.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\I02 - Números locos II.genruntimeconfig.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\I02 - Números locos II\obj\Debug\net6.0\ref\I02 - Números locos II.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
+      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
       "projectName": "ElViajarEsUnPlacerEntidades",
-      "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
+      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
       "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\obj\\",
+      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",

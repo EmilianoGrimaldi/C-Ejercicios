@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("I01 - Números locos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee6530a98ecdb5603f38d3be0af8e706083004ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78df8c3e43729b554401b86304f113bd811d9396")]
 [assembly: System.Reflection.AssemblyProductAttribute("I01 - Números locos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("I01 - Números locos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

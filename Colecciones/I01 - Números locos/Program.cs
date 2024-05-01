@@ -6,7 +6,7 @@ Luego mostrar los positivos ordenados en forma decreciente.
 Por último, mostrar los negativos ordenados en forma creciente.
  */
 using System.Collections;
-
+ 
 namespace I01___Números_locos
 {
     internal class Program
@@ -14,18 +14,16 @@ namespace I01___Números_locos
         static void Main(string[] args)
         {
             Random random = new();
-            List<int> numeros = new();
-            Queue<int> positivosQueue = new();
-            Queue<int> negativosQueue = new();
-            Stack<int> positivosStack = new();
-            Stack<int> negativosStack = new();
-
-            for (int i = 0; i < 20; i++)
+            int[] numeros = new int[20];
+            List<int> positivos = new();
+            List<int> negativos = new(); 
+            
+            for (int i = 0; i < numeros.Length; i++)
             {
                 int numero = random.Next(-100, 101);
                 if (numero != 0)
                 {
-                    numeros.Add(numero);
+                    numeros[i] = numero;
                 }   
             }
             Console.WriteLine("Numeros random:");
@@ -34,42 +32,38 @@ namespace I01___Números_locos
                 Console.WriteLine(numero);
             }
             
-            for (int i = 0; i < numeros.Count; i++)
+            for (int i = 0; i < numeros.Length; i++)
             {
                 if (numeros[i] > 0)
                 {
-                    positivosQueue.Enqueue(numeros[i]);
-                    positivosStack.Push(numeros[i]);
+                    positivos.Add(numeros[i]);
                 }
                 else if (numeros[i] < 0)
                 {
-                    negativosQueue.Enqueue(numeros[i]);
-                    negativosStack.Push(numeros[i]);
-                }       
+                    negativos.Add(numeros[i]);
+                }
+            }
+            positivos.Sort(OrdenarDecreciente);
+            negativos.Sort(OrdenarCreciente);
+            Console.WriteLine("Positivos ordenados decreciente");
+            foreach (var numero in positivos)
+            {
+                Console.WriteLine(numero);
+            }
+            Console.WriteLine("Negativos ordenados creciente");
+            foreach (var numero in negativos)
+            {
+                Console.WriteLine(numero);
             }
 
-            Console.WriteLine("POSITIVOS QUEUE");
-            foreach (var item in positivosQueue)
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine("POSITIVOS STACK");
-            foreach (var item in positivosStack)
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine("NEGATIVOS QUEUE");
-            foreach (var item in negativosQueue)
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine("NEGATIVOS STACK");
-            foreach (var item in negativosStack)
-            {
-                Console.WriteLine(item);
-            }
-
-            
+        }
+        public static int OrdenarDecreciente(int n1, int n2)
+        {
+            return n2 - n1;
+        }
+        public static int OrdenarCreciente(int n1, int n2)
+        {
+            return n1 - n2;
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\I01 - Números locos\\I01 - Números locos.csproj",
+      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\I01 - Números locos\\I01 - Números locos.csproj",
       "projectName": "I01 - Números locos",
-      "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\I01 - Números locos\\I01 - Números locos.csproj",
+      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\I01 - Números locos\\I01 - Números locos.csproj",
       "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\I01 - Números locos\\obj\\",
+      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\I01 - Números locos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",

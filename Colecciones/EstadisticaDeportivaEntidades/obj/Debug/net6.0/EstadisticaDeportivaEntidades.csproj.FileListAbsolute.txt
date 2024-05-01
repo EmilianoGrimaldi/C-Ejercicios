@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\bin\Debug\net6.0\EstadisticaDeportivaEntidades.deps.json
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\bin\Debug\net6.0\EstadisticaDeportivaEntidades.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\bin\Debug\net6.0\EstadisticaDeportivaEntidades.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\EstadisticaDeportivaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\EstadisticaDeportivaEntidades.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\EstadisticaDeportivaEntidades.AssemblyInfo.cs
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\EstadisticaDeportivaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\EstadisticaDeportivaEntidades.sourcelink.json
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\EstadisticaDeportivaEntidades.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\refint\EstadisticaDeportivaEntidades.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\EstadisticaDeportivaEntidades.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EstadisticaDeportivaEntidades\obj\Debug\net6.0\ref\EstadisticaDeportivaEntidades.dll

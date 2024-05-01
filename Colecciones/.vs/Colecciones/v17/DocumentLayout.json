@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\",
+  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9308764C-9689-4918-8F53-4655C4CFB9F8}|I01 - N\u00FAmeros locos\\I01 - N\u00FAmeros locos.csproj|c:\\users\\emi\\desktop\\clases\\colecciones\\i01 - n\u00FAmeros locos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9308764C-9689-4918-8F53-4655C4CFB9F8}|I01 - N\u00FAmeros locos\\I01 - N\u00FAmeros locos.csproj|solutionrelative:i01 - n\u00FAmeros locos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4336DACC-914E-49D2-9E39-7854FC1A215A}|EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\estadisticadeportivaentidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4336DACC-914E-49D2-9E39-7854FC1A215A}|EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj|solutionrelative:estadisticadeportivaentidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4336DACC-914E-49D2-9E39-7854FC1A215A}|EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\estadisticadeportivaentidades\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4336DACC-914E-49D2-9E39-7854FC1A215A}|EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj|solutionrelative:estadisticadeportivaentidades\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24CD98F-0787-4F89-826A-91DB3874EA6E}|C01 - Estad\u00EDstica deportiva\\C01 - Estad\u00EDstica deportiva.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\c01 - estad\u00EDstica deportiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24CD98F-0787-4F89-826A-91DB3874EA6E}|C01 - Estad\u00EDstica deportiva\\C01 - Estad\u00EDstica deportiva.csproj|solutionrelative:c01 - estad\u00EDstica deportiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\I01 - N\u00FAmeros locos\\Program.cs",
-              "RelativeDocumentMoniker": "I01 - N\u00FAmeros locos\\Program.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\I01 - N\u00FAmeros locos\\Program.cs",
-              "RelativeToolTip": "I01 - N\u00FAmeros locos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\Jugador.cs",
+              "RelativeDocumentMoniker": "EstadisticaDeportivaEntidades\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\Jugador.cs",
+              "RelativeToolTip": "EstadisticaDeportivaEntidades\\Jugador.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T21:43:10.924Z",
+              "WhenOpened": "2024-05-01T21:38:52.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\Equipo.cs",
+              "RelativeDocumentMoniker": "EstadisticaDeportivaEntidades\\Equipo.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\Equipo.cs",
+              "RelativeToolTip": "EstadisticaDeportivaEntidades\\Equipo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:35:57.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estad\u00EDstica deportiva\\Program.cs",
+              "RelativeDocumentMoniker": "C01 - Estad\u00EDstica deportiva\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estad\u00EDstica deportiva\\Program.cs",
+              "RelativeToolTip": "C01 - Estad\u00EDstica deportiva\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:35:01.103Z",
               "EditorCaption": ""
             }
           ]
