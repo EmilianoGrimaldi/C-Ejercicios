@@ -1,0 +1,19 @@
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\bin\Debug\net6.0\I02 - Consultaste el índice.exe
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\bin\Debug\net6.0\I02 - Consultaste el índice.deps.json
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\bin\Debug\net6.0\I02 - Consultaste el índice.runtimeconfig.json
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\bin\Debug\net6.0\I02 - Consultaste el índice.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\bin\Debug\net6.0\I02 - Consultaste el índice.pdb
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\bin\Debug\net6.0\EntidadesIndice.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\bin\Debug\net6.0\EntidadesIndice.pdb
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Co.842C9C14.Up2Date
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\refint\I02 - Consultaste el índice.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.pdb
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\I02 - Consultaste el índice.genruntimeconfig.cache
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\I02 - Consultaste el índice\obj\Debug\net6.0\ref\I02 - Consultaste el índice.dll

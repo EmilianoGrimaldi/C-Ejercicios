@@ -5,11 +5,15 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I01 - Números locos", "I01 - Números locos\I01 - Números locos.csproj", "{9308764C-9689-4918-8F53-4655C4CFB9F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02 - Números locos II", "I02 - Números locos II\I02 - Números locos II.csproj", "{653ACFAD-B187-48AA-8EB3-4830B88B6D27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I02 - Números locos II", "I02 - Números locos II\I02 - Números locos II.csproj", "{653ACFAD-B187-48AA-8EB3-4830B88B6D27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C01 - Estadística deportiva", "C01 - Estadística deportiva\C01 - Estadística deportiva.csproj", "{B24CD98F-0787-4F89-826A-91DB3874EA6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C01 - Estadística deportiva", "C01 - Estadística deportiva\C01 - Estadística deportiva.csproj", "{B24CD98F-0787-4F89-826A-91DB3874EA6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstadisticaDeportivaEntidades", "EstadisticaDeportivaEntidades\EstadisticaDeportivaEntidades.csproj", "{4336DACC-914E-49D2-9E39-7854FC1A215A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstadisticaDeportivaEntidades", "EstadisticaDeportivaEntidades\EstadisticaDeportivaEntidades.csproj", "{4336DACC-914E-49D2-9E39-7854FC1A215A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02 - Enciendan sus motores", "C02 - Enciendan sus motores\C02 - Enciendan sus motores.csproj", "{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesEnciendanSusMotores", "EntidadesEnciendanSusMotores\EntidadesEnciendanSusMotores.csproj", "{96279A70-616A-4166-981F-EB4423148939}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{4336DACC-914E-49D2-9E39-7854FC1A215A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4336DACC-914E-49D2-9E39-7854FC1A215A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4336DACC-914E-49D2-9E39-7854FC1A215A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96279A70-616A-4166-981F-EB4423148939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96279A70-616A-4166-981F-EB4423148939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96279A70-616A-4166-981F-EB4423148939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96279A70-616A-4166-981F-EB4423148939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

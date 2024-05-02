@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\bin\Debug\net6.0\EntidadesIndice.deps.json
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\bin\Debug\net6.0\EntidadesIndice.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\bin\Debug\net6.0\EntidadesIndice.pdb
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\EntidadesIndice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\EntidadesIndice.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\EntidadesIndice.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\EntidadesIndice.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\EntidadesIndice.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\EntidadesIndice.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\refint\EntidadesIndice.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\EntidadesIndice.pdb
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\EntidadesIndice\obj\Debug\net6.0\ref\EntidadesIndice.dll

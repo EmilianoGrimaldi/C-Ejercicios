@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj",
+      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj",
       "projectName": "EstadisticaDeportivaEntidades",
-      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj",
+      "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj",
       "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\obj\\",
+      "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstadisticaDeportivaEntidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78df8c3e43729b554401b86304f113bd811d9396")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c81d588599f861f2107b84052ded7656eb0da0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstadisticaDeportivaEntidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstadisticaDeportivaEntidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

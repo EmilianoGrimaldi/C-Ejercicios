@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I02 - Consultaste el índice/1.0.0": {
+        "dependencies": {
+          "EntidadesIndice": "1.0.0"
+        },
+        "runtime": {
+          "I02 - Consultaste el índice.dll": {}
+        }
+      },
+      "EntidadesIndice/1.0.0": {
+        "runtime": {
+          "EntidadesIndice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I02 - Consultaste el índice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesIndice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

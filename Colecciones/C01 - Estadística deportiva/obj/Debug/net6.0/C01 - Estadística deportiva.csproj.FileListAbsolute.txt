@@ -17,3 +17,22 @@ C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\C01 - Estadística deportiva\obj\D
 C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.pdb
 C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.genruntimeconfig.cache
 C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\ref\C01 - Estadística deportiva.dll
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\bin\Debug\net6.0\C01 - Estadística deportiva.exe
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\bin\Debug\net6.0\C01 - Estadística deportiva.deps.json
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\bin\Debug\net6.0\C01 - Estadística deportiva.runtimeconfig.json
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\bin\Debug\net6.0\C01 - Estadística deportiva.dll
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\bin\Debug\net6.0\C01 - Estadística deportiva.pdb
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\bin\Debug\net6.0\EstadisticaDeportivaEntidades.dll
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\bin\Debug\net6.0\EstadisticaDeportivaEntidades.pdb
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Es.F6F950E2.Up2Date
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.dll
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\refint\C01 - Estadística deportiva.dll
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.pdb
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\C01 - Estadística deportiva.genruntimeconfig.cache
+C:\Users\Emi\Desktop\Clases\Colecciones\C01 - Estadística deportiva\obj\Debug\net6.0\ref\C01 - Estadística deportiva.dll

@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\bin\Debug\net6.0\AtencionAlCliente.deps.json
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\bin\Debug\net6.0\AtencionAlCliente.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\bin\Debug\net6.0\AtencionAlCliente.pdb
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\refint\AtencionAlCliente.dll
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\AtencionAlCliente.pdb
+C:\Users\Emi\Desktop\Clases\Encapsulamiento\AtencionAlCliente\obj\Debug\net6.0\ref\AtencionAlCliente.dll

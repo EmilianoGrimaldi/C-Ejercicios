@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\",
+  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4336DACC-914E-49D2-9E39-7854FC1A215A}|EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\estadisticadeportivaentidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4336DACC-914E-49D2-9E39-7854FC1A215A}|EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj|solutionrelative:estadisticadeportivaentidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}|C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj|c:\\users\\emi\\desktop\\clases\\colecciones\\c02 - enciendan sus motores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}|C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj|solutionrelative:c02 - enciendan sus motores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4336DACC-914E-49D2-9E39-7854FC1A215A}|EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\estadisticadeportivaentidades\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4336DACC-914E-49D2-9E39-7854FC1A215A}|EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj|solutionrelative:estadisticadeportivaentidades\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|c:\\users\\emi\\desktop\\clases\\colecciones\\entidadesenciendansusmotores\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|solutionrelative:entidadesenciendansusmotores\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B24CD98F-0787-4F89-826A-91DB3874EA6E}|C01 - Estad\u00EDstica deportiva\\C01 - Estad\u00EDstica deportiva.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\c01 - estad\u00EDstica deportiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B24CD98F-0787-4F89-826A-91DB3874EA6E}|C01 - Estad\u00EDstica deportiva\\C01 - Estad\u00EDstica deportiva.csproj|solutionrelative:c01 - estad\u00EDstica deportiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|c:\\users\\emi\\desktop\\clases\\colecciones\\entidadesenciendansusmotores\\autof1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|solutionrelative:entidadesenciendansusmotores\\autof1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Jugador.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\Jugador.cs",
-              "RelativeDocumentMoniker": "EstadisticaDeportivaEntidades\\Jugador.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\Jugador.cs",
-              "RelativeToolTip": "EstadisticaDeportivaEntidades\\Jugador.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAMAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
+              "RelativeDocumentMoniker": "C02 - Enciendan sus motores\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
+              "RelativeToolTip": "C02 - Enciendan sus motores\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:38:52.965Z",
+              "WhenOpened": "2024-05-02T00:17:42.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Equipo.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\Equipo.cs",
-              "RelativeDocumentMoniker": "EstadisticaDeportivaEntidades\\Equipo.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\Equipo.cs",
-              "RelativeToolTip": "EstadisticaDeportivaEntidades\\Equipo.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAgwCMAAAARAAAA",
+              "Title": "Competencia.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
+              "RelativeDocumentMoniker": "EntidadesEnciendanSusMotores\\Competencia.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
+              "RelativeToolTip": "EntidadesEnciendanSusMotores\\Competencia.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wCAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:35:57.217Z",
+              "WhenOpened": "2024-05-01T23:52:45.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estad\u00EDstica deportiva\\Program.cs",
-              "RelativeDocumentMoniker": "C01 - Estad\u00EDstica deportiva\\Program.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estad\u00EDstica deportiva\\Program.cs",
-              "RelativeToolTip": "C01 - Estad\u00EDstica deportiva\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAAyAAAA",
+              "Title": "AutoF1.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\AutoF1.cs",
+              "RelativeDocumentMoniker": "EntidadesEnciendanSusMotores\\AutoF1.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\AutoF1.cs",
+              "RelativeToolTip": "EntidadesEnciendanSusMotores\\AutoF1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:35:01.103Z",
+              "WhenOpened": "2024-05-01T23:52:11.37Z",
               "EditorCaption": ""
             }
           ]
