@@ -11,7 +11,7 @@ namespace HerenciaDeportivaEntidades
     {
         DateTime fechaNacimiento;
 
-        public DirectorTecnico(string nombre) : base(nombre)
+        private DirectorTecnico(string nombre) : base(nombre)
         {
         }
 

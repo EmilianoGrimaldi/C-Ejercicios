@@ -21,6 +21,10 @@ namespace HerenciaDeportivaEntidades
             {
                 return dni;
             }
+            set
+            { 
+                dni = value;
+            }
         }
 
         public string Nombre
@@ -28,6 +32,13 @@ namespace HerenciaDeportivaEntidades
             get
             {
                 return nombre;
+            }
+            set
+            {
+                if (!string.IsNullOrEmpty(value))
+                {
+                    nombre = value;
+                }
             }
         }
 

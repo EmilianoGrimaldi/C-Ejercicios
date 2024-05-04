@@ -10,7 +10,7 @@ namespace C02___Enciendan_sus_motores
             AutoF1 a3 = new AutoF1(5, "escu3");
             AutoF1 a4 = new AutoF1(1, "escu1");
             AutoF1 a5 = new AutoF1(2, "escu4");
-            Competencia competencia = new Competencia(5, 10);
+            Competencia competencia = new Competencia(5, 10, Competencia.TipoCompetencia.MotoCross);
 
             if (competencia + a1)
             {

@@ -5,37 +5,49 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace EntidadesEnciendanSusMotores
-{
+{ 
     public class Competencia
     {
+        public enum TipoCompetencia
+        {
+            F1,
+            MotoCross
+        }
         short cantidadCompetidores;
         short cantidadVueltas;
-        List<AutoF1> competidores;
+        List<VehiculoDeCarrera> competidores;
+        TipoCompetencia tipo;
 
         private Competencia()
         {
-            competidores = new List<AutoF1>();
+            competidores = new List<VehiculoDeCarrera>();
         }
-        public Competencia(short cantidadCompetidores, short cantidadVueltas):this()
+        public Competencia(short cantidadCompetidores, short cantidadVueltas, TipoCompetencia tipoCompetencia):this()
         {
             this.cantidadCompetidores = cantidadCompetidores;
             this.cantidadVueltas = cantidadVueltas;
+            tipo = tipoCompetencia;
         }
+        public short CantidadCompetidores { get => cantidadCompetidores; set => cantidadCompetidores = value; }
+        public short CantidadVueltas { get => cantidadVueltas; set => cantidadVueltas = value; }
+        public List<VehiculoDeCarrera> this[int i] { get => competidores; }
+        public TipoCompetencia Tipo { get => tipo; set => tipo = value; }
         public string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("COMPETENCIA");
+            sb.AppendLine($"Tipo de competencia -> {tipo}");
             sb.AppendLine($"Cantidad de vueltas -> {cantidadVueltas}");
             sb.AppendLine($"Cantidad de competidores -> {cantidadCompetidores}");
-            foreach (AutoF1 autoF1 in competidores)
+            foreach (VehiculoDeCarrera vehiculo in competidores)
             {
                 sb.AppendLine("---------------");
-                sb.Append(autoF1.MostrarDatos());
+                sb.Append(vehiculo.MostrarDatos());
                 sb.Append("---------------");
             }
             return sb.ToString();
         }
-        public static bool operator +(Competencia c, AutoF1 a)
+        public static bool operator +(Competencia c, VehiculoDeCarrera a)
         {
             /*
              La sobrecarga del operador + agregará un competidor si es que aún hay espacio (validar con cantidadCompetidores) y el competidor no forma parte de la lista (== entre Competencia y AutoF1).
@@ -59,7 +71,7 @@ namespace EntidadesEnciendanSusMotores
             }  
         }
 
-        public static bool operator -(Competencia c, AutoF1 a)
+        public static bool operator -(Competencia c, VehiculoDeCarrera a)
         {
             if (c == a)
             {
@@ -68,18 +80,18 @@ namespace EntidadesEnciendanSusMotores
             }
             return false;
         }
-        public static bool operator ==(Competencia c, AutoF1 a)
+        public static bool operator ==(Competencia c, VehiculoDeCarrera a)
         {
-            foreach (AutoF1 auto in c.competidores)
+            foreach (VehiculoDeCarrera vehiculo in c.competidores)
             {
-                if (auto == a)
+                if (vehiculo == a)
                 {
                     return true;
                 }
             }
             return false;
         }
-        public static bool operator !=(Competencia c, AutoF1 a)
+        public static bool operator !=(Competencia c, VehiculoDeCarrera a)
         {
             return !(c == a);
         }

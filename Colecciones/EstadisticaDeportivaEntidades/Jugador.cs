@@ -11,7 +11,6 @@ namespace EstadisticaDeportivaEntidades
         int dni;
         string nombre;
         int partidosJugados;
-        float promedioGoles;
         int totalGoles;
 
         /*
@@ -23,7 +22,6 @@ namespace EstadisticaDeportivaEntidades
         private Jugador()
         {
             partidosJugados = 0;
-            promedioGoles = 0;
             totalGoles = 0;
         }
         public Jugador(int dni, string nombre) : this()
@@ -47,6 +45,48 @@ namespace EstadisticaDeportivaEntidades
                 }
                 return 0; 
             }
+        }
+
+        public int PartidosJugados
+        {
+            get
+            {
+                return partidosJugados;    
+            }
+        }
+
+        public int TotalGoles
+        {
+            get
+            {
+                return totalGoles;
+            }
+        }
+
+        public int Dni 
+        { 
+            get 
+            {
+                return dni; 
+            } 
+            set 
+            {
+                dni = value;  
+            }
+        }
+        public string Nombre 
+        {
+            get
+            {
+                return nombre;
+            }
+            set 
+            {
+                if (!string.IsNullOrEmpty(value))
+                {
+                    nombre = value;
+                }         
+            } 
         }
 
         public string MostrarDatos()

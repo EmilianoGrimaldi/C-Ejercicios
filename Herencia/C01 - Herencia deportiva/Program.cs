@@ -33,8 +33,6 @@ namespace C01___Herencia_deportiva
             Console.WriteLine(director1 != director2);
             Console.WriteLine(jugador1 == jugador2);
             Console.WriteLine(jugador1 != jugador2);
-
-
         }
     }
 }
