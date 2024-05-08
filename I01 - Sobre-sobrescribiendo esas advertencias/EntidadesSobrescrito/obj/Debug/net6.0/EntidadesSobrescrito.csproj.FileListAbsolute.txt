@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\bin\Debug\net6.0\EntidadesSobrescrito.deps.json
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\bin\Debug\net6.0\EntidadesSobrescrito.dll
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\bin\Debug\net6.0\EntidadesSobrescrito.pdb
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\EntidadesSobrescrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\EntidadesSobrescrito.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\EntidadesSobrescrito.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\EntidadesSobrescrito.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\EntidadesSobrescrito.sourcelink.json
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\EntidadesSobrescrito.dll
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\refint\EntidadesSobrescrito.dll
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\EntidadesSobrescrito.pdb
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\EntidadesSobrescrito\obj\Debug\net6.0\ref\EntidadesSobrescrito.dll

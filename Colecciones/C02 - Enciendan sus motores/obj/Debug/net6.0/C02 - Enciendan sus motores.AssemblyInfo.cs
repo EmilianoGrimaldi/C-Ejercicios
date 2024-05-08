@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C02 - Enciendan sus motores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51226104ad55b72a17b457d0e5bdfa9df74f60aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcb244e39a64626e6fec716a57dcfff69ad939de")]
 [assembly: System.Reflection.AssemblyProductAttribute("C02 - Enciendan sus motores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C02 - Enciendan sus motores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

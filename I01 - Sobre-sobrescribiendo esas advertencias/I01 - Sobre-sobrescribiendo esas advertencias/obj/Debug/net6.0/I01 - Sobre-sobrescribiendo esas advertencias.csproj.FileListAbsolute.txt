@@ -1,0 +1,19 @@
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.exe
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.deps.json
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.runtimeconfig.json
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.pdb
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\EntidadesSobrescrito.dll
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\bin\Debug\net6.0\EntidadesSobrescrito.pdb
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.sourcelink.json
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - So.BD9AF214.Up2Date
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\refint\I01 - Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.pdb
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\I01 - Sobre-sobrescribiendo esas advertencias.genruntimeconfig.cache
+C:\Users\Emi\Desktop\Clases\I01 - Sobre-sobrescribiendo esas advertencias\I01 - Sobre-sobrescribiendo esas advertencias\obj\Debug\net6.0\ref\I01 - Sobre-sobrescribiendo esas advertencias.dll

@@ -41,9 +41,14 @@ namespace EntidadesEnciendanSusMotores
             sb.AppendLine($"Cantidad de competidores -> {cantidadCompetidores}");
             foreach (VehiculoDeCarrera vehiculo in competidores)
             {
-                sb.AppendLine("---------------");
-                sb.Append(vehiculo.MostrarDatos());
-                sb.Append("---------------");
+                if (vehiculo.GetType() == typeof(AutoF1))
+                {
+                    sb.Append(((AutoF1)vehiculo).MostrarDatos());
+                }
+                else
+                {
+                    sb.Append(((MotoCross)vehiculo).MostrarDatos());
+                }
             }
             return sb.ToString();
         }
@@ -82,13 +87,23 @@ namespace EntidadesEnciendanSusMotores
         }
         public static bool operator ==(Competencia c, VehiculoDeCarrera a)
         {
-            foreach (VehiculoDeCarrera vehiculo in c.competidores)
+            
+            if ((c.tipo == TipoCompetencia.MotoCross && a.GetType() == typeof(MotoCross)) || (c.tipo == TipoCompetencia.F1) && a.GetType() == typeof(AutoF1))
             {
-                if (vehiculo == a)
+                
+                foreach (VehiculoDeCarrera vehiculo in c.competidores)
                 {
-                    return true;
+                    if (vehiculo == a)
+                    {
+                        return true;
+                    }
                 }
             }
+            else
+            {
+                return true;
+            }
+         
             return false;
         }
         public static bool operator !=(Competencia c, VehiculoDeCarrera a)

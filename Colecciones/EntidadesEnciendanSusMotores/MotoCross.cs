@@ -10,10 +10,10 @@ namespace EntidadesEnciendanSusMotores
     {
         short cilindrada;
 
-        public MotoCross(string escuderia, short numero) : base(escuderia, numero)
+        public MotoCross(short numero, string escuderia) : base(escuderia, numero)
         {
         }
-        public MotoCross(string escuderia, short numero, short cilindrada): base(escuderia,numero)
+        public MotoCross(short numero, string escuderia, short cilindrada): base(escuderia,numero)
         { 
             this.cilindrada = cilindrada;
         }

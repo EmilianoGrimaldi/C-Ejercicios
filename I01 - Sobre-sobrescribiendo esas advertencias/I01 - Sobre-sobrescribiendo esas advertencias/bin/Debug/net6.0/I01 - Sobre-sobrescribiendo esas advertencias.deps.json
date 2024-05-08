@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I01 - Sobre-sobrescribiendo esas advertencias/1.0.0": {
+        "dependencies": {
+          "EntidadesSobrescrito": "1.0.0"
+        },
+        "runtime": {
+          "I01 - Sobre-sobrescribiendo esas advertencias.dll": {}
+        }
+      },
+      "EntidadesSobrescrito/1.0.0": {
+        "runtime": {
+          "EntidadesSobrescrito.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I01 - Sobre-sobrescribiendo esas advertencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesSobrescrito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
