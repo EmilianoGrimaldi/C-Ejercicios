@@ -1,0 +1,21 @@
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\bin\Debug\net6.0-windows\I02 - Registrate.exe
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\bin\Debug\net6.0-windows\I02 - Registrate.deps.json
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\bin\Debug\net6.0-windows\I02 - Registrate.runtimeconfig.json
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\bin\Debug\net6.0-windows\I02 - Registrate.dll
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\bin\Debug\net6.0-windows\I02 - Registrate.pdb
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02___Registrate.Form1.resources
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.csproj.GenerateResource.cache
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.dll
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\refint\I02 - Registrate.dll
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.pdb
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.genruntimeconfig.cache
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\ref\I02 - Registrate.dll
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\bin\Debug\net6.0-windows\EntidadesRegistrate.dll
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\bin\Debug\net6.0-windows\EntidadesRegistrate.pdb
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Registrate.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\Clases\Windows Forms\I02 - Registrate\obj\Debug\net6.0-windows\I02 - Re.D132BD59.Up2Date

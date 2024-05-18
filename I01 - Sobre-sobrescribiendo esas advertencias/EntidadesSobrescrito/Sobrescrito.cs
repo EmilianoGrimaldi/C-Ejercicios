@@ -31,14 +31,7 @@ namespace EntidadesSobrescrito
 
         public override bool Equals(object? obj)
         {
-            if (obj is null)
-            {
-                return false;
-            }
-
-            Sobrescrito s = obj as Sobrescrito;
-
-            return obj.Equals(s);
+            return obj is Sobrescrito;
         }
 
         public override int GetHashCode()

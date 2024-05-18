@@ -1,0 +1,12 @@
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\bin\Debug\net6.0\EntidadesRegistrate.deps.json
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\bin\Debug\net6.0\EntidadesRegistrate.dll
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\bin\Debug\net6.0\EntidadesRegistrate.pdb
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\EntidadesRegistrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\EntidadesRegistrate.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\EntidadesRegistrate.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\EntidadesRegistrate.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\EntidadesRegistrate.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\EntidadesRegistrate.dll
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\refint\EntidadesRegistrate.dll
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\EntidadesRegistrate.pdb
+C:\Users\Emi\Desktop\Clases\Windows Forms\EntidadesRegistrate\obj\Debug\net6.0\ref\EntidadesRegistrate.dll
