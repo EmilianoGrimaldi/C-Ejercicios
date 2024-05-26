@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|c:\\users\\emi\\desktop\\clases\\polimorfismo\\centralita\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|solutionrelative:centralita\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|c:\\users\\emi\\desktop\\clases\\polimorfismo\\centralita\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\centralita\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|solutionrelative:centralita\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|c:\\users\\emi\\desktop\\clases\\polimorfismo\\centralita\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\centralita\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|solutionrelative:centralita\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\centralita\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|solutionrelative:centralita\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|c:\\users\\emi\\desktop\\clases\\polimorfismo\\centralita\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{978FFAB9-94C9-4449-BD83-9B1F74CDDCBE}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\c01 - la centralita episodio ii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978FFAB9-94C9-4449-BD83-9B1F74CDDCBE}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|solutionrelative:c01 - la centralita episodio ii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFAB9-94C9-4449-BD83-9B1F74CDDCBE}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\c01 - la centralita episodio ii\\frmllamador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{978FFAB9-94C9-4449-BD83-9B1F74CDDCBE}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|solutionrelative:c01 - la centralita episodio ii\\frmllamador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFAB9-94C9-4449-BD83-9B1F74CDDCBE}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|c:\\users\\emi\\desktop\\clases\\polimorfismo\\c01 - la centralita episodio ii\\frmmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{978FFAB9-94C9-4449-BD83-9B1F74CDDCBE}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|solutionrelative:c01 - la centralita episodio ii\\frmmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFAB9-94C9-4449-BD83-9B1F74CDDCBE}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\c01 - la centralita episodio ii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{978FFAB9-94C9-4449-BD83-9B1F74CDDCBE}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|solutionrelative:c01 - la centralita episodio ii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\centralita\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CFC7494-8CDD-4113-A870-1C842E1E36E7}|Centralita\\EntidadesCentralita.csproj|solutionrelative:centralita\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADE2C1BB-869F-4DD3-AC59-18DBA4682E83}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|c:\\users\\emi\\desktop\\clases\\polimorfismo\\c01 - la centralita episodio ii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADE2C1BB-869F-4DD3-AC59-18DBA4682E83}|C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj|solutionrelative:c01 - la centralita episodio ii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1FF8D697-FE2D-4BA8-9775-1359020FD615}|Test\\Test.csproj|C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8D697-FE2D-4BA8-9775-1359020FD615}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +46,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Centralita.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Centralita.cs",
-              "RelativeDocumentMoniker": "Centralita\\Centralita.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Centralita.cs",
-              "RelativeToolTip": "Centralita\\Centralita.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHkAAAAeAAAA",
+              "DocumentIndex": 5,
+              "Title": "FrmMostrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\FrmMostrar.cs",
+              "RelativeDocumentMoniker": "C01 - La centralita Episodio II\\FrmMostrar.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\FrmMostrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "C01 - La centralita Episodio II\\FrmMostrar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T19:55:05.884Z",
+              "WhenOpened": "2024-05-22T16:14:27.942Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLlamador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\FrmLlamador.cs",
+              "RelativeDocumentMoniker": "C01 - La centralita Episodio II\\FrmLlamador.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\FrmLlamador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "C01 - La centralita Episodio II\\FrmLlamador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:13:52.608Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\Form1.cs",
+              "RelativeDocumentMoniker": "C01 - La centralita Episodio II\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\Form1.cs",
+              "RelativeToolTip": "C01 - La centralita Episodio II\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:51:08.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Llamada.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Llamada.cs",
+              "RelativeDocumentMoniker": "Centralita\\Llamada.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Llamada.cs",
+              "RelativeToolTip": "Centralita\\Llamada.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:35:38.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Local.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Local.cs",
+              "RelativeDocumentMoniker": "Centralita\\Local.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Local.cs",
+              "RelativeToolTip": "Centralita\\Local.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:49:07.062Z",
               "EditorCaption": ""
             },
             {
@@ -53,47 +119,45 @@
               "RelativeDocumentMoniker": "Centralita\\Provincial.cs",
               "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Provincial.cs",
               "RelativeToolTip": "Centralita\\Provincial.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAcwEsAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T19:50:07.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Local.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Local.cs",
-              "RelativeDocumentMoniker": "Centralita\\Local.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Local.cs",
-              "RelativeToolTip": "Centralita\\Local.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAApwCsAAAAgAAAA",
+              "DocumentIndex": 7,
+              "Title": "Centralita.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Centralita.cs",
+              "RelativeDocumentMoniker": "Centralita\\Centralita.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Centralita.cs",
+              "RelativeToolTip": "Centralita\\Centralita.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwBIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:49:07.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T19:55:05.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Llamada.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Llamada.cs",
-              "RelativeDocumentMoniker": "Centralita\\Llamada.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\Llamada.cs",
-              "RelativeToolTip": "Centralita\\Llamada.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAApwDIAAAATAAAA",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:35:38.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T22:39:18.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\Form1.cs",
               "RelativeDocumentMoniker": "C01 - La centralita Episodio II\\Form1.cs",
               "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "C01 - La centralita Episodio II\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:30:27.787Z",
+              "WhenOpened": "2024-05-21T22:50:25.238Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

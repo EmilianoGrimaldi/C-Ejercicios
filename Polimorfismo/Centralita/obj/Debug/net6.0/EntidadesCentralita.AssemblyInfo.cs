@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntidadesCentralita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf877675da864968ac566484aeb2af5cb241e491")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+026057c20ff8cb342b6045bb87f47bd9a62e8762")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntidadesCentralita")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntidadesCentralita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

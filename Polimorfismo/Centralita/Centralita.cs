@@ -121,9 +121,29 @@ namespace EntidadesCentralita
             {
                 if (llamada == l)
                 {
-                    
+                    return true;
                 }
             }
+            return false;
+        }
+
+        public static bool operator !=(Centralita c, Llamada l)
+        {
+            return !(c == l);
+        }
+
+        /*
+         El operador + invocará al método AgregarLlamada sólo si la llamada no está registrada en la Centralita. Utilizar la sobrecarga del operador == de Centralita.
+         */
+
+        public static bool operator +(Centralita c, Llamada l)
+        {
+            if (c != l)
+            {
+                c.AgregarLlamada(l);
+                return true;
+            }
+            return false;
         }
     }
 }

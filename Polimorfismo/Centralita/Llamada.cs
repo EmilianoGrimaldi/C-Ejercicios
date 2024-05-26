@@ -47,8 +47,8 @@ namespace EntidadesCentralita
         }
 
         public static bool operator ==(Llamada llamada1, Llamada llamada2)
-        {         
-            return ;
+        {   
+            return (llamada1 is Local l && l.Equals(llamada2) || llamada1 is Provincial p && p.Equals(llamada2)) && llamada1.nroOrigen == llamada2.nroOrigen && llamada1.nroDestino == llamada2.nroDestino;
         }
         public static bool operator !=(Llamada llamada1, Llamada llamada2)
         {

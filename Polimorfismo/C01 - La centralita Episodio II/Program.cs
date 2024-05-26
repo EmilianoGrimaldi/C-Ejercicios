@@ -11,7 +11,7 @@ namespace C01___La_centralita_Episodio_II
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new FrmMenu());
         }
     }
 }

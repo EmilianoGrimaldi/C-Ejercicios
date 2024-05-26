@@ -30,7 +30,7 @@ namespace EntidadesCentralita
             //CalcularCosto será privado. Retornará el valor de la llamada a partir de la duración y el costo de la misma.
             return duracion * costo;
         }
-        protected string Mostrar()
+        protected override string Mostrar()
         {
             StringBuilder sb = new();
             sb.AppendLine($"Llamada Local");

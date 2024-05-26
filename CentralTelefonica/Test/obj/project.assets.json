@@ -17,8 +17,8 @@
   "libraries": {
     "EntidadesCentralita/1.0.0": {
       "type": "project",
-      "path": "../Centralita/EntidadesCentralita.csproj",
-      "msbuildProject": "../Centralita/EntidadesCentralita.csproj"
+      "path": "../../Polimorfismo/Centralita/EntidadesCentralita.csproj",
+      "msbuildProject": "../../Polimorfismo/Centralita/EntidadesCentralita.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -55,6 +55,9 @@
           "projectReferences": {
             "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\EntidadesCentralita.csproj": {
               "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\CentralTelefonica\\Centralita\\EntidadesCentralita.csproj"
+            },
+            "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {
+              "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj"
             }
           }
         }

@@ -56,7 +56,7 @@ namespace EntidadesCentralita
 
             return -1;
         }
-        protected string Mostrar()
+        protected override string Mostrar()
         {
             StringBuilder sb = new();
             sb.AppendLine("Llamada provincial");  

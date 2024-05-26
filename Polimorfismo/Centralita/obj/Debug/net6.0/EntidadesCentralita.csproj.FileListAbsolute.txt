@@ -10,3 +10,15 @@ C:\Users\Emi\Desktop\Clases\CentralTelefonica\Centralita\obj\Debug\net6.0\Entida
 C:\Users\Emi\Desktop\Clases\CentralTelefonica\Centralita\obj\Debug\net6.0\refint\EntidadesCentralita.dll
 C:\Users\Emi\Desktop\Clases\CentralTelefonica\Centralita\obj\Debug\net6.0\EntidadesCentralita.pdb
 C:\Users\Emi\Desktop\Clases\CentralTelefonica\Centralita\obj\Debug\net6.0\ref\EntidadesCentralita.dll
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\bin\Debug\net6.0\EntidadesCentralita.deps.json
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\bin\Debug\net6.0\EntidadesCentralita.dll
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\bin\Debug\net6.0\EntidadesCentralita.pdb
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\EntidadesCentralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\EntidadesCentralita.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\EntidadesCentralita.AssemblyInfo.cs
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\EntidadesCentralita.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\EntidadesCentralita.sourcelink.json
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\EntidadesCentralita.dll
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\refint\EntidadesCentralita.dll
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\EntidadesCentralita.pdb
+C:\Users\Emi\Desktop\Clases\Polimorfismo\Centralita\obj\Debug\net6.0\ref\EntidadesCentralita.dll
