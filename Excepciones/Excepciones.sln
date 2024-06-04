@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01 - Lanzar y atrapar", "I01 - Lanzar y atrapar\I01 - Lanzar y atrapar.csproj", "{5DE42413-1927-4931-ACE9-CD8B52CC9A65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I01 - Lanzar y atrapar", "I01 - Lanzar y atrapar\I01 - Lanzar y atrapar.csproj", "{5DE42413-1927-4931-ACE9-CD8B52CC9A65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades01", "Entidades01\Entidades01.csproj", "{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades01", "Entidades01\Entidades01.csproj", "{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I02 - Atrapame si puedes", "I02 - Atrapame si puedes\I02 - Atrapame si puedes.csproj", "{549BD280-DF90-4B92-B4E6-0FEC1EBC729C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntidadesCentralita", "..\Polimorfismo\Centralita\EntidadesCentralita.csproj", "{22D1C811-D0FC-41C3-B55A-262F15C48D64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C01 - La centralita Episodio III", "..\Polimorfismo\C01 - La centralita Episodio II\C01 - La centralita Episodio III.csproj", "{28BF6496-24B2-460A-9002-F8B656CE6745}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "..\Polimorfismo\Test\Test.csproj", "{BC653D1B-468B-488C-9F9B-3DC8C1683831}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549BD280-DF90-4B92-B4E6-0FEC1EBC729C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549BD280-DF90-4B92-B4E6-0FEC1EBC729C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549BD280-DF90-4B92-B4E6-0FEC1EBC729C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549BD280-DF90-4B92-B4E6-0FEC1EBC729C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D1C811-D0FC-41C3-B55A-262F15C48D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D1C811-D0FC-41C3-B55A-262F15C48D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D1C811-D0FC-41C3-B55A-262F15C48D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D1C811-D0FC-41C3-B55A-262F15C48D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BF6496-24B2-460A-9002-F8B656CE6745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BF6496-24B2-460A-9002-F8B656CE6745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BF6496-24B2-460A-9002-F8B656CE6745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BF6496-24B2-460A-9002-F8B656CE6745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC653D1B-468B-488C-9F9B-3DC8C1683831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC653D1B-468B-488C-9F9B-3DC8C1683831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC653D1B-468B-488C-9F9B-3DC8C1683831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC653D1B-468B-488C-9F9B-3DC8C1683831}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

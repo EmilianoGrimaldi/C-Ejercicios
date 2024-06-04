@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj",
         "projectName": "EntidadesCentralita",
-        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj",
-        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\obj\\",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Polimorfismo\\Centralita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

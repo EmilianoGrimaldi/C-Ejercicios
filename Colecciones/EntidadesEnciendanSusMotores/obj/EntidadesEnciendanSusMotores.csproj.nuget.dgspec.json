@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj": {
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj",
         "projectName": "EntidadesEnciendanSusMotores",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj",
         "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\obj\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

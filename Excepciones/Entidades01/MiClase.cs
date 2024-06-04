@@ -8,19 +8,19 @@ namespace Entidades01
 {
     public class MiClase
     {
-        public MiClase()
-        {      
+        public MiClase(string msj)
+        {
             try
             {
                 MiClase miClase = new MiClase();
             }
             catch (Exception ex)
             {
-                throw new UnaException("Excepcion capturada en MiClase()", ex);
+                throw new UnaException("Excepcion capturada en MiClase()");
             }
         }
-        public MiClase(string msj):this()
-        {
+        public MiClase()
+        {                
             try
             {
                 MetodoEstatico();

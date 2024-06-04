@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C02 - Go Speed Racer Go!/1.0.0": {
+        "dependencies": {
+          "EntidadesC02GoSpeedRacerGo!": "1.0.0"
+        },
+        "runtime": {
+          "C02 - Go Speed Racer Go!.dll": {}
+        }
+      },
+      "EntidadesC02GoSpeedRacerGo!/1.0.0": {
+        "runtime": {
+          "EntidadesC02GoSpeedRacerGo!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C02 - Go Speed Racer Go!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesC02GoSpeedRacerGo!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

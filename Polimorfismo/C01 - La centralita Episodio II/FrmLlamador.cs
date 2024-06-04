@@ -46,26 +46,32 @@ namespace C01___La_centralita_Episodio_II
 
             // Las llamadas se irán registrando en la Centralita.
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
-            if (centralita + l1)
+            try
             {
-                
-            }
+                if (centralita + l1)
+                {
 
-            if (centralita + l2)
+                }
+
+                if (centralita + l2)
+                {
+
+                }
+
+                if (centralita + l3)
+                {
+
+                }
+
+                if (centralita + l4)
+                {
+
+                }
+            }
+            catch (CentralitaExcepcion)
             {
-                
+                MessageBox.Show("Una de las llamadas ya esta registrada en la centralita","Informacion",MessageBoxButtons.OK,MessageBoxIcon.Information);
             }
-
-            if (centralita + l3)
-            {
-                
-            }
-
-            if (centralita + l4)
-            {
-                
-            }
-
         }
 
         private void FrmLlamador_FormClosing(object sender, FormClosingEventArgs e)
@@ -171,21 +177,35 @@ namespace C01___La_centralita_Episodio_II
                 if (tipoLlamada == TipoLlamada.Provincial)
                 {
                     Provincial llamada = new Provincial(txtNroOrigen.Text, franjas, duracionLlamada, txtNroDestino.Text);
-
-                    if (centralita + llamada)
+                    try
                     {
-                        MessageBox.Show("Llamada provincial realizada con exito");
+                        if (centralita + llamada)
+                        {
+                            MessageBox.Show("Llamada provincial realizada con exito");
+                        }
                     }
+                    catch (CentralitaExcepcion)
+                    {
+                        MessageBox.Show("Una de las llamadas ya esta registrada en la centralita", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    
                 }
                 else
                 {
                     Random randomCosto = new Random();
                     double costoLlamada = randomCosto.NextDouble() * (5.6 - 0.5) + 0.5;
                     Local llamada = new Local(txtNroOrigen.Text, duracionLlamada, txtNroDestino.Text, (float)costoLlamada);
-                    if (centralita + llamada)
+                    try
                     {
-                        MessageBox.Show("Llamada local realizada con exito");
+                        if (centralita + llamada)
+                        {
+                            MessageBox.Show("Llamada local realizada con exito");
+                        }
                     }
+                    catch (CentralitaExcepcion)
+                    {
+                        MessageBox.Show("Una de las llamadas ya esta registrada en la centralita", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }                 
                 }
             }
             else

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C01 - Herencia deportiva")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51226104ad55b72a17b457d0e5bdfa9df74f60aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f47eec4099d5bad04086981fbf3d4291c72179bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("C01 - Herencia deportiva")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C01 - Herencia deportiva")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

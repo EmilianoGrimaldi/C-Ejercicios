@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\",
+  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}|C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj|c:\\users\\emi\\desktop\\clases\\colecciones\\c02 - enciendan sus motores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}|C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\c02 - enciendan sus motores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DCBA0E2-46EE-4C2A-AD0A-14A74ED60DC1}|C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj|solutionrelative:c02 - enciendan sus motores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|c:\\users\\emi\\desktop\\clases\\colecciones\\entidadesenciendansusmotores\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\entidadesenciendansusmotores\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|solutionrelative:entidadesenciendansusmotores\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|c:\\users\\emi\\desktop\\clases\\colecciones\\entidadesenciendansusmotores\\autof1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\colecciones\\entidadesenciendansusmotores\\autof1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96279A70-616A-4166-981F-EB4423148939}|EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|solutionrelative:entidadesenciendansusmotores\\autof1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
               "RelativeDocumentMoniker": "C02 - Enciendan sus motores\\Program.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
               "RelativeToolTip": "C02 - Enciendan sus motores\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwA0AAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwAwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T00:17:42.727Z",
               "EditorCaption": ""
@@ -41,25 +41,27 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Competencia.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
               "RelativeDocumentMoniker": "EntidadesEnciendanSusMotores\\Competencia.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
               "RelativeToolTip": "EntidadesEnciendanSusMotores\\Competencia.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA7wCAAAAAZAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:52:45.719Z"
+              "WhenOpened": "2024-05-01T23:52:45.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AutoF1.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\AutoF1.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\AutoF1.cs",
               "RelativeDocumentMoniker": "EntidadesEnciendanSusMotores\\AutoF1.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EntidadesEnciendanSusMotores\\AutoF1.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\AutoF1.cs",
               "RelativeToolTip": "EntidadesEnciendanSusMotores\\AutoF1.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAABCAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:52:11.37Z"
+              "WhenOpened": "2024-05-01T23:52:11.37Z",
+              "EditorCaption": ""
             }
           ]
         }

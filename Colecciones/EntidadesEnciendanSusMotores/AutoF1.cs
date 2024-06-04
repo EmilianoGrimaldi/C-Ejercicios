@@ -2,29 +2,40 @@
 
 namespace EntidadesEnciendanSusMotores
 {
-    public class AutoF1 : VehiculoDeCarrera
+    public class AutoF1
     {
-        short caballosDeFuerza;
+        short cantidadCombustible;
+        bool enCompetencia;
+        string escuderia;
+        short numero;
+        short vueltasRestantes;
 
-        public AutoF1(short numero, string escuderia):base(escuderia,numero)
-        {              
+        public AutoF1(short numero, string escuderia)
+        {          
+            this.numero = numero;
+            this.escuderia = escuderia;
+            enCompetencia = false;
+            cantidadCombustible = 0;
+            vueltasRestantes = 0;
         }
-        public AutoF1(short numero, string escuderia, short caballosDeFuerza) : this(numero, escuderia)
-        {
-            this.caballosDeFuerza = caballosDeFuerza;
-        }
-        public short CaballosDeFuerza { get => caballosDeFuerza; set => caballosDeFuerza = value; }
+
+        public short CantidadCombustible { get => cantidadCombustible; set => cantidadCombustible = value; }
+        public bool EnCompetencia { get => enCompetencia; set => enCompetencia = value; }
+        public short VueltasRestantes { get => vueltasRestantes; set => vueltasRestantes = value; }
 
         public string MostrarDatos()
         { 
             StringBuilder sb = new StringBuilder();
-            sb.Append(base.MostrarDatos());
-            sb.AppendLine($"Caballos de fuerza -> {caballosDeFuerza}");
+            sb.AppendLine($"Escuderia: {escuderia}");
+            sb.AppendLine($"Numero: {numero}");
+            sb.AppendLine($"En competencia: {enCompetencia}");
+            sb.AppendLine($"Cantidad de combustible: {cantidadCombustible}");
+            sb.AppendLine($"Vueltas restantes: {vueltasRestantes}");
             return sb.ToString();
         }
         public static bool operator ==(AutoF1 v1, AutoF1 v2)
         {
-            return (v1.escuderia == v2.escuderia) && (v1.numero == v2.numero) && (v1.caballosDeFuerza == v2.caballosDeFuerza);
+            return (v1.escuderia == v2.escuderia) && (v1.numero == v2.numero);
         }
         public static bool operator !=(AutoF1 v1, AutoF1 v2)
         {

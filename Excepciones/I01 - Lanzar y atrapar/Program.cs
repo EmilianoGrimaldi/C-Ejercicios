@@ -13,7 +13,8 @@ namespace I01___Lanzar_y_atrapar
             }
             catch (Exception ex) 
             {
-                Console.WriteLine(ex.InnerException);
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.InnerException);                                   
             }
             
         }

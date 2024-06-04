@@ -1,9 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\",
+  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A64847B-AC29-415D-A873-CC20E37DDA73}|..\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj|c:\\users\\emi\\desktop\\clases\\colecciones\\c02 - enciendan sus motores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20BD4AEC-637F-4D96-AF78-BEA0ABC3C0E8}|C02 - Go Speed Racer Go!\\C02 - Go Speed Racer Go!.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\c02 - go speed racer go!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BD4AEC-637F-4D96-AF78-BEA0ABC3C0E8}|C02 - Go Speed Racer Go!\\C02 - Go Speed Racer Go!.csproj|solutionrelative:c02 - go speed racer go!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
-              "RelativeToolTip": "..\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAA6AAAA",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
+              "RelativeDocumentMoniker": "C02 - Go Speed Racer Go!\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
+              "RelativeToolTip": "C02 - Go Speed Racer Go!\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T02:32:16.547Z",
+              "WhenOpened": "2024-06-04T17:26:39.653Z",
               "EditorCaption": ""
             }
           ]

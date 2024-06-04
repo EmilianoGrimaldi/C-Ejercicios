@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj": {
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
         "projectName": "ElViajarEsUnPlacerEntidades",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
         "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\obj\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,18 +60,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj": {
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
         "projectName": "I01 - El viajar es un placer",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
         "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\I01 - El viajar es un placer\\obj\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj": {
-                "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj"
+              "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj": {
+                "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj"
               }
             }
           }
@@ -124,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

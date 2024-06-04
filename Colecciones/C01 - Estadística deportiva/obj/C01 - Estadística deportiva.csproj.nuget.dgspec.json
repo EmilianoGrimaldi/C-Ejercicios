@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C01 - Estadística deportiva\\C01 - Estadística deportiva.csproj": {}
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estadística deportiva\\C01 - Estadística deportiva.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C01 - Estadística deportiva\\C01 - Estadística deportiva.csproj": {
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estadística deportiva\\C01 - Estadística deportiva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C01 - Estadística deportiva\\C01 - Estadística deportiva.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estadística deportiva\\C01 - Estadística deportiva.csproj",
         "projectName": "C01 - Estadística deportiva",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C01 - Estadística deportiva\\C01 - Estadística deportiva.csproj",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estadística deportiva\\C01 - Estadística deportiva.csproj",
         "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C01 - Estadística deportiva\\obj\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C01 - Estadística deportiva\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj": {
-                "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj"
+              "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj": {
+                "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj"
               }
             }
           }
@@ -64,18 +64,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj": {
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj",
         "projectName": "EstadisticaDeportivaEntidades",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\EstadisticaDeportivaEntidades.csproj",
         "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\EstadisticaDeportivaEntidades\\obj\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EstadisticaDeportivaEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

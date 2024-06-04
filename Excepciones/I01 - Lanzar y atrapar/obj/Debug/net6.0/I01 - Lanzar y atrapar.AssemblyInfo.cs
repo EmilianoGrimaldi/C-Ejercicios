@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("I01 - Lanzar y atrapar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e80b7544823949fb915bc71b2d4b7a41440a50b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f47eec4099d5bad04086981fbf3d4291c72179bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("I01 - Lanzar y atrapar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("I01 - Lanzar y atrapar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
