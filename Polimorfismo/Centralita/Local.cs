@@ -14,7 +14,7 @@ namespace EntidadesCentralita
         {
             this.costo = costo;
         }
-        public Local(Llamada llamada, float costo):this(llamada.NroOrigen, llamada.Duracion,llamada.NroDestino,costo)
+        public Local(float costo, Llamada llamada):this(llamada.NroOrigen, llamada.Duracion,llamada.NroDestino,costo)
         {
 
         }

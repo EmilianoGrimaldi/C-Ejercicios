@@ -19,3 +19,26 @@ C:\Users\Emi\Desktop\Clases\Polimorfismo\C01 - La centralita Episodio II\obj\Deb
 C:\Users\Emi\Desktop\Clases\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.pdb
 C:\Users\Emi\Desktop\Clases\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.genruntimeconfig.cache
 C:\Users\Emi\Desktop\Clases\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\ref\C01 - La centralita Episodio II.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio II.exe
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio II.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio II.runtimeconfig.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio II.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio II.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\EntidadesCentralita.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\EntidadesCentralita.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01___La_centralita_Episodio_II.FrmLlamador.resources
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01___La_centralita_Episodio_II.FrmMenu.resources
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01___La_centralita_Episodio_II.FrmMostrar.resources
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.csproj.GenerateResource.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La.DEF1264C.Up2Date
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\refint\C01 - La centralita Episodio II.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio II.genruntimeconfig.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\ref\C01 - La centralita Episodio II.dll

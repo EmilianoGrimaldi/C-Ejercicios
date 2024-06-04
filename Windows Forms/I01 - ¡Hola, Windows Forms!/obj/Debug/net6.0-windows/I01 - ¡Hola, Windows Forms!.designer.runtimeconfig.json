@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Emi\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Emi\\.nuget\\packages"
+      "C:\\Users\\grima\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\grima\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

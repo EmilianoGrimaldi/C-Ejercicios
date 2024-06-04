@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE42413-1927-4931-ACE9-CD8B52CC9A65}|I01 - Lanzar y atrapar\\I01 - Lanzar y atrapar.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\excepciones\\i01 - lanzar y atrapar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE42413-1927-4931-ACE9-CD8B52CC9A65}|I01 - Lanzar y atrapar\\I01 - Lanzar y atrapar.csproj|solutionrelative:i01 - lanzar y atrapar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}|Entidades01\\Entidades01.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\excepciones\\entidades01\\otraclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}|Entidades01\\Entidades01.csproj|solutionrelative:entidades01\\otraclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}|Entidades01\\Entidades01.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\excepciones\\entidades01\\miclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}|Entidades01\\Entidades01.csproj|solutionrelative:entidades01\\miclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}|Entidades01\\Entidades01.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\excepciones\\entidades01\\unaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}|Entidades01\\Entidades01.csproj|solutionrelative:entidades01\\unaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}|Entidades01\\Entidades01.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\excepciones\\entidades01\\miexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAFE15D-46C5-418D-B44E-F6440C7E8F7B}|Entidades01\\Entidades01.csproj|solutionrelative:entidades01\\miexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OtraClase.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\OtraClase.cs",
+              "RelativeDocumentMoniker": "Entidades01\\OtraClase.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\OtraClase.cs",
+              "RelativeToolTip": "Entidades01\\OtraClase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:02:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiClase.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\MiClase.cs",
+              "RelativeDocumentMoniker": "Entidades01\\MiClase.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\MiClase.cs",
+              "RelativeToolTip": "Entidades01\\MiClase.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:55:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiExcepcion.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\MiExcepcion.cs",
+              "RelativeDocumentMoniker": "Entidades01\\MiExcepcion.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\MiExcepcion.cs",
+              "RelativeToolTip": "Entidades01\\MiExcepcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:55:10.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnaException.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\UnaException.cs",
+              "RelativeDocumentMoniker": "Entidades01\\UnaException.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\UnaException.cs",
+              "RelativeToolTip": "Entidades01\\UnaException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:54:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\I01 - Lanzar y atrapar\\Program.cs",
+              "RelativeDocumentMoniker": "I01 - Lanzar y atrapar\\Program.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\I01 - Lanzar y atrapar\\Program.cs",
+              "RelativeToolTip": "I01 - Lanzar y atrapar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:53:41.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

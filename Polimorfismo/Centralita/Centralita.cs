@@ -16,7 +16,7 @@ namespace EntidadesCentralita
             listaDeLlamadas = new();
             razonSocial = nombreEmpresa;
         }
-        public Centralita()
+        public Centralita() : this("Centralita Quilmes")
         {
 
         }
@@ -87,8 +87,7 @@ namespace EntidadesCentralita
         private string Mostrar()
         {
             StringBuilder sb = new();
-            sb.AppendLine(razonSocial);
-
+            sb.AppendLine(razonSocial);         
             foreach (Llamada llamada in listaDeLlamadas)
             {
                 if (llamada is Local l)
@@ -98,8 +97,8 @@ namespace EntidadesCentralita
                 else if (llamada is Provincial p)
                 {
                     sb.AppendLine(p.ToString());
-                }
-            }
+                }          
+            }            
             return sb.ToString();
         }
         public void OrdenarLlamadas()

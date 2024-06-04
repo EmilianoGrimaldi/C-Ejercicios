@@ -1,12 +1,136 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{982CCA2D-8E44-4177-BB86-C3263FD5E4A8}|I02 - Registrate\\I02 - Registrate.csproj|C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\i02 - registrate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{982CCA2D-8E44-4177-BB86-C3263FD5E4A8}|I02 - Registrate\\I02 - Registrate.csproj|solutionrelative:i02 - registrate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACF5F47-5B90-4295-98FB-7C8FF9AC0297}|I01 - \u00A1Hola, Windows Forms!\\I01 - \u00A1Hola, Windows Forms!.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\windows forms\\i01 - \u00A1hola, windows forms!\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACF5F47-5B90-4295-98FB-7C8FF9AC0297}|I01 - \u00A1Hola, Windows Forms!\\I01 - \u00A1Hola, Windows Forms!.csproj|solutionrelative:i01 - \u00A1hola, windows forms!\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACF5F47-5B90-4295-98FB-7C8FF9AC0297}|I01 - \u00A1Hola, Windows Forms!\\I01 - \u00A1Hola, Windows Forms!.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\windows forms\\i01 - \u00A1hola, windows forms!\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACF5F47-5B90-4295-98FB-7C8FF9AC0297}|I01 - \u00A1Hola, Windows Forms!\\I01 - \u00A1Hola, Windows Forms!.csproj|solutionrelative:i01 - \u00A1hola, windows forms!\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACF5F47-5B90-4295-98FB-7C8FF9AC0297}|I01 - \u00A1Hola, Windows Forms!\\I01 - \u00A1Hola, Windows Forms!.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\windows forms\\i01 - \u00A1hola, windows forms!\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACF5F47-5B90-4295-98FB-7C8FF9AC0297}|I01 - \u00A1Hola, Windows Forms!\\I01 - \u00A1Hola, Windows Forms!.csproj|solutionrelative:i01 - \u00A1hola, windows forms!\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982CCA2D-8E44-4177-BB86-C3263FD5E4A8}|I02 - Registrate\\I02 - Registrate.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\windows forms\\i02 - registrate\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982CCA2D-8E44-4177-BB86-C3263FD5E4A8}|I02 - Registrate\\I02 - Registrate.csproj|solutionrelative:i02 - registrate\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982CCA2D-8E44-4177-BB86-C3263FD5E4A8}|I02 - Registrate\\I02 - Registrate.csproj|C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\i02 - registrate\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{982CCA2D-8E44-4177-BB86-C3263FD5E4A8}|I02 - Registrate\\I02 - Registrate.csproj|solutionrelative:i02 - registrate\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F66CCA0-8F2C-4A04-8F36-FA76E7190281}|EntidadesRegistrate\\EntidadesRegistrate.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\windows forms\\entidadesregistrate\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F66CCA0-8F2C-4A04-8F36-FA76E7190281}|EntidadesRegistrate\\EntidadesRegistrate.csproj|solutionrelative:entidadesregistrate\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I01 - \u00A1Hola, Windows Forms!\\Form2.cs",
+              "RelativeDocumentMoniker": "I01 - \u00A1Hola, Windows Forms!\\Form2.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I01 - \u00A1Hola, Windows Forms!\\Form2.cs",
+              "RelativeToolTip": "I01 - \u00A1Hola, Windows Forms!\\Form2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:24:33.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I01 - \u00A1Hola, Windows Forms!\\Form1.cs",
+              "RelativeDocumentMoniker": "I01 - \u00A1Hola, Windows Forms!\\Form1.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I01 - \u00A1Hola, Windows Forms!\\Form1.cs",
+              "RelativeToolTip": "I01 - \u00A1Hola, Windows Forms!\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:24:17.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I01 - \u00A1Hola, Windows Forms!\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "I01 - \u00A1Hola, Windows Forms!\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I01 - \u00A1Hola, Windows Forms!\\Form1.Designer.cs",
+              "RelativeToolTip": "I01 - \u00A1Hola, Windows Forms!\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:24:00.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\Form1.cs",
+              "RelativeDocumentMoniker": "I02 - Registrate\\Form1.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "I02 - Registrate\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:44:06.952Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "I02 - Registrate\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\Form1.Designer.cs",
+              "RelativeToolTip": "I02 - Registrate\\Form1.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:44:01.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\Form1.resx",
+              "RelativeDocumentMoniker": "I02 - Registrate\\Form1.resx",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\Form1.resx",
+              "RelativeToolTip": "I02 - Registrate\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-29T01:43:59.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingresante.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\EntidadesRegistrate\\Ingresante.cs",
+              "RelativeDocumentMoniker": "EntidadesRegistrate\\Ingresante.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\EntidadesRegistrate\\Ingresante.cs",
+              "RelativeToolTip": "EntidadesRegistrate\\Ingresante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:43:49.518Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

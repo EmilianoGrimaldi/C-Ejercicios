@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF9EBC7-1DDB-437D-BAFC-14241FDD9E9F}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\el dispositivo - pp\\entidades\\appmusical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF9EBC7-1DDB-437D-BAFC-14241FDD9E9F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\appmusical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF9EBC7-1DDB-437D-BAFC-14241FDD9E9F}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\el dispositivo - pp\\entidades\\appjuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF9EBC7-1DDB-437D-BAFC-14241FDD9E9F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\appjuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF9EBC7-1DDB-437D-BAFC-14241FDD9E9F}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\el dispositivo - pp\\entidades\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF9EBC7-1DDB-437D-BAFC-14241FDD9E9F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF9EBC7-1DDB-437D-BAFC-14241FDD9E9F}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\el dispositivo - pp\\entidades\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF9EBC7-1DDB-437D-BAFC-14241FDD9E9F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C97FC52-8E70-4BF5-ACD0-EC591D73EBA5}|FormPrincipal\\FormPrincipal.csproj|C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C97FC52-8E70-4BF5-ACD0-EC591D73EBA5}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C97FC52-8E70-4BF5-ACD0-EC591D73EBA5}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\grima\\onedrive\\escritorio\\el dispositivo - pp\\formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C97FC52-8E70-4BF5-ACD0-EC591D73EBA5}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppJuegos.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\Entidades\\AppJuegos.cs",
+              "RelativeDocumentMoniker": "Entidades\\AppJuegos.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\Entidades\\AppJuegos.cs",
+              "RelativeToolTip": "Entidades\\AppJuegos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:15:35.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\FormPrincipal\\Form1.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\Form1.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\FormPrincipal\\Form1.cs",
+              "RelativeToolTip": "FormPrincipal\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:09:43.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppMusical.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\Entidades\\AppMusical.cs",
+              "RelativeDocumentMoniker": "Entidades\\AppMusical.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\Entidades\\AppMusical.cs",
+              "RelativeToolTip": "Entidades\\AppMusical.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:13:36.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\FormPrincipal\\Form1.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\Form1.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\FormPrincipal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:03:07.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\Entidades\\Aplicacion.cs",
+              "RelativeDocumentMoniker": "Entidades\\Aplicacion.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\Entidades\\Aplicacion.cs",
+              "RelativeToolTip": "Entidades\\Aplicacion.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAASwC0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:49:47.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\Entidades\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Dispositivo.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\El dispositivo - PP\\Entidades\\Dispositivo.cs",
+              "RelativeToolTip": "Entidades\\Dispositivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:40:21.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

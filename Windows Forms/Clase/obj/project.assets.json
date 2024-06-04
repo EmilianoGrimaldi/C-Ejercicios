@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Emi\\.nuget\\packages\\": {}
+    "C:\\Users\\grima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\Clase\\Clase.csproj",
+      "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\Clase\\Clase.csproj",
       "projectName": "Clase",
-      "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\Clase\\Clase.csproj",
-      "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\Clase\\obj\\",
+      "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\Clase\\Clase.csproj",
+      "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\Clase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

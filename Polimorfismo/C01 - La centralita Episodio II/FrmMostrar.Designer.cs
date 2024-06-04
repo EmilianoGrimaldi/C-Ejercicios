@@ -28,12 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "FrmMostrar";
+            richTextBox = new RichTextBox();
+            SuspendLayout();
+            // 
+            // richTextBox
+            // 
+            richTextBox.Location = new Point(12, 12);
+            richTextBox.Name = "richTextBox";
+            richTextBox.Size = new Size(293, 298);
+            richTextBox.TabIndex = 0;
+            richTextBox.Text = "";
+            // 
+            // FrmMostrar
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(317, 338);
+            Controls.Add(richTextBox);
+            Name = "FrmMostrar";
+            Text = "FrmMostrar";
+            FormClosing += FrmMostrar_FormClosing;
+            Load += FrmMostrar_Load;
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private RichTextBox richTextBox;
     }
 }

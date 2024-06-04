@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\I02 - Registrate\\I02 - Registrate.csproj": {}
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\I02 - Registrate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj",
         "projectName": "EntidadesRegistrate",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj",
-        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\EntidadesRegistrate\\obj\\",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\EntidadesRegistrate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\I02 - Registrate\\I02 - Registrate.csproj": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\I02 - Registrate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\I02 - Registrate\\I02 - Registrate.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\I02 - Registrate.csproj",
         "projectName": "I02 - Registrate",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\I02 - Registrate\\I02 - Registrate.csproj",
-        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\I02 - Registrate\\obj\\",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\I02 - Registrate.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\I02 - Registrate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj": {
-                "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj"
+              "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj": {
+                "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Windows Forms\\EntidadesRegistrate\\EntidadesRegistrate.csproj"
               }
             }
           }
@@ -127,7 +127,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj": {}
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj",
         "projectName": "C01 - La centralita Episodio II",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj",
-        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\C01 - La centralita Episodio II\\obj\\",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\C01 - La centralita Episodio II\\C01 - La centralita Episodio II.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\C01 - La centralita Episodio II\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {
-                "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj"
+              "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {
+                "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj"
               }
             }
           }
@@ -67,21 +67,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj",
         "projectName": "EntidadesCentralita",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj",
-        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\Clases\\Polimorfismo\\Centralita\\obj\\",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\EntidadesCentralita.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Polimorfismo\\Centralita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -127,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

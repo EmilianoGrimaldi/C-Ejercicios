@@ -2,7 +2,7 @@
 
 namespace EntidadesCentralita
 {
-    enum TipoLlamada
+    public enum TipoLlamada
     {
         Local,
         Provincial,
