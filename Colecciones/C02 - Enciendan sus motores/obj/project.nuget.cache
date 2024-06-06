@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "feXPF9LYBO4=",
   "success": true,
   "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj",
+=======
+  "dgSpecHash": "6TG6sOOxBBQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj",
+>>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
   "expectedPackageFiles": [],
   "logs": []
 }

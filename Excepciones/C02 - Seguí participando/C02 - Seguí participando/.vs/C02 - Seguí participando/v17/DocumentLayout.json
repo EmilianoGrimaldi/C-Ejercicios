@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\C02 - Segu\u00ED participando\\C02 - Segu\u00ED participando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE288C0E-BCE7-4405-A7A4-0CD26E8A6E44}|..\\..\\..\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\entidadesc02gospeedracergo!\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE288C0E-BCE7-4405-A7A4-0CD26E8A6E44}|..\\..\\..\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\entidadesc02gospeedracergo!\\competencianodisponibleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2466ECA6-E74D-4D58-B14D-2D94078DAA3C}|..\\..\\..\\Herencia\\C02 - Go Speed Racer Go!\\C02 - Go Speed Racer Go!.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\c02 - go speed racer go!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Competencia.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\Competencia.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Herencia\\EntidadesC02GoSpeedRacerGo!\\Competencia.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\Competencia.cs",
+              "RelativeToolTip": "..\\..\\..\\Herencia\\EntidadesC02GoSpeedRacerGo!\\Competencia.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAswGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:54:22.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompetenciaNoDisponibleException.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\CompetenciaNoDisponibleException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Herencia\\EntidadesC02GoSpeedRacerGo!\\CompetenciaNoDisponibleException.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\CompetenciaNoDisponibleException.cs",
+              "RelativeToolTip": "..\\..\\..\\Herencia\\EntidadesC02GoSpeedRacerGo!\\CompetenciaNoDisponibleException.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvy8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:42:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:40:19.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

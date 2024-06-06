@@ -10,3 +10,15 @@ C:\Users\Emi\Desktop\Clases\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\n
 C:\Users\Emi\Desktop\Clases\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\refint\EntidadesEnciendanSusMotores.dll
 C:\Users\Emi\Desktop\Clases\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\EntidadesEnciendanSusMotores.pdb
 C:\Users\Emi\Desktop\Clases\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\ref\EntidadesEnciendanSusMotores.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\bin\Debug\net6.0\EntidadesEnciendanSusMotores.deps.json
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\bin\Debug\net6.0\EntidadesEnciendanSusMotores.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\bin\Debug\net6.0\EntidadesEnciendanSusMotores.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\EntidadesEnciendanSusMotores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\EntidadesEnciendanSusMotores.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\EntidadesEnciendanSusMotores.AssemblyInfo.cs
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\EntidadesEnciendanSusMotores.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\EntidadesEnciendanSusMotores.sourcelink.json
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\EntidadesEnciendanSusMotores.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\refint\EntidadesEnciendanSusMotores.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\EntidadesEnciendanSusMotores.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Colecciones\EntidadesEnciendanSusMotores\obj\Debug\net6.0\ref\EntidadesEnciendanSusMotores.dll

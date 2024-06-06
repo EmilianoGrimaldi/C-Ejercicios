@@ -32,11 +32,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
       "projectName": "I01 - El viajar es un placer",
       "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
       "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
+      "projectName": "I01 - El viajar es un placer",
+      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
+      "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\obj\\",
+>>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +61,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj": {
               "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj"
+=======
+            "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj": {
+              "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj"
+>>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
             }
           }
         }

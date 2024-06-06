@@ -1,0 +1,23 @@
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio III.exe
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio III.deps.json
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio III.runtimeconfig.json
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio III.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\C01 - La centralita Episodio III.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\EntidadesCentralita.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\bin\Debug\net6.0-windows\EntidadesCentralita.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.csproj.AssemblyReference.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01___La_centralita_Episodio_II.FrmLlamador.resources
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01___La_centralita_Episodio_II.FrmMenu.resources
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01___La_centralita_Episodio_II.FrmMostrar.resources
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.csproj.GenerateResource.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.AssemblyInfo.cs
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.sourcelink.json
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La.AFA8F530.Up2Date
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\refint\C01 - La centralita Episodio III.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\C01 - La centralita Episodio III.genruntimeconfig.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Polimorfismo\C01 - La centralita Episodio II\obj\Debug\net6.0-windows\ref\C01 - La centralita Episodio III.dll

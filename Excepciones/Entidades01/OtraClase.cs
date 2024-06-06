@@ -12,7 +12,7 @@ namespace Entidades01
         {
 			try
 			{
-				new MiClase();
+				MiClase miClase = new MiClase("hola");
 			}
 			catch (Exception ex)
 			{

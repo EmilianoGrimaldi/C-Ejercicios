@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj",
         "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\obj\\",
+=======
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj",
+        "projectName": "C02 - Enciendan sus motores",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\C02 - Enciendan sus motores.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\C02 - Enciendan sus motores\\obj\\",
+>>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +42,13 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj": {
                 "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj"
+=======
+              "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj": {
+                "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj"
+>>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
               }
             }
           }
@@ -68,6 +87,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -76,6 +96,16 @@
         "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj",
         "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\obj\\",
+=======
+    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj",
+        "projectName": "EntidadesEnciendanSusMotores",
+        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj",
+        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\obj\\",
+>>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",

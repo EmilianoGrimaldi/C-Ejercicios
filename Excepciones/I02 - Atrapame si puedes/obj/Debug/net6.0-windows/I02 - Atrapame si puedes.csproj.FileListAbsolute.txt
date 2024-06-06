@@ -1,0 +1,17 @@
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\bin\Debug\net6.0-windows\I02 - Atrapame si puedes.exe
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\bin\Debug\net6.0-windows\I02 - Atrapame si puedes.deps.json
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\bin\Debug\net6.0-windows\I02 - Atrapame si puedes.runtimeconfig.json
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\bin\Debug\net6.0-windows\I02 - Atrapame si puedes.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\bin\Debug\net6.0-windows\I02 - Atrapame si puedes.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02___Atrapame_si_puedes.formCalculador.resources
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.csproj.GenerateResource.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.AssemblyInfoInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.AssemblyInfo.cs
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.sourcelink.json
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\refint\I02 - Atrapame si puedes.dll
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.pdb
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\I02 - Atrapame si puedes.genruntimeconfig.cache
+C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I02 - Atrapame si puedes\obj\Debug\net6.0-windows\ref\I02 - Atrapame si puedes.dll

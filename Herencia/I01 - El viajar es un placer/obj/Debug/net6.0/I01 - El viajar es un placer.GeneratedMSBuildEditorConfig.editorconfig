@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = I01___El_viajar_es_un_placer
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\I01 - El viajar es un placer\
+=======
+build_property.ProjectDir = C:\Users\Emi\Desktop\C-Ejercicios\Herencia\I01 - El viajar es un placer\
+>>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

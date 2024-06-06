@@ -17,29 +17,34 @@ namespace Test
 
             // Las llamadas se irán registrando en la Centralita.
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
-            if (c + l1)
+            try
             {
-                Console.WriteLine(c.ToString());
-            }
-            
-            if (c + l2) 
-            {
-                Console.WriteLine(c.ToString());
-            }
-            
-            if (c + l3) 
-            {
-                Console.WriteLine(c.ToString());
-            }
-            
-            if (c + l4) 
-            {
-                Console.WriteLine(c.ToString());
-            }
+                if (c + l1)
+                {
+                    Console.WriteLine(c.ToString());
+                }
 
+                if (c + l2)
+                {
+                    Console.WriteLine(c.ToString());
+                }
+
+                if (c + l3)
+                {
+                    Console.WriteLine(c.ToString());
+                }
+
+                if (c + l4)
+                {
+                    Console.WriteLine(c.ToString());
+                }
+            }
+            catch (CentralitaExcepcion)
+            {
+                Console.WriteLine("Ya existe esa llamada en el sistema");
+            }         
             c.OrdenarLlamadas();
             Console.WriteLine(c.ToString());
-
             Console.ReadKey();
         }
     }

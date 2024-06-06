@@ -140,9 +140,12 @@ namespace EntidadesCentralita
             if (c != l)
             {
                 c.AgregarLlamada(l);
-                return true;
+                return true;                    
             }
-            return false;
+            else
+            {
+                throw new CentralitaExcepcion();
+            }          
         }
     }
 }

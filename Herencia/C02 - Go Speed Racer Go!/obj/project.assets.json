@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "EntidadesC02GoSpeedRacerGo!/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EntidadesC02GoSpeedRacerGo!.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesC02GoSpeedRacerGo!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntidadesC02GoSpeedRacerGo!/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesC02GoSpeedRacerGo!/EntidadesC02GoSpeedRacerGo!.csproj",
+      "msbuildProject": "../EntidadesC02GoSpeedRacerGo!/EntidadesC02GoSpeedRacerGo!.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EntidadesC02GoSpeedRacerGo! >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Emi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\C02 - Go Speed Racer Go!.csproj",
+      "projectName": "C02 - Go Speed Racer Go!",
+      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\C02 - Go Speed Racer Go!.csproj",
+      "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj": {
+              "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

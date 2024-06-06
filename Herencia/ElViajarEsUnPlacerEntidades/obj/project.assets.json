@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
       "projectName": "ElViajarEsUnPlacerEntidades",
       "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
       "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
+      "projectName": "ElViajarEsUnPlacerEntidades",
+      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
+      "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\obj\\",
+>>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
