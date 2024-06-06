@@ -1,0 +1,12 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\EntidadesI01Torneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\EntidadesI01Torneo.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\EntidadesI01Torneo.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\EntidadesI01Torneo.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\EntidadesI01Torneo.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\bin\Debug\net6.0\EntidadesI01Torneo.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\bin\Debug\net6.0\EntidadesI01Torneo.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\bin\Debug\net6.0\EntidadesI01Torneo.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\EntidadesI01Torneo.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\refint\EntidadesI01Torneo.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\EntidadesI01Torneo.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\EntidadesI01Torneo\obj\Debug\net6.0\ref\EntidadesI01Torneo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EntidadesI01Torneo/1.0.0": {
+        "runtime": {
+          "EntidadesI01Torneo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntidadesI01Torneo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

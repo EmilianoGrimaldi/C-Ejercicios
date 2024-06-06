@@ -1,0 +1,19 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\bin\Debug\net6.0\TestCartuchera.exe
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\bin\Debug\net6.0\TestCartuchera.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\bin\Debug\net6.0\TestCartuchera.runtimeconfig.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\bin\Debug\net6.0\TestCartuchera.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\bin\Debug\net6.0\TestCartuchera.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\bin\Debug\net6.0\I01 - Cartuchera.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\bin\Debug\net6.0\I01 - Cartuchera.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCart.CB2FCB4E.Up2Date
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\refint\TestCartuchera.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\TestCartuchera.genruntimeconfig.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\TestCartuchera\obj\Debug\net6.0\ref\TestCartuchera.dll

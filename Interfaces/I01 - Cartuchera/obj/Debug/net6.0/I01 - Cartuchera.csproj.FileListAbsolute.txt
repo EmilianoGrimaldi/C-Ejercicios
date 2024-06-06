@@ -1,0 +1,12 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\bin\Debug\net6.0\I01 - Cartuchera.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\bin\Debug\net6.0\I01 - Cartuchera.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\bin\Debug\net6.0\I01 - Cartuchera.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\I01 - Cartuchera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\I01 - Cartuchera.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\I01 - Cartuchera.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\I01 - Cartuchera.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\I01 - Cartuchera.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\I01 - Cartuchera.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\refint\I01 - Cartuchera.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\I01 - Cartuchera.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Interfaces\I01 - Cartuchera\obj\Debug\net6.0\ref\I01 - Cartuchera.dll

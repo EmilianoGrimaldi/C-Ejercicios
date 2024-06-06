@@ -1,0 +1,12 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\bin\Debug\net6.0\I02ContabilidadEntidades.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\bin\Debug\net6.0\I02ContabilidadEntidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\bin\Debug\net6.0\I02ContabilidadEntidades.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\I02ContabilidadEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\I02ContabilidadEntidades.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\I02ContabilidadEntidades.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\I02ContabilidadEntidades.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\I02ContabilidadEntidades.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\I02ContabilidadEntidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\refint\I02ContabilidadEntidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\I02ContabilidadEntidades.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Generics\I02ContabilidadEntidades\obj\Debug\net6.0\ref\I02ContabilidadEntidades.dll
