@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Teoria/1.0.0": {
+        "dependencies": {
+          "EntidadesArchivo": "1.0.0",
+          "Serializacion": "1.0.0"
+        },
+        "runtime": {
+          "Teoria.dll": {}
+        }
+      },
+      "EntidadesArchivo/1.0.0": {
+        "runtime": {
+          "EntidadesArchivo.dll": {}
+        }
+      },
+      "Serializacion/1.0.0": {
+        "runtime": {
+          "Serializacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teoria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesArchivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\bin\Debug\net6.0\EntidadesArchivo.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\bin\Debug\net6.0\EntidadesArchivo.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\bin\Debug\net6.0\EntidadesArchivo.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\EntidadesArchivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\EntidadesArchivo.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\EntidadesArchivo.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\EntidadesArchivo.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\EntidadesArchivo.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\EntidadesArchivo.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\refint\EntidadesArchivo.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\EntidadesArchivo.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EntidadesArchivo\obj\Debug\net6.0\ref\EntidadesArchivo.dll

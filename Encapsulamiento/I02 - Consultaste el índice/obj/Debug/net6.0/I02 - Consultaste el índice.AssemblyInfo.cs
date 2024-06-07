@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("I02 - Consultaste el índice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51226104ad55b72a17b457d0e5bdfa9df74f60aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f4cc3999a95787a8ebf5977c87ffe681c9107b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("I02 - Consultaste el índice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("I02 - Consultaste el índice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
