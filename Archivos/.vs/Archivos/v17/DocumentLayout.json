@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\entidadesarchivo\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|solutionrelative:entidadesarchivo\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\entidadesarchivo\\archivodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|solutionrelative:entidadesarchivo\\archivodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30A2C8D4-4E6E-4EC4-8529-65095E3254BE}|Teoria\\Teoria.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30A2C8D4-4E6E-4EC4-8529-65095E3254BE}|Teoria\\Teoria.csproj|solutionrelative:teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\Archivo.cs",
+              "RelativeDocumentMoniker": "EntidadesArchivo\\Archivo.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\Archivo.cs",
+              "RelativeToolTip": "EntidadesArchivo\\Archivo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:48:44.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchivoDos.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\ArchivoDos.cs",
+              "RelativeDocumentMoniker": "EntidadesArchivo\\ArchivoDos.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\ArchivoDos.cs",
+              "RelativeToolTip": "EntidadesArchivo\\ArchivoDos.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:48:44.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Teoria\\Program.cs",
               "RelativeDocumentMoniker": "Teoria\\Program.cs",
