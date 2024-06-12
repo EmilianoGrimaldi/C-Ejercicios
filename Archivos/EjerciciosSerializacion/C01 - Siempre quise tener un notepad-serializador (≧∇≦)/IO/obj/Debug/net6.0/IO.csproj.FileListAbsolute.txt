@@ -1,0 +1,12 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\bin\Debug\net6.0\IO.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\bin\Debug\net6.0\IO.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\bin\Debug\net6.0\IO.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\IO.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\IO.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\IO.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\IO.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\refint\IO.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\IO.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\IO\obj\Debug\net6.0\ref\IO.dll

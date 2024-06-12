@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Entidades.dll": {}
         }
+      },
+      "IO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IO.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Entidades/Entidades.csproj",
       "msbuildProject": "../Entidades/Entidades.csproj"
+    },
+    "IO/1.0.0": {
+      "type": "project",
+      "path": "../../../EjerciciosSerializacion/C01 - Siempre quise tener un notepad-serializador (≧∇≦)/IO/IO.csproj",
+      "msbuildProject": "../../../EjerciciosSerializacion/C01 - Siempre quise tener un notepad-serializador (≧∇≦)/IO/IO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "Entidades >= 1.0.0"
+      "Entidades >= 1.0.0",
+      "IO >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +71,9 @@
           "projectReferences": {
             "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosArchivos\\I03 - Siempre quise tener un notepad ಥ‿ಥ\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosArchivos\\I03 - Siempre quise tener un notepad ಥ‿ಥ\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\\IO\\IO.csproj": {
+              "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\C01 - Siempre quise tener un notepad-serializador (≧∇≦)\\IO\\IO.csproj"
             }
           }
         }

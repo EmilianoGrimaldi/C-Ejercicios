@@ -54,5 +54,6 @@ namespace Serializacion
                 throw new Exception($"Error en el archivo {completa}");
             }
         }
+
     }
 }

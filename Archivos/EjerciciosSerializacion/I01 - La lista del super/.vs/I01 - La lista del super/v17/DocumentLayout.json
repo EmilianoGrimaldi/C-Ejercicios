@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B067013-0EED-4844-AE06-F9B0DB211791}|ListaDelSuperForm\\ListaDelSuperForm.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\ejerciciosserializacion\\i01 - la lista del super\\listadelsuperform\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B067013-0EED-4844-AE06-F9B0DB211791}|ListaDelSuperForm\\ListaDelSuperForm.csproj|solutionrelative:listadelsuperform\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B067013-0EED-4844-AE06-F9B0DB211791}|ListaDelSuperForm\\ListaDelSuperForm.csproj|C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\listadelsuperform\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B067013-0EED-4844-AE06-F9B0DB211791}|ListaDelSuperForm\\ListaDelSuperForm.csproj|solutionrelative:listadelsuperform\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B067013-0EED-4844-AE06-F9B0DB211791}|ListaDelSuperForm\\ListaDelSuperForm.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\ejerciciosserializacion\\i01 - la lista del super\\listadelsuperform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B067013-0EED-4844-AE06-F9B0DB211791}|ListaDelSuperForm\\ListaDelSuperForm.csproj|solutionrelative:listadelsuperform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B067013-0EED-4844-AE06-F9B0DB211791}|ListaDelSuperForm\\ListaDelSuperForm.csproj|C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\listadelsuperform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B067013-0EED-4844-AE06-F9B0DB211791}|ListaDelSuperForm\\ListaDelSuperForm.csproj|solutionrelative:listadelsuperform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmListaSuper.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\ListaDelSuperForm\\FrmListaSuper.cs",
+              "RelativeDocumentMoniker": "ListaDelSuperForm\\FrmListaSuper.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\ListaDelSuperForm\\FrmListaSuper.cs",
+              "RelativeToolTip": "ListaDelSuperForm\\FrmListaSuper.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwDwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:41:41.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmListaSuper.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\ListaDelSuperForm\\FrmListaSuper.cs",
+              "RelativeDocumentMoniker": "ListaDelSuperForm\\FrmListaSuper.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\ListaDelSuperForm\\FrmListaSuper.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaDelSuperForm\\FrmListaSuper.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:41:39.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\ListaDelSuperForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaDelSuperForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\ListaDelSuperForm\\Form1.cs",
+              "RelativeToolTip": "ListaDelSuperForm\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:41:37.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\ListaDelSuperForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaDelSuperForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EjerciciosSerializacion\\I01 - La lista del super\\ListaDelSuperForm\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaDelSuperForm\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:33:09.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

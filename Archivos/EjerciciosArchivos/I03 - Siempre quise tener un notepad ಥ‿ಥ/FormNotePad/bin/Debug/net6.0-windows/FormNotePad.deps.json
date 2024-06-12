@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "FormNotePad/1.0.0": {
         "dependencies": {
-          "Entidades": "1.0.0"
+          "Entidades": "1.0.0",
+          "IO": "1.0.0"
         },
         "runtime": {
           "FormNotePad.dll": {}
@@ -17,6 +18,11 @@
       "Entidades/1.0.0": {
         "runtime": {
           "Entidades.dll": {}
+        }
+      },
+      "IO/1.0.0": {
+        "runtime": {
+          "IO.dll": {}
         }
       }
     }
@@ -28,6 +34,11 @@
       "sha512": ""
     },
     "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

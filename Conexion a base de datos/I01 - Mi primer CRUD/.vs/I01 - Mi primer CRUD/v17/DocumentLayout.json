@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713E54ED-8DAB-4E54-9100-FC986CCE7DA6}|Test\\Test.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\conexion a base de datos\\i01 - mi primer crud\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713E54ED-8DAB-4E54-9100-FC986CCE7DA6}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B930D19-895D-4A5A-856D-E7454530174A}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\conexion a base de datos\\i01 - mi primer crud\\entidades\\personadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B930D19-895D-4A5A-856D-E7454530174A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\personadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\Entidades\\PersonaDAO.cs",
+              "RelativeDocumentMoniker": "Entidades\\PersonaDAO.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\Entidades\\PersonaDAO.cs",
+              "RelativeToolTip": "Entidades\\PersonaDAO.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:19:25.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:42:06.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

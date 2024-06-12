@@ -20,3 +20,5 @@ C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosArchivos\I03 
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosArchivos\I03 - Siempre quise tener un notepad ಥ‿ಥ\FormNotePad\obj\Debug\net6.0-windows\FormNotePad.pdb
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosArchivos\I03 - Siempre quise tener un notepad ಥ‿ಥ\FormNotePad\obj\Debug\net6.0-windows\FormNotePad.genruntimeconfig.cache
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosArchivos\I03 - Siempre quise tener un notepad ಥ‿ಥ\FormNotePad\obj\Debug\net6.0-windows\ref\FormNotePad.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosArchivos\I03 - Siempre quise tener un notepad ಥ‿ಥ\FormNotePad\bin\Debug\net6.0-windows\IO.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosArchivos\I03 - Siempre quise tener un notepad ಥ‿ಥ\FormNotePad\bin\Debug\net6.0-windows\IO.pdb

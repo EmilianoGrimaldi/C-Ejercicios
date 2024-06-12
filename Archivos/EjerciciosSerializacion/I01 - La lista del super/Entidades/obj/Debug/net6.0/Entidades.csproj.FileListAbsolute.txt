@@ -1,0 +1,12 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\Entidades.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Archivos\EjerciciosSerializacion\I01 - La lista del super\Entidades\obj\Debug\net6.0\ref\Entidades.dll

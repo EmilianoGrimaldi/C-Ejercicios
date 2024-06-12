@@ -2,7 +2,7 @@
 
 namespace Serializacion
 {
-    public static class SerilizadoraXML
+    public static class SerilizadoraXML<T>
     {
         static string ruta;
         static SerilizadoraXML()
@@ -11,7 +11,7 @@ namespace Serializacion
             ruta += @"\Archivos-Serializacion1";
         }
 
-        public static void Escribir(List<Personaje> pjs)
+        public static void Escribir(List<T> pjs)
         {
             string completa = ruta + @"\SerializadoraLista.xml";
             try
@@ -23,7 +23,7 @@ namespace Serializacion
 
                 using (StreamWriter sw = new(completa))
                 {
-                    XmlSerializer xmlSerializer = new(typeof(List<Personaje>));
+                    XmlSerializer xmlSerializer = new(typeof(List<T>));
                     xmlSerializer.Serialize(sw, pjs);
                 }
 
@@ -34,7 +34,7 @@ namespace Serializacion
             }
         }
 
-        public static void Escribir(Personaje pj)
+        public static void Escribir(T pj)
         {
             string completa = ruta + @"\Serializadora.xml";
             try
@@ -46,7 +46,7 @@ namespace Serializacion
 
                 using (StreamWriter sw = new(completa))
                 {
-                    XmlSerializer xmlSerializer = new(typeof(Personaje));
+                    XmlSerializer xmlSerializer = new(typeof(T));
                     xmlSerializer.Serialize(sw, pj);
                 }
                 
@@ -56,10 +56,10 @@ namespace Serializacion
                 throw new Exception($"Error en el archivo {completa}");
             }
         }
-        public static List<Personaje> LeerLista()
+        public static List<T> LeerLista()
         {
             string completa = ruta + @"\SerializadoraLista.xml";
-            List<Personaje> pjs = null;
+            List<T> pjs = null;
             try
             {
                 if (!Directory.Exists(ruta))
@@ -68,8 +68,8 @@ namespace Serializacion
                 }
                 using (StreamReader sr = new(completa))
                 {
-                    XmlSerializer xmlSerializer = new(typeof(List<Personaje>));
-                    pjs = xmlSerializer.Deserialize(sr) as List<Personaje>;
+                    XmlSerializer xmlSerializer = new(typeof(List<T>));
+                    pjs = xmlSerializer.Deserialize(sr) as List<T>;
                 }               
                 return pjs;
             }
@@ -79,18 +79,18 @@ namespace Serializacion
             }
         }
 
-        public static Personaje Leer()
+        public static T Leer()
         {
             string completa = ruta + @"\Serializadora.xml";
-            Personaje pj = null;
+            T pj = default;
             try
             {
                 if (Directory.Exists(ruta))
                 {
                     using (StreamReader sr = new(completa))
                     {
-                        XmlSerializer xmlSerializer = new(typeof(Personaje));
-                        pj = (Personaje)xmlSerializer.Deserialize(sr);
+                        XmlSerializer xmlSerializer = new(typeof(T));
+                        pj = (T)xmlSerializer.Deserialize(sr);
                     }
                 }
                 return pj;
