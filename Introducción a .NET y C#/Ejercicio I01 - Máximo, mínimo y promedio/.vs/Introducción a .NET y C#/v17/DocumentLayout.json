@@ -1,15 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I01 - M\u00E1ximo, m\u00EDnimo y promedio\\",
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducci\u00F3n a .NET y C#\\Ejercicio I01 - M\u00E1ximo, m\u00EDnimo y promedio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B4854FD-AC20-4695-9E1F-86D4B1A561EF}|..\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero.csproj|c:\\users\\emy\\source\\repos\\ejercicio i09 - dibujando un tri\u00E1ngulo equil\u00E1tero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB947477-44E6-4B9A-BB02-B7A91A703E59}|..\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\introducci\u00F3n a .net y c#\\ejercicio i02 - error al cubo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F638C217-305D-428C-AF47-327F0D3141AB}|..\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo.csproj|c:\\users\\emy\\source\\repos\\ejercicio i08 - dibujando un tri\u00E1ngulo rect\u00E1ngulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B30990F5-F54E-4FEC-A94E-44EEC045263D}|Ejercicio I01 - M\u00E1ximo, m\u00EDnimo y promedio.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\introducci\u00F3n a .net y c#\\ejercicio i01 - m\u00E1ximo, m\u00EDnimo y promedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30990F5-F54E-4FEC-A94E-44EEC045263D}|Ejercicio I01 - M\u00E1ximo, m\u00EDnimo y promedio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B139DB36-AA2A-4CC8-8CE5-3CDFCBD6437A}|..\\Ejercicio I07 - Recibo de sueldo\\Ejercicio I07 - Recibo de sueldo.csproj|c:\\users\\emy\\source\\repos\\ejercicio i07 - recibo de sueldo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emy\\source\\repos\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emy\\source\\repos\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emy\\source\\repos\\Ejercicio I07 - Recibo de sueldo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,35 +32,59 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emy\\source\\repos\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs",
-              "ToolTip": "C:\\Users\\Emy\\source\\repos\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvx8AAAArAAAA",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducci\u00F3n a .NET y C#\\Ejercicio I02 - Error al cubo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio I02 - Error al cubo\\Program.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducci\u00F3n a .NET y C#\\Ejercicio I02 - Error al cubo\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio I02 - Error al cubo\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:29:33.72Z",
+              "WhenOpened": "2024-06-19T15:43:01.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducci\u00F3n a .NET y C#\\Ejercicio I01 - M\u00E1ximo, m\u00EDnimo y promedio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducci\u00F3n a .NET y C#\\Ejercicio I01 - M\u00E1ximo, m\u00EDnimo y promedio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:42:53.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emy\\source\\repos\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Emy\\source\\repos\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs",
+              "ToolTip": "C:\\Users\\Emy\\source\\repos\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Emy\\source\\repos\\Ejercicio I09 - Dibujando un tri\u00E1ngulo equil\u00E1tero\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:29:33.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Emy\\source\\repos\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Emy\\source\\repos\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo\\Program.cs",
               "ToolTip": "C:\\Users\\Emy\\source\\repos\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Emy\\source\\repos\\Ejercicio I08 - Dibujando un tri\u00E1ngulo rect\u00E1ngulo\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T17:13:00.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Emy\\source\\repos\\Ejercicio I07 - Recibo de sueldo\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejercicio I07 - Recibo de sueldo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Emy\\source\\repos\\Ejercicio I07 - Recibo de sueldo\\Program.cs",
               "ToolTip": "C:\\Users\\Emy\\source\\repos\\Ejercicio I07 - Recibo de sueldo\\Program.cs",
-              "RelativeToolTip": "..\\Ejercicio I07 - Recibo de sueldo\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Emy\\source\\repos\\Ejercicio I07 - Recibo de sueldo\\Program.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAgwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T14:47:17.461Z"

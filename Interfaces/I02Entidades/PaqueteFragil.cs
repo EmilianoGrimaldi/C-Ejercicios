@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace I02Entidades
 {
-    public class PaqueteFragil : Paquete
+    public class PaqueteFragil : Paquete 
     {
         
         public PaqueteFragil(string codigoSeguimiento, decimal costoEnvio, string destino, string origen, double pesoKg) : base(codigoSeguimiento, costoEnvio, destino, origen, pesoKg)

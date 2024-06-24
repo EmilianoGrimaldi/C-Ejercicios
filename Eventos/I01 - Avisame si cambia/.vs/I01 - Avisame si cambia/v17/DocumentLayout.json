@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3EE40A-0941-413F-9F4E-13C957F81AAB}|FormAvisador\\Formularios.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\eventos\\i01 - avisame si cambia\\formavisador\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3EE40A-0941-413F-9F4E-13C957F81AAB}|FormAvisador\\Formularios.csproj|solutionrelative:formavisador\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3EE40A-0941-413F-9F4E-13C957F81AAB}|FormAvisador\\Formularios.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\eventos\\i01 - avisame si cambia\\formavisador\\frmavisador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3EE40A-0941-413F-9F4E-13C957F81AAB}|FormAvisador\\Formularios.csproj|solutionrelative:formavisador\\frmavisador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E36F2CC-0FB6-42A4-9409-F814E61C86C6}|Biblioteca\\Biblioteca.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\eventos\\i01 - avisame si cambia\\biblioteca\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36F2CC-0FB6-42A4-9409-F814E61C86C6}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3EE40A-0941-413F-9F4E-13C957F81AAB}|FormAvisador\\Formularios.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\eventos\\i01 - avisame si cambia\\formavisador\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA3EE40A-0941-413F-9F4E-13C957F81AAB}|FormAvisador\\Formularios.csproj|solutionrelative:formavisador\\frmavisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAvisador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\FormAvisador\\frmAvisador.Designer.cs",
+              "RelativeDocumentMoniker": "FormAvisador\\frmAvisador.Designer.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\FormAvisador\\frmAvisador.Designer.cs",
+              "RelativeToolTip": "FormAvisador\\frmAvisador.Designer.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAcwGkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:36:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAvisador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\FormAvisador\\frmAvisador.cs",
+              "RelativeDocumentMoniker": "FormAvisador\\frmAvisador.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\FormAvisador\\frmAvisador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAvisador\\frmAvisador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:04:28.282Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAvisador.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\FormAvisador\\frmAvisador.cs",
+              "RelativeDocumentMoniker": "FormAvisador\\frmAvisador.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\FormAvisador\\frmAvisador.cs",
+              "RelativeToolTip": "FormAvisador\\frmAvisador.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:59:57.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\Biblioteca\\Persona.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Persona.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\I01 - Avisame si cambia\\Biblioteca\\Persona.cs",
+              "RelativeToolTip": "Biblioteca\\Persona.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:40:02.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

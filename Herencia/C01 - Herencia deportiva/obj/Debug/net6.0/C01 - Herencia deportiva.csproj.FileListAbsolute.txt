@@ -17,3 +17,22 @@ C:\Users\Emi\Desktop\Clases\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\r
 C:\Users\Emi\Desktop\Clases\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.pdb
 C:\Users\Emi\Desktop\Clases\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.genruntimeconfig.cache
 C:\Users\Emi\Desktop\Clases\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\ref\C01 - Herencia deportiva.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\bin\Debug\net6.0\C01 - Herencia deportiva.exe
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\bin\Debug\net6.0\C01 - Herencia deportiva.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\bin\Debug\net6.0\C01 - Herencia deportiva.runtimeconfig.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\bin\Debug\net6.0\C01 - Herencia deportiva.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\bin\Debug\net6.0\C01 - Herencia deportiva.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\bin\Debug\net6.0\HerenciaDeportivaEntidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\bin\Debug\net6.0\HerenciaDeportivaEntidades.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - He.DF83514F.Up2Date
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\refint\C01 - Herencia deportiva.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\C01 - Herencia deportiva.genruntimeconfig.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C01 - Herencia deportiva\obj\Debug\net6.0\ref\C01 - Herencia deportiva.dll

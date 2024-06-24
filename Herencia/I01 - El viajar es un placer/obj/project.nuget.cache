@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "H0Oa4b3ESzs=",
   "success": true,
   "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
-=======
-  "dgSpecHash": "8wMom48DUM0=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\I01 - El viajar es un placer\\I01 - El viajar es un placer.csproj",
->>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
   "expectedPackageFiles": [],
   "logs": []
 }

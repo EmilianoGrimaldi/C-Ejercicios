@@ -22,3 +22,15 @@ C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\refint\ElViajarEsUnPlacerEntidades.dll
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.pdb
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ref\ElViajarEsUnPlacerEntidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\bin\Debug\net6.0\ElViajarEsUnPlacerEntidades.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\bin\Debug\net6.0\ElViajarEsUnPlacerEntidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\bin\Debug\net6.0\ElViajarEsUnPlacerEntidades.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\refint\ElViajarEsUnPlacerEntidades.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ElViajarEsUnPlacerEntidades.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\ElViajarEsUnPlacerEntidades\obj\Debug\net6.0\ref\ElViajarEsUnPlacerEntidades.dll

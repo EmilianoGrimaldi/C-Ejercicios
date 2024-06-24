@@ -1,0 +1,13 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\bin\Debug\net6.0\EntidadesPokemon.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\bin\Debug\net6.0\EntidadesPokemon.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\bin\Debug\net6.0\EntidadesPokemon.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\EntidadesPokemon.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\EntidadesPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\EntidadesPokemon.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\EntidadesPokemon.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\EntidadesPokemon.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\EntidadesPokemon.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\EntidadesPokemon.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\refint\EntidadesPokemon.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\EntidadesPokemon.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\PokedexIncompleta\EntidadesPokemon\obj\Debug\net6.0\ref\EntidadesPokemon.dll

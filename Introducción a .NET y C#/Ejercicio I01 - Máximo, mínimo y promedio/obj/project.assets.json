@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Emy\\.nuget\\packages\\": {}
+    "C:\\Users\\grima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emy\\source\\repos\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
+      "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
       "projectName": "Ejercicio I01 - Máximo, mínimo y promedio",
-      "projectPath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
-      "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I01 - Máximo, mínimo y promedio\\obj\\",
+      "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I01 - Máximo, mínimo y promedio\\Ejercicio I01 - Máximo, mínimo y promedio.csproj",
+      "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I01 - Máximo, mínimo y promedio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

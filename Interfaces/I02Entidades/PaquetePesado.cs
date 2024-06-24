@@ -11,11 +11,11 @@ namespace I02Entidades
         public PaquetePesado(string codigoSeguimiento, decimal costoEnvio, string destino, string origen, double pesoKg) : base(codigoSeguimiento, costoEnvio, destino, origen, pesoKg)
         {
         }
-        decimal IAfip.Impuestos
+        public new decimal Impuestos
         {
             get
             {
-                return 0;
+                return (25 * costoEnvio) / 100;
             }
         }
         public override bool TienePrioridad
@@ -25,10 +25,9 @@ namespace I02Entidades
                 return false;
             }
         }
-
-        decimal IAfip.AplicarImpuestos() 
+        public override decimal AplicarImpuestos() 
         {
-            return 0;
+            return Impuestos + base.Impuestos + costoEnvio;
         }
     }
 }

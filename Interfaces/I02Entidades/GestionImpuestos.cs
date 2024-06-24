@@ -18,11 +18,23 @@ namespace I02Entidades
         }
         public decimal CalcularTotalImpuestosAfip()
         {
-            return 0;
+            decimal total = default;
+            foreach (IAfip item in impuestosAfip)
+            {
+                total += item.Impuestos;    
+            }
+
+            return total; 
         }
         public decimal CalcularTotalImpuestosAduana()
         {
-            return 0;
+            decimal total = default;
+            foreach (IAduana item in impuestosAduana)
+            {
+                total += item.Impuestos;
+            }
+
+            return total;
         }
 
         public void RegistrarImpuestos(IEnumerable<Paquete> paquetes)

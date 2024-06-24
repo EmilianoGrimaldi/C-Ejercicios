@@ -15,48 +15,135 @@ namespace C02___Go_Speed_Racer_Go_
             MotoCross m3 = new MotoCross(5, "escu7", 5);
             MotoCross m4 = new MotoCross(1, "escu8", 2);
             MotoCross m5 = new MotoCross(2, "escu7", 1);
-            Competencia competencia = new Competencia(5, 10, Competencia.TipoCompetencia.F1);
+            Competencia<MotoCross> competencia = new Competencia<MotoCross>(6, 10, Competencia<MotoCross>.TipoCompetencia.MotoCross);
+            try
+            {
+                if (competencia + m1)
+                {
+                    Console.WriteLine(competencia.MostrarDatos());
+                }
+                else
+                {
+                    Console.WriteLine("NO SE AGREGO");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Exception Message");
+                Console.WriteLine(ex.Message);
+                if (ex.InnerException != null)
+                {
+                    Console.WriteLine("Inner Exceptions");
+                    Console.WriteLine(ex.InnerException);
+                }
+            }
+            try
+            {
+                if (competencia + m2)
+                {
+                    Console.WriteLine(competencia.MostrarDatos());
+                }
+                else
+                {
+                    Console.WriteLine("NO SE AGREGO");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Exception Message");
+                Console.WriteLine(ex.Message);
+                if (ex.InnerException != null)
+                {
+                    Console.WriteLine("Inner Exceptions");
+                    Console.WriteLine(ex.InnerException);
+                }
+            }
 
-            if (competencia + a1)
+            try
             {
-                Console.WriteLine(competencia.MostrarDatos());
+                if (competencia + m3)
+                {
+                    Console.WriteLine(competencia.MostrarDatos());
+                }
+                else
+                {
+                    Console.WriteLine("NO SE AGREGO");
+                }
             }
-            else
+            catch (Exception ex)
             {
-                Console.WriteLine("NO SE AGREGO");
+                Console.WriteLine("Exception Message");
+                Console.WriteLine(ex.Message);
+                if (ex.InnerException != null)
+                {
+                    Console.WriteLine("Inner Exceptions");
+                    Console.WriteLine(ex.InnerException);
+                }
             }
-            if (competencia + a3)
+            try
             {
-                Console.WriteLine(competencia.MostrarDatos());
+                if (competencia + m4)
+                {
+                    Console.WriteLine(competencia.MostrarDatos());
+                }
+                else
+                {
+                    Console.WriteLine("NO SE AGREGO");
+                }
             }
-            else
+            catch (Exception ex)
             {
-                Console.WriteLine("NO SE AGREGO");
+                Console.WriteLine("Exception Message");
+                Console.WriteLine(ex.Message);
+                if (ex.InnerException != null)
+                {
+                    Console.WriteLine("Inner Exceptions");
+                    Console.WriteLine(ex.InnerException);
+                }
             }
-            if (competencia + a2)
+            try
             {
-                Console.WriteLine(competencia.MostrarDatos());
+                if (competencia + m5)
+                {
+                    Console.WriteLine(competencia.MostrarDatos());
+                }
+                else
+                {
+                    Console.WriteLine("NO SE AGREGO");
+                }
             }
-            else
+            catch (Exception ex)
             {
-                Console.WriteLine("NO SE AGREGO");
+                Console.WriteLine("Exception Message");
+                Console.WriteLine(ex.Message);
+                if (ex.InnerException != null)
+                {
+                    Console.WriteLine("Inner Exceptions");
+                    Console.WriteLine(ex.InnerException);
+                }
             }
-            if (competencia + a4)
+
+            try
             {
-                Console.WriteLine(competencia.MostrarDatos());
+                if (competencia + a5)
+                {
+                    Console.WriteLine(competencia.MostrarDatos());
+                }
+                else
+                {
+                    Console.WriteLine("NO SE AGREGO");
+                }
             }
-            else
+            catch (Exception ex)
             {
-                Console.WriteLine("NO SE AGREGO");
-            }
-            if (competencia + a5)
-            {
-                Console.WriteLine(competencia.MostrarDatos());
-            }
-            else
-            {
-                Console.WriteLine("NO SE AGREGO");
-            }
+                Console.WriteLine("Exception Message");
+                Console.WriteLine(ex.Message);
+                if (ex.InnerException != null)
+                {
+                    Console.WriteLine("Inner Exceptions");
+                    Console.WriteLine(ex.InnerException);
+                }
+            } 
         }
     }
 }

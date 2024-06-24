@@ -1,0 +1,12 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\Biblioteca.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Metodos de extension\I03 - Punto y seguido\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll

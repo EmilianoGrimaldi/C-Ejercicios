@@ -24,7 +24,7 @@ namespace I02Entidades
         {
             get
             {
-                return 0;
+                return (35 * costoEnvio) / 100;
             }
         }
 
@@ -47,7 +47,7 @@ namespace I02Entidades
 
         public virtual decimal AplicarImpuestos()
         {
-            return 0;
+            return costoEnvio + Impuestos;
         }
     }
 }

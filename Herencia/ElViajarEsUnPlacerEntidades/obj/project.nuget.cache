@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "s/QBnBq6XA4=",
   "success": true,
   "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
-=======
-  "dgSpecHash": "V4N4l2POwbM=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\ElViajarEsUnPlacerEntidades\\ElViajarEsUnPlacerEntidades.csproj",
->>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
   "expectedPackageFiles": [],
   "logs": []
 }

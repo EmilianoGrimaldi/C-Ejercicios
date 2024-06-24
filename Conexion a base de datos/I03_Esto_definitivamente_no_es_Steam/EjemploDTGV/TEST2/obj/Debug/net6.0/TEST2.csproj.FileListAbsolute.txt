@@ -1,0 +1,6 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\TEST2\obj\Debug\net6.0\TEST2.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\TEST2\obj\Debug\net6.0\TEST2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\TEST2\obj\Debug\net6.0\TEST2.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\TEST2\obj\Debug\net6.0\TEST2.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\TEST2\obj\Debug\net6.0\TEST2.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\TEST2\obj\Debug\net6.0\TEST2.sourcelink.json

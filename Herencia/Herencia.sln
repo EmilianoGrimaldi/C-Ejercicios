@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C01 - Herencia deportiva", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerenciaDeportivaEntidades", "HerenciaDeportivaEntidades\HerenciaDeportivaEntidades.csproj", "{F02226C1-0BC8-486C-B231-20595D4AB398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02 - Go Speed Racer Go!", "C02 - Go Speed Racer Go!\C02 - Go Speed Racer Go!.csproj", "{20BD4AEC-637F-4D96-AF78-BEA0ABC3C0E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C02 - Go Speed Racer Go!", "C02 - Go Speed Racer Go!\C02 - Go Speed Racer Go!.csproj", "{20BD4AEC-637F-4D96-AF78-BEA0ABC3C0E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesC02GoSpeedRacerGo!", "EntidadesC02GoSpeedRacerGo!\EntidadesC02GoSpeedRacerGo!.csproj", "{4F29450E-D0D8-463B-A877-467F0FF10898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntidadesC02GoSpeedRacerGo!", "EntidadesC02GoSpeedRacerGo!\EntidadesC02GoSpeedRacerGo!.csproj", "{4F29450E-D0D8-463B-A877-467F0FF10898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03-Parada en boxesTestUnitarios", "C03-Parada en boxesTestUnitarios\C03-Parada en boxesTestUnitarios.csproj", "{9DBAF73C-92BD-4B1D-9CC8-A4B1FCF9C58A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4F29450E-D0D8-463B-A877-467F0FF10898}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F29450E-D0D8-463B-A877-467F0FF10898}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F29450E-D0D8-463B-A877-467F0FF10898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBAF73C-92BD-4B1D-9CC8-A4B1FCF9C58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBAF73C-92BD-4B1D-9CC8-A4B1FCF9C58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBAF73C-92BD-4B1D-9CC8-A4B1FCF9C58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBAF73C-92BD-4B1D-9CC8-A4B1FCF9C58A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

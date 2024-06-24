@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C03-Parada en boxesTestUnitarios\\C03-Parada en boxesTestUnitarios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C03-Parada en boxesTestUnitarios\\C03-Parada en boxesTestUnitarios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C03-Parada en boxesTestUnitarios\\C03-Parada en boxesTestUnitarios.csproj",
+        "projectName": "C03-Parada en boxesTestUnitarios",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C03-Parada en boxesTestUnitarios\\C03-Parada en boxesTestUnitarios.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C03-Parada en boxesTestUnitarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj": {
+                "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj",
+        "projectName": "EntidadesC02GoSpeedRacerGo!",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

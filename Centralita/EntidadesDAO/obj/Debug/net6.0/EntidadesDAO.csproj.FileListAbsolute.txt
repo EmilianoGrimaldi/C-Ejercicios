@@ -1,0 +1,16 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\EntidadesDAO.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\EntidadesDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\EntidadesDAO.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\EntidadesDAO.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\EntidadesDAO.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\EntidadesDAO.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\bin\Debug\net6.0\EntidadesDAO.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\bin\Debug\net6.0\EntidadesDAO.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\bin\Debug\net6.0\EntidadesDAO.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\bin\Debug\net6.0\EntidadesCentralita.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\bin\Debug\net6.0\EntidadesCentralita.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\Entidade.8D55B93B.Up2Date
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\EntidadesDAO.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\refint\EntidadesDAO.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\EntidadesDAO.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Centralita\EntidadesDAO\obj\Debug\net6.0\ref\EntidadesDAO.dll

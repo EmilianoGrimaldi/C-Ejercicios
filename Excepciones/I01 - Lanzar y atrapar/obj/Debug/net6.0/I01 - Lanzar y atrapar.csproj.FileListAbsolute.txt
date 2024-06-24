@@ -1,22 +1,3 @@
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.exe
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.deps.json
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.runtimeconfig.json
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.dll
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.pdb
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\Entidades01.dll
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\Entidades01.pdb
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.csproj.AssemblyReference.cache
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.AssemblyInfoInputs.cache
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.AssemblyInfo.cs
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.csproj.CoreCompileInputs.cache
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.sourcelink.json
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - La.B178AE96.Up2Date
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.dll
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\refint\I01 - Lanzar y atrapar.dll
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.pdb
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.genruntimeconfig.cache
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\ref\I01 - Lanzar y atrapar.dll
 C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.exe
 C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.deps.json
 C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.runtimeconfig.json
@@ -36,3 +17,22 @@ C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\n
 C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.pdb
 C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.genruntimeconfig.cache
 C:\Users\Emi\Desktop\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\ref\I01 - Lanzar y atrapar.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.exe
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.runtimeconfig.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\I01 - Lanzar y atrapar.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\Entidades01.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\bin\Debug\net6.0\Entidades01.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - La.B178AE96.Up2Date
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\refint\I01 - Lanzar y atrapar.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\I01 - Lanzar y atrapar.genruntimeconfig.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Excepciones\I01 - Lanzar y atrapar\obj\Debug\net6.0\ref\I01 - Lanzar y atrapar.dll

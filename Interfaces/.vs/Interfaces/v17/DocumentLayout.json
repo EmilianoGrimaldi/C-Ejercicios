@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2849B173-2A08-419D-A28E-161D5D0BFF6D}|I02Entidades\\I02Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\interfaces\\i02entidades\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2849B173-2A08-419D-A28E-161D5D0BFF6D}|I02Entidades\\I02Entidades.csproj|solutionrelative:i02entidades\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2849B173-2A08-419D-A28E-161D5D0BFF6D}|I02Entidades\\I02Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\interfaces\\i02entidades\\paquetepesado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2849B173-2A08-419D-A28E-161D5D0BFF6D}|I02Entidades\\I02Entidades.csproj|solutionrelative:i02entidades\\paquetepesado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2849B173-2A08-419D-A28E-161D5D0BFF6D}|I02Entidades\\I02Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\interfaces\\i02entidades\\paquetefragil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2849B173-2A08-419D-A28E-161D5D0BFF6D}|I02Entidades\\I02Entidades.csproj|solutionrelative:i02entidades\\paquetefragil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2849B173-2A08-419D-A28E-161D5D0BFF6D}|I02Entidades\\I02Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\interfaces\\i02entidades\\gestionimpuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2849B173-2A08-419D-A28E-161D5D0BFF6D}|I02Entidades\\I02Entidades.csproj|solutionrelative:i02entidades\\gestionimpuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01EB7D91-5B83-4A8D-9AE7-91A180E2FC51}|TestControlAduana\\TestControlAduana.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\interfaces\\testcontroladuana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01EB7D91-5B83-4A8D-9AE7-91A180E2FC51}|TestControlAduana\\TestControlAduana.csproj|solutionrelative:testcontroladuana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\TestControlAduana\\Program.cs",
-              "RelativeDocumentMoniker": "TestControlAduana\\Program.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\TestControlAduana\\Program.cs",
-              "RelativeToolTip": "TestControlAduana\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwBEAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T19:38:02.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GestionImpuestos.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\I02Entidades\\GestionImpuestos.cs",
-              "RelativeDocumentMoniker": "I02Entidades\\GestionImpuestos.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\I02Entidades\\GestionImpuestos.cs",
-              "RelativeToolTip": "I02Entidades\\GestionImpuestos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T19:23:07.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PaquetePesado.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\I02Entidades\\PaquetePesado.cs",
-              "RelativeDocumentMoniker": "I02Entidades\\PaquetePesado.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\I02Entidades\\PaquetePesado.cs",
-              "RelativeToolTip": "I02Entidades\\PaquetePesado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T19:07:16.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PaqueteFragil.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\I02Entidades\\PaqueteFragil.cs",
-              "RelativeDocumentMoniker": "I02Entidades\\PaqueteFragil.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\I02Entidades\\PaqueteFragil.cs",
-              "RelativeToolTip": "I02Entidades\\PaqueteFragil.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T19:04:40.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Paquete.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\I02Entidades\\Paquete.cs",
-              "RelativeDocumentMoniker": "I02Entidades\\Paquete.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Interfaces\\I02Entidades\\Paquete.cs",
-              "RelativeToolTip": "I02Entidades\\Paquete.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T19:00:37.784Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

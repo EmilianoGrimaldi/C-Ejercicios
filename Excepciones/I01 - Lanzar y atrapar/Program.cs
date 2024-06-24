@@ -13,7 +13,9 @@ namespace I01___Lanzar_y_atrapar
             }
             catch (Exception ex) 
             {
+                Console.WriteLine("Mensajes excepciones");
                 Console.WriteLine(ex.Message);
+                Console.WriteLine("Inner Excepciones");
                 Console.WriteLine(ex.InnerException);                                   
             }
             

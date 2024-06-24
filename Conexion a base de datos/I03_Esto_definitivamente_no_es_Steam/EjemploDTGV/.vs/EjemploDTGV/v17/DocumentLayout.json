@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18E55039-3956-400E-A008-4A14C1420206}|Vista\\Vista.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\conexion a base de datos\\i03_esto_definitivamente_no_es_steam\\ejemplodtgv\\vista\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E55039-3956-400E-A008-4A14C1420206}|Vista\\Vista.csproj|solutionrelative:vista\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18E55039-3956-400E-A008-4A14C1420206}|Vista\\Vista.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\conexion a base de datos\\i03_esto_definitivamente_no_es_steam\\ejemplodtgv\\vista\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{18E55039-3956-400E-A008-4A14C1420206}|Vista\\Vista.csproj|solutionrelative:vista\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18E55039-3956-400E-A008-4A14C1420206}|Vista\\Vista.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\conexion a base de datos\\i03_esto_definitivamente_no_es_steam\\ejemplodtgv\\vista\\frmbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{18E55039-3956-400E-A008-4A14C1420206}|Vista\\Vista.csproj|solutionrelative:vista\\frmbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E55039-3956-400E-A008-4A14C1420206}|Vista\\Vista.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\conexion a base de datos\\i03_esto_definitivamente_no_es_steam\\ejemplodtgv\\vista\\frmbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E55039-3956-400E-A008-4A14C1420206}|Vista\\Vista.csproj|solutionrelative:vista\\frmbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmBiblioteca.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmBiblioteca.cs",
-              "RelativeDocumentMoniker": "Vista\\FrmBiblioteca.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmBiblioteca.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vista\\FrmBiblioteca.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:34:06.207Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FrmAlta.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmAlta.cs",
               "RelativeDocumentMoniker": "Vista\\FrmAlta.cs",
               "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmAlta.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vista\\FrmAlta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:33:55.749Z",
+              "WhenOpened": "2024-06-12T21:43:54.674Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBiblioteca.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmBiblioteca.cs",
+              "RelativeDocumentMoniker": "Vista\\FrmBiblioteca.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmBiblioteca.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FrmBiblioteca.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:43:49.957Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmBiblioteca.cs",
+              "RelativeDocumentMoniker": "Vista\\FrmBiblioteca.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmBiblioteca.cs",
+              "RelativeToolTip": "Vista\\FrmBiblioteca.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:59:50.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAlta.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmAlta.cs",
+              "RelativeDocumentMoniker": "Vista\\FrmAlta.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I03_Esto_definitivamente_no_es_Steam\\EjemploDTGV\\Vista\\FrmAlta.cs",
+              "RelativeToolTip": "Vista\\FrmAlta.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwDoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:20:15.468Z",
+              "EditorCaption": ""
             }
           ]
         }

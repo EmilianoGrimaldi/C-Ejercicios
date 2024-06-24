@@ -17,3 +17,22 @@ C:\Users\Emi\Desktop\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\ne
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.pdb
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.genruntimeconfig.cache
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\ref\C02 - Go Speed Racer Go!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\bin\Debug\net6.0\C02 - Go Speed Racer Go!.exe
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\bin\Debug\net6.0\C02 - Go Speed Racer Go!.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\bin\Debug\net6.0\C02 - Go Speed Racer Go!.runtimeconfig.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\bin\Debug\net6.0\C02 - Go Speed Racer Go!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\bin\Debug\net6.0\C02 - Go Speed Racer Go!.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\bin\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\bin\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go.6B2391AA.Up2Date
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\refint\C02 - Go Speed Racer Go!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\C02 - Go Speed Racer Go!.genruntimeconfig.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\C02 - Go Speed Racer Go!\obj\Debug\net6.0\ref\C02 - Go Speed Racer Go!.dll

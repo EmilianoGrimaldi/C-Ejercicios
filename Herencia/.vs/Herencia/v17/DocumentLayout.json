@@ -1,23 +1,10 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38543806-0E71-4E9A-9A61-77B99EC00746}|..\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\colecciones\\entidadesenciendansusmotores\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38543806-0E71-4E9A-9A61-77B99EC00746}|..\\Colecciones\\EntidadesEnciendanSusMotores\\EntidadesEnciendanSusMotores.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\colecciones\\entidadesenciendansusmotores\\vehiculodecarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{20BD4AEC-637F-4D96-AF78-BEA0ABC3C0E8}|C02 - Go Speed Racer Go!\\C02 - Go Speed Racer Go!.csproj|c:\\users\\emi\\desktop\\c-ejercicios\\herencia\\c02 - go speed racer go!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20BD4AEC-637F-4D96-AF78-BEA0ABC3C0E8}|C02 - Go Speed Racer Go!\\C02 - Go Speed Racer Go!.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\herencia\\c02 - go speed racer go!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20BD4AEC-637F-4D96-AF78-BEA0ABC3C0E8}|C02 - Go Speed Racer Go!\\C02 - Go Speed Racer Go!.csproj|solutionrelative:c02 - go speed racer go!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
     }
   ],
   "DocumentGroupContainers": [
@@ -32,50 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Competencia.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
-              "RelativeDocumentMoniker": "..\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
-              "RelativeToolTip": "..\\Colecciones\\EntidadesEnciendanSusMotores\\Competencia.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAkwF4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:57:14.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VehiculoDeCarrera.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\VehiculoDeCarrera.cs",
-              "RelativeDocumentMoniker": "..\\Colecciones\\EntidadesEnciendanSusMotores\\VehiculoDeCarrera.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Colecciones\\EntidadesEnciendanSusMotores\\VehiculoDeCarrera.cs",
-              "RelativeToolTip": "..\\Colecciones\\EntidadesEnciendanSusMotores\\VehiculoDeCarrera.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:57:06.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Emi\\Desktop\\Clases\\Colecciones\\C02 - Enciendan sus motores\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T02:32:16.547Z"
-=======
-              "DocumentMoniker": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
               "RelativeDocumentMoniker": "C02 - Go Speed Racer Go!\\Program.cs",
-              "ToolTip": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C02 - Go Speed Racer Go!\\Program.cs",
               "RelativeToolTip": "C02 - Go Speed Racer Go!\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwH8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T17:26:39.653Z",
+              "WhenOpened": "2024-06-14T02:43:25.158Z",
               "EditorCaption": ""
->>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
             }
           ]
         }

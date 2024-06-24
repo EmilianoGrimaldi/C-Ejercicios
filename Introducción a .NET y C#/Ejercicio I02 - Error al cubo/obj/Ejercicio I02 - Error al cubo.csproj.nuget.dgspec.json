@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emy\\source\\repos\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj": {}
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emy\\source\\repos\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\source\\repos\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj",
         "projectName": "Ejercicio I02 - Error al cubo",
-        "projectPath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I02 - Error al cubo\\obj\\",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I02 - Error al cubo\\Ejercicio I02 - Error al cubo.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I02 - Error al cubo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

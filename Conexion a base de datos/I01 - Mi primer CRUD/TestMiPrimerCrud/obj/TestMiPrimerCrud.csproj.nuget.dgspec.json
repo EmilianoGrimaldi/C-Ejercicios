@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\TestMiPrimerCrud\\TestMiPrimerCrud.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\EntidadesMiPrimerCrud\\EntidadesMiPrimerCrud.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\EntidadesMiPrimerCrud\\EntidadesMiPrimerCrud.csproj",
+        "projectName": "EntidadesMiPrimerCrud",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\EntidadesMiPrimerCrud\\EntidadesMiPrimerCrud.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\EntidadesMiPrimerCrud\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\TestMiPrimerCrud\\TestMiPrimerCrud.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\TestMiPrimerCrud\\TestMiPrimerCrud.csproj",
+        "projectName": "TestMiPrimerCrud",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\TestMiPrimerCrud\\TestMiPrimerCrud.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\TestMiPrimerCrud\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\EntidadesMiPrimerCrud\\EntidadesMiPrimerCrud.csproj": {
+                "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Conexion a base de datos\\I01 - Mi primer CRUD\\EntidadesMiPrimerCrud\\EntidadesMiPrimerCrud.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

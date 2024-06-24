@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KIeE/oXCcw5SqZDrz0l2fmd3DpMD9ZzPbSgUUoAzzD1YRjubGk+v9ZVvIN5olhUYto2N5SCkFr06Pl0Dh4qMpQ==",
+  "dgSpecHash": "d2jh9BfdtY4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I04 - Un número perfecto\\Ejercicio I04 - Un número perfecto.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I04 - Un número perfecto\\Ejercicio I04 - Un número perfecto.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

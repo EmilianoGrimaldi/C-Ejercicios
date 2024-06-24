@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Pruebas Unitarias\\PruebasUnitarias\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA296C32-6CC6-44D9-A2F0-A17C0C778474}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\pruebas unitarias\\pruebasunitarias\\entidades\\aritmetica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA296C32-6CC6-44D9-A2F0-A17C0C778474}|Entidades\\Entidades.csproj|solutionrelative:entidades\\aritmetica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D8CD95-C779-409D-AB21-D3C5908D7093}|PruebasUnitarias\\PruebasUnitarias.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\pruebas unitarias\\pruebasunitarias\\pruebasunitarias\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D8CD95-C779-409D-AB21-D3C5908D7093}|PruebasUnitarias\\PruebasUnitarias.csproj|solutionrelative:pruebasunitarias\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Aritmetica.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Pruebas Unitarias\\PruebasUnitarias\\Entidades\\Aritmetica.cs",
-              "RelativeDocumentMoniker": "Entidades\\Aritmetica.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Pruebas Unitarias\\PruebasUnitarias\\Entidades\\Aritmetica.cs",
-              "RelativeToolTip": "Entidades\\Aritmetica.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Pruebas Unitarias\\PruebasUnitarias\\PruebasUnitarias\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PruebasUnitarias\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Pruebas Unitarias\\PruebasUnitarias\\PruebasUnitarias\\UnitTest1.cs",
+              "RelativeToolTip": "PruebasUnitarias\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T22:50:56.681Z",
+              "WhenOpened": "2024-06-13T17:18:05.232Z",
               "EditorCaption": ""
             }
           ]

@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "ZS6ilGFUBfc=",
   "success": true,
   "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj",
-=======
-  "dgSpecHash": "g6jW1wtOTUg=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj",
->>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
   "expectedPackageFiles": [],
   "logs": []
 }

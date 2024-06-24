@@ -1,0 +1,13 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\bin\Debug\net6.0\EntidadesMiPrimerCrud.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\bin\Debug\net6.0\EntidadesMiPrimerCrud.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\bin\Debug\net6.0\EntidadesMiPrimerCrud.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\EntidadesMiPrimerCrud.csproj.AssemblyReference.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\EntidadesMiPrimerCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\EntidadesMiPrimerCrud.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\EntidadesMiPrimerCrud.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\EntidadesMiPrimerCrud.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\EntidadesMiPrimerCrud.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\EntidadesMiPrimerCrud.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\refint\EntidadesMiPrimerCrud.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\EntidadesMiPrimerCrud.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I01 - Mi primer CRUD\EntidadesMiPrimerCrud\obj\Debug\net6.0\ref\EntidadesMiPrimerCrud.dll

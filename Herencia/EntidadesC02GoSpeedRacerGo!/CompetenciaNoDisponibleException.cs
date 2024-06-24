@@ -41,7 +41,7 @@ namespace EntidadesC02GoSpeedRacerGo_
         public override string ToString()
         {
             StringBuilder sb = new();
-            sb.AppendLine($"Excepción en el método {0} de la clase {1}:");
+            sb.AppendLine($"Excepción en el método {nombreMetodo} de la clase {nombreClase}:");
             sb.AppendLine($"{Message}");
             sb.AppendLine($"{InnerException}\t");
 

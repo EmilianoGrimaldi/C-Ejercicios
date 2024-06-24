@@ -78,12 +78,6 @@ C:\Users\lauta\Desktop\Ejercicio\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vist
 C:\Users\lauta\Desktop\Ejercicio\EjemploDTGV\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
 C:\Users\lauta\Desktop\Ejercicio\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.pdb
 C:\Users\lauta\Desktop\Ejercicio\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\bin\Debug\net5.0-windows\Vista.exe
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\bin\Debug\net5.0-windows\Vista.deps.json
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\bin\Debug\net5.0-windows\Vista.dll
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\bin\Debug\net5.0-windows\Vista.pdb
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.FrmAlta.resources
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.FrmBiblioteca.resources
@@ -94,8 +88,3 @@ C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Est
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
 C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.sourcelink.json
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.dll
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\refint\Vista.dll
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.pdb
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
-C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Conexion a base de datos\I03_Esto_definitivamente_no_es_Steam\EjemploDTGV\Vista\obj\Debug\net5.0-windows\ref\Vista.dll

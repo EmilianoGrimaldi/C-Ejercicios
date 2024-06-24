@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dgSbC3oAAf/8vt6g8T5apXsfmFjMcUvUiWcVOh95rHxHICIuvMwRTLlbe8IBrD4dB8Sl9Qx/Uws5vbAzOYH2vA==",
+  "dgSpecHash": "DYdSlAVWejQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

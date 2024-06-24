@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\Entidades01\\Entidades01.csproj": {}
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\Entidades01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\Entidades01\\Entidades01.csproj": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\Entidades01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\Entidades01\\Entidades01.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\Entidades01.csproj",
         "projectName": "Entidades01",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\Entidades01\\Entidades01.csproj",
-        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\Entidades01\\obj\\",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\Entidades01.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\Entidades01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

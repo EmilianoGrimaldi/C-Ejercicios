@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OVKzr9L/o3q5cpAo4lG5jzbUjbjYTclzjeMgzvJKBKT4tEeZo/6CWNWMsL9SUQpV3VVzu9O0i+ibrALh8W3OkA==",
+  "dgSpecHash": "o04VTkhDP6M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I07 - Recibo de sueldo\\Ejercicio I07 - Recibo de sueldo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I07 - Recibo de sueldo\\Ejercicio I07 - Recibo de sueldo.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

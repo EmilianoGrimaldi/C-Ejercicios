@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emy\\source\\repos\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj": {}
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emy\\source\\repos\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emy\\source\\repos\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj",
         "projectName": "Ejercicio I06 - Años bisiestos",
-        "projectPath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj",
-        "packagesPath": "C:\\Users\\Emy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I06 - Años bisiestos\\obj\\",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I06 - Años bisiestos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,30 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

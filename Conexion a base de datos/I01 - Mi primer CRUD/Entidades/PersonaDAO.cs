@@ -123,7 +123,7 @@ namespace Entidades
             {
                 command.Parameters.Clear();
                 connection.Open();
-                command.CommandText = $"UPDATE Persona SET NOMBRE = (@Nombre) WHERE ID = @ID";
+                command.CommandText = $"UPDATE Persona SET NOMBRE = @Nombre WHERE ID = @ID";
                 command.Parameters.AddWithValue("@Nombre", nuevoNombre);
                 command.Parameters.AddWithValue("@ID", id);
             }

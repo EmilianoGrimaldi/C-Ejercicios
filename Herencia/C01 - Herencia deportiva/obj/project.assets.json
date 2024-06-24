@@ -32,19 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C01 - Herencia deportiva\\C01 - Herencia deportiva.csproj",
       "projectName": "C01 - Herencia deportiva",
       "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C01 - Herencia deportiva\\C01 - Herencia deportiva.csproj",
       "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\C01 - Herencia deportiva\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C01 - Herencia deportiva\\C01 - Herencia deportiva.csproj",
-      "projectName": "C01 - Herencia deportiva",
-      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C01 - Herencia deportiva\\C01 - Herencia deportiva.csproj",
-      "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\C01 - Herencia deportiva\\obj\\",
->>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,13 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-<<<<<<< HEAD
             "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj": {
               "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj"
-=======
-            "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj": {
-              "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\HerenciaDeportivaEntidades\\HerenciaDeportivaEntidades.csproj"
->>>>>>> 4313b564aff82f703cd436d74fd2c5efdf26dc72
             }
           }
         }

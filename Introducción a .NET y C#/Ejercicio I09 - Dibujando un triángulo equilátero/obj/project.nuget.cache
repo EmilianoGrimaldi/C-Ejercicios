@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xuu6jeUbMDnTPyOirY9bqloMmBO5XgxUhtmdON1pfkdzv/04EgAsZmi7w3JNL6JDBIqVZJJsSXSmGRJ07xUPdw==",
+  "dgSpecHash": "oTfdUiArOdE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emy\\source\\repos\\Ejercicio I09 - Dibujando un triángulo equilátero\\Ejercicio I09 - Dibujando un triángulo equilátero.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Emy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Introducción a .NET y C#\\Ejercicio I09 - Dibujando un triángulo equilátero\\Ejercicio I09 - Dibujando un triángulo equilátero.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj": {}
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj": {
+    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj",
         "projectName": "EntidadesC02GoSpeedRacerGo!",
-        "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj",
-        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\obj\\",
+        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\EntidadesC02GoSpeedRacerGo!.csproj",
+        "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Herencia\\EntidadesC02GoSpeedRacerGo!\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Emi\\.nuget\\packages\\": {}
+    "C:\\Users\\grima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\I02 - Atrapame si puedes\\I02 - Atrapame si puedes.csproj",
+      "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\I02 - Atrapame si puedes\\I02 - Atrapame si puedes.csproj",
       "projectName": "I02 - Atrapame si puedes",
-      "projectPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\I02 - Atrapame si puedes\\I02 - Atrapame si puedes.csproj",
-      "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emi\\Desktop\\C-Ejercicios\\Excepciones\\I02 - Atrapame si puedes\\obj\\",
+      "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\I02 - Atrapame si puedes\\I02 - Atrapame si puedes.csproj",
+      "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Excepciones\\I02 - Atrapame si puedes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

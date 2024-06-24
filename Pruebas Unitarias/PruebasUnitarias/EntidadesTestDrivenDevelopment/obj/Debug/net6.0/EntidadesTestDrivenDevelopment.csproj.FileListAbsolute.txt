@@ -1,0 +1,12 @@
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\bin\Debug\net6.0\EntidadesTestDrivenDevelopment.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\bin\Debug\net6.0\EntidadesTestDrivenDevelopment.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\bin\Debug\net6.0\EntidadesTestDrivenDevelopment.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\EntidadesTestDrivenDevelopment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\EntidadesTestDrivenDevelopment.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\EntidadesTestDrivenDevelopment.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\EntidadesTestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\EntidadesTestDrivenDevelopment.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\EntidadesTestDrivenDevelopment.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\refint\EntidadesTestDrivenDevelopment.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\EntidadesTestDrivenDevelopment.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Pruebas Unitarias\PruebasUnitarias\EntidadesTestDrivenDevelopment\obj\Debug\net6.0\ref\EntidadesTestDrivenDevelopment.dll

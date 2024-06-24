@@ -10,3 +10,15 @@ C:\Users\Emi\Desktop\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\refint\EntidadesC02GoSpeedRacerGo!.dll
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.pdb
 C:\Users\Emi\Desktop\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\ref\EntidadesC02GoSpeedRacerGo!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\bin\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.deps.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\bin\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\bin\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.AssemblyInfoInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.AssemblyInfo.cs
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.csproj.CoreCompileInputs.cache
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.sourcelink.json
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\refint\EntidadesC02GoSpeedRacerGo!.dll
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\EntidadesC02GoSpeedRacerGo!.pdb
+C:\Users\grima\OneDrive\Escritorio\C-Ejercicios\Herencia\EntidadesC02GoSpeedRacerGo!\obj\Debug\net6.0\ref\EntidadesC02GoSpeedRacerGo!.dll
