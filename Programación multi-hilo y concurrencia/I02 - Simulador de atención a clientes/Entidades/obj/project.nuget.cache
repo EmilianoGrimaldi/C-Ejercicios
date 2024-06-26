@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9A301xcqG0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I02 - Simulador de atención a clientes\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grima\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\grima\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

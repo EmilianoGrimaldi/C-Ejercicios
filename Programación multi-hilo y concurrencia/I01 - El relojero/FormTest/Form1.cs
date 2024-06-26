@@ -1,10 +1,11 @@
+using Entidades;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace FormTest
 {
     public partial class Form1 : Form
     {
-        CancellationTokenSource cts;
+        Temporizador temporizador;
         public Form1()
         {
             InitializeComponent();
@@ -16,7 +17,9 @@ namespace FormTest
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ActualizarHoraConHilos();
+            temporizador = new(1000);
+            temporizador.TiempoCumplido += ()=> AsignarHora(lbl_Hora);
+            //ActualizarHoraConHilos();
         }
 
         //private void AsignarHora(object sender, EventArgs e)
@@ -26,27 +29,36 @@ namespace FormTest
         //}
         private void ActualizarHoraConHilos()
         {
-            Task task = Task.Run(() => ActualizarHora());
+            Task task = Task.Run(ActualizarHora);
         }
         private void ActualizarHora()
         {
             do
             {
-                AsignarHora();
-                Thread.Sleep(1000);
+                AsignarHora(lbl_Hora);
             } while (true);
         }
-        private void AsignarHora()
+        private void AsignarHora(Label label)
         {
-            if (lbl_Hora.InvokeRequired)
+            if (InvokeRequired)
             {
-                Action delegadoAsignarHora = AsignarHora;
-                lbl_Hora.Invoke(delegadoAsignarHora);
+                Action<Label> delegadoAsignarHora = AsignarHora;
+                lbl_Hora.Invoke(delegadoAsignarHora, label);
             }
             else
             {
-                lbl_Hora.Text = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
+                label.Text = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
             }
+        }
+
+        private void btn_Iniciar_Click(object sender, EventArgs e)
+        {
+            temporizador.IniciarTemporizador();
+        }
+
+        private void btn_Detener_Click(object sender, EventArgs e)
+        {
+            temporizador.DetenerTemporizador();          
         }
 
         //private void ActualizarHoraTimer()

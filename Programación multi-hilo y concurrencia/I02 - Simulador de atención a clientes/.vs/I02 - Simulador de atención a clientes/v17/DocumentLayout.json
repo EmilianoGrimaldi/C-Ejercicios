@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I02 - Simulador de atenci\u00F3n a clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0181165E-81A5-4FE4-9792-DEFC16E6A3DE}|Test\\Test.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\programaci\u00F3n multi-hilo y concurrencia\\i02 - simulador de atenci\u00F3n a clientes\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0181165E-81A5-4FE4-9792-DEFC16E6A3DE}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A306A452-494A-4BA2-A6DB-AFF652ADEB4A}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\programaci\u00F3n multi-hilo y concurrencia\\i02 - simulador de atenci\u00F3n a clientes\\entidades\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A306A452-494A-4BA2-A6DB-AFF652ADEB4A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A306A452-494A-4BA2-A6DB-AFF652ADEB4A}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\programaci\u00F3n multi-hilo y concurrencia\\i02 - simulador de atenci\u00F3n a clientes\\entidades\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A306A452-494A-4BA2-A6DB-AFF652ADEB4A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caja.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I02 - Simulador de atenci\u00F3n a clientes\\Entidades\\Caja.cs",
+              "RelativeDocumentMoniker": "Entidades\\Caja.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I02 - Simulador de atenci\u00F3n a clientes\\Entidades\\Caja.cs",
+              "RelativeToolTip": "Entidades\\Caja.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:59:46.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I02 - Simulador de atenci\u00F3n a clientes\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I02 - Simulador de atenci\u00F3n a clientes\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:50:14.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I02 - Simulador de atenci\u00F3n a clientes\\Entidades\\Negocio.cs",
+              "RelativeDocumentMoniker": "Entidades\\Negocio.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I02 - Simulador de atenci\u00F3n a clientes\\Entidades\\Negocio.cs",
+              "RelativeToolTip": "Entidades\\Negocio.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:00:08.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

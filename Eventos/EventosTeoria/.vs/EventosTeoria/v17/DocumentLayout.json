@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27786DA9-6E6A-48FF-86C1-E2AF7EDA2235}|Test\\Test.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\eventos\\eventosteoria\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27786DA9-6E6A-48FF-86C1-E2AF7EDA2235}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C300B056-65C1-4232-90A7-F029784D6214}|FormPruebas\\FormPruebas.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\eventos\\eventosteoria\\formpruebas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C300B056-65C1-4232-90A7-F029784D6214}|FormPruebas\\FormPruebas.csproj|solutionrelative:formpruebas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F865347-4325-4C53-A143-EF3175A664C3}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\eventos\\eventosteoria\\entidades\\infotiempoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F865347-4325-4C53-A143-EF3175A664C3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\infotiempoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F865347-4325-4C53-A143-EF3175A664C3}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\eventos\\eventosteoria\\entidades\\reloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F865347-4325-4C53-A143-EF3175A664C3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\reloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reloj.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\Entidades\\Reloj.cs",
+              "RelativeDocumentMoniker": "Entidades\\Reloj.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\Entidades\\Reloj.cs",
+              "RelativeToolTip": "Entidades\\Reloj.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:55:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoTiempoEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\Entidades\\InfoTiempoEventArgs.cs",
+              "RelativeDocumentMoniker": "Entidades\\InfoTiempoEventArgs.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\Entidades\\InfoTiempoEventArgs.cs",
+              "RelativeToolTip": "Entidades\\InfoTiempoEventArgs.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:16:45.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:54:13.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\FormPruebas\\Form1.cs",
+              "RelativeDocumentMoniker": "FormPruebas\\Form1.cs",
+              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Eventos\\EventosTeoria\\FormPruebas\\Form1.cs",
+              "RelativeToolTip": "FormPruebas\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:03:29.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
