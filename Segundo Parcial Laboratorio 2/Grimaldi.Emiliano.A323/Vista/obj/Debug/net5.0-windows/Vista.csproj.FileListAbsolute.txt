@@ -1,0 +1,138 @@
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.FrmBacklog.resources
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\lauta\Desktop\SP LAB2 Q2\20211123\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.FrmBacklog.resources
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\SP LAB2 Q2\Cascara\20211123\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.FrmBacklog.resources
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\mer-v\source\repos\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.FrmBacklog.resources
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\refint\Vista.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Lista.De.Series\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.FrmBacklog.resources
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\refint\Vista.dll
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
