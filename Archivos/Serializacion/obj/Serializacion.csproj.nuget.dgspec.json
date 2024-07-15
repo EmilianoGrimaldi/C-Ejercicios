@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj": {}
+    "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj": {
+    "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj",
+        "projectUniqueName": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj",
         "projectName": "Serializacion",
-        "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj",
+        "projectPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj",
         "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\obj\\",
+        "outputPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",

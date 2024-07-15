@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\EntidadesArchivo.csproj",
+      "projectUniqueName": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\EntidadesArchivo.csproj",
       "projectName": "EntidadesArchivo",
-      "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\EntidadesArchivo.csproj",
+      "projectPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\EntidadesArchivo.csproj",
       "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\obj\\",
+      "outputPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Teoria\\Teoria.csproj",
+      "projectUniqueName": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Teoria\\Teoria.csproj",
       "projectName": "Teoria",
-      "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Teoria\\Teoria.csproj",
+      "projectPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Teoria\\Teoria.csproj",
       "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Teoria\\obj\\",
+      "outputPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Teoria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,11 +69,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\EntidadesArchivo.csproj": {
-              "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\EntidadesArchivo.csproj"
+            "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\EntidadesArchivo.csproj": {
+              "projectPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\EntidadesArchivo.csproj"
             },
-            "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj": {
-              "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj"
+            "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj": {
+              "projectPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\Serializacion.csproj"
             }
           }
         }

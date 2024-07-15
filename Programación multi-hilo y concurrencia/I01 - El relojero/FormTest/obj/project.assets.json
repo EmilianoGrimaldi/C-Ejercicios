@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\FormTest.csproj",
+      "projectUniqueName": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\FormTest.csproj",
       "projectName": "FormTest",
-      "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\FormTest.csproj",
+      "projectPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\FormTest.csproj",
       "packagesPath": "C:\\Users\\grima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\obj\\",
+      "outputPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\Entidades\\Entidades.csproj"
+            "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programación multi-hilo y concurrencia\\I01 - El relojero\\Entidades\\Entidades.csproj"
             }
           }
         }

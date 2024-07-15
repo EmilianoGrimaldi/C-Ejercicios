@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\",
+  "WorkspaceRootPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6B931A4-8B17-4891-ADAF-4E5B12A2C51B}|Serializacion\\Serializacion.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\serializacion\\serilizadoraxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6B931A4-8B17-4891-ADAF-4E5B12A2C51B}|Serializacion\\Serializacion.csproj|solutionrelative:serializacion\\serilizadoraxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\entidadesarchivo\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|solutionrelative:entidadesarchivo\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6B931A4-8B17-4891-ADAF-4E5B12A2C51B}|Serializacion\\Serializacion.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\serializacion\\serializacionjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6B931A4-8B17-4891-ADAF-4E5B12A2C51B}|Serializacion\\Serializacion.csproj|c:\\users\\grima\\downloads\\c-ejercicios\\archivos\\serializacion\\serializacionjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6B931A4-8B17-4891-ADAF-4E5B12A2C51B}|Serializacion\\Serializacion.csproj|solutionrelative:serializacion\\serializacionjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A2C8D4-4E6E-4EC4-8529-65095E3254BE}|Teoria\\Teoria.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A2C8D4-4E6E-4EC4-8529-65095E3254BE}|Teoria\\Teoria.csproj|solutionrelative:teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6B931A4-8B17-4891-ADAF-4E5B12A2C51B}|Serializacion\\Serializacion.csproj|c:\\users\\grima\\downloads\\c-ejercicios\\archivos\\serializacion\\serilizadoraxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B931A4-8B17-4891-ADAF-4E5B12A2C51B}|Serializacion\\Serializacion.csproj|solutionrelative:serializacion\\serilizadoraxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\archivos\\entidadesarchivo\\archivodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|c:\\users\\grima\\downloads\\c-ejercicios\\archivos\\entidadesarchivo\\archivodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|solutionrelative:entidadesarchivo\\archivodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|c:\\users\\grima\\downloads\\c-ejercicios\\archivos\\entidadesarchivo\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C966686-F175-4769-993D-662983121D3B}|EntidadesArchivo\\EntidadesArchivo.csproj|solutionrelative:entidadesarchivo\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A2C8D4-4E6E-4EC4-8529-65095E3254BE}|Teoria\\Teoria.csproj|c:\\users\\grima\\downloads\\c-ejercicios\\archivos\\teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A2C8D4-4E6E-4EC4-8529-65095E3254BE}|Teoria\\Teoria.csproj|solutionrelative:teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,63 +34,64 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SerializacionJSON.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\SerializacionJSON.cs",
-              "RelativeDocumentMoniker": "Serializacion\\SerializacionJSON.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\SerializacionJSON.cs",
-              "RelativeToolTip": "Serializacion\\SerializacionJSON.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T18:08:05.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SerilizadoraXML.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\SerilizadoraXML.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\SerilizadoraXML.cs",
               "RelativeDocumentMoniker": "Serializacion\\SerilizadoraXML.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Serializacion\\SerilizadoraXML.cs",
+              "ToolTip": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\SerilizadoraXML.cs",
               "RelativeToolTip": "Serializacion\\SerilizadoraXML.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowBUAAAARAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwEIAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T18:27:27.644Z",
+              "WhenOpened": "2024-07-03T01:05:13.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Archivo.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\Archivo.cs",
-              "RelativeDocumentMoniker": "EntidadesArchivo\\Archivo.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\Archivo.cs",
-              "RelativeToolTip": "EntidadesArchivo\\Archivo.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwDIAAAAuAAAA",
+              "DocumentIndex": 0,
+              "Title": "SerializacionJSON.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\SerializacionJSON.cs",
+              "RelativeDocumentMoniker": "Serializacion\\SerializacionJSON.cs",
+              "ToolTip": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Serializacion\\SerializacionJSON.cs",
+              "RelativeToolTip": "Serializacion\\SerializacionJSON.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwCsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T17:48:44.215Z",
+              "WhenOpened": "2024-06-09T18:08:05.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\Archivo.cs",
+              "RelativeDocumentMoniker": "EntidadesArchivo\\Archivo.cs",
+              "ToolTip": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\Archivo.cs",
+              "RelativeToolTip": "EntidadesArchivo\\Archivo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:48:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArchivoDos.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\ArchivoDos.cs",
+              "RelativeDocumentMoniker": "EntidadesArchivo\\ArchivoDos.cs",
+              "ToolTip": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\EntidadesArchivo\\ArchivoDos.cs",
+              "RelativeToolTip": "EntidadesArchivo\\ArchivoDos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:48:44.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ArchivoDos.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\ArchivoDos.cs",
-              "RelativeDocumentMoniker": "EntidadesArchivo\\ArchivoDos.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\EntidadesArchivo\\ArchivoDos.cs",
-              "RelativeToolTip": "EntidadesArchivo\\ArchivoDos.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowC8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T17:48:44.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Teoria\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Teoria\\Program.cs",
               "RelativeDocumentMoniker": "Teoria\\Program.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Archivos\\Teoria\\Program.cs",
+              "ToolTip": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Archivos\\Teoria\\Program.cs",
               "RelativeToolTip": "Teoria\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAwwB4AAABcAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T11:37:01.091Z"
             }

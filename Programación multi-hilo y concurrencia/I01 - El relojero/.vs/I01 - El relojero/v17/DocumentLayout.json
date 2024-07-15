@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\",
+  "WorkspaceRootPath": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B3981C3-A52B-48A3-8EED-946E9AD17472}|Entidades\\Entidades.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\programaci\u00F3n multi-hilo y concurrencia\\i01 - el relojero\\entidades\\temporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B3981C3-A52B-48A3-8EED-946E9AD17472}|Entidades\\Entidades.csproj|c:\\users\\grima\\downloads\\c-ejercicios\\programaci\u00F3n multi-hilo y concurrencia\\i01 - el relojero\\entidades\\temporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B3981C3-A52B-48A3-8EED-946E9AD17472}|Entidades\\Entidades.csproj|solutionrelative:entidades\\temporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4F41756-C956-42E0-A08C-DBC6DB5827FD}|FormTest\\FormTest.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\programaci\u00F3n multi-hilo y concurrencia\\i01 - el relojero\\formtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4F41756-C956-42E0-A08C-DBC6DB5827FD}|FormTest\\FormTest.csproj|c:\\users\\grima\\downloads\\c-ejercicios\\programaci\u00F3n multi-hilo y concurrencia\\i01 - el relojero\\formtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F41756-C956-42E0-A08C-DBC6DB5827FD}|FormTest\\FormTest.csproj|solutionrelative:formtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4F41756-C956-42E0-A08C-DBC6DB5827FD}|FormTest\\FormTest.csproj|c:\\users\\grima\\onedrive\\escritorio\\c-ejercicios\\programaci\u00F3n multi-hilo y concurrencia\\i01 - el relojero\\formtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B4F41756-C956-42E0-A08C-DBC6DB5827FD}|FormTest\\FormTest.csproj|C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\formtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B4F41756-C956-42E0-A08C-DBC6DB5827FD}|FormTest\\FormTest.csproj|solutionrelative:formtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Temporizador.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\Entidades\\Temporizador.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\Entidades\\Temporizador.cs",
               "RelativeDocumentMoniker": "Entidades\\Temporizador.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\Entidades\\Temporizador.cs",
+              "ToolTip": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\Entidades\\Temporizador.cs",
               "RelativeToolTip": "Entidades\\Temporizador.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAcwCMAAABDAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwCMAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T14:51:31.741Z",
               "EditorCaption": ""
@@ -41,26 +41,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\Form1.cs",
               "RelativeDocumentMoniker": "FormTest\\Form1.cs",
               "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormTest\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T12:35:09.399Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-25T12:35:09.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\Form1.cs",
               "RelativeDocumentMoniker": "FormTest\\Form1.cs",
-              "ToolTip": "C:\\Users\\grima\\OneDrive\\Escritorio\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\grima\\Downloads\\C-Ejercicios\\Programaci\u00F3n multi-hilo y concurrencia\\I01 - El relojero\\FormTest\\Form1.cs",
               "RelativeToolTip": "FormTest\\Form1.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAIwB8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T12:31:56.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T12:31:56.745Z"
             }
           ]
         }

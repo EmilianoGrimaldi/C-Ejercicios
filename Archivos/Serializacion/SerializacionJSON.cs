@@ -19,12 +19,13 @@ namespace Serializacion
 
         public static void Escribir(T m)
         {
-            string completa = ruta + @"\Serializadora.json";
+            //string completa = ruta + @"\Serializadora.json";
+            string completa = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "Serializadora.json");
             try
             {
-                if (!Directory.Exists(ruta))
+                if (!Directory.Exists(completa))
                 {
-                    Directory.CreateDirectory(ruta);
+                    Directory.CreateDirectory(completa);
                 }
                 string objetoJson = JsonSerializer.Serialize(m);
                 File.WriteAllText(completa, objetoJson);
@@ -38,12 +39,13 @@ namespace Serializacion
 
         public static T Leer()
         {
-            string completa = ruta + @"\Serializadora.json";
+            //string completa = ruta + @"\Serializadora.json";
+            string completa = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "Serializadora.json");
             try
             {
-                if (!Directory.Exists(ruta))
+                if (!Directory.Exists(completa))
                 {
-                    Directory.CreateDirectory(ruta);
+                    Directory.CreateDirectory(completa);
                 }
                 string objetoJson = File.ReadAllText(completa);
                 return JsonSerializer.Deserialize<T>(objetoJson);
