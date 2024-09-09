@@ -1,4 +1,5 @@
-#Programacion 2 - C#
+Programacion 2 - C#
+
 Tema 01 
 - Introducción a .NET y C#
 Tema 02
